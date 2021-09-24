@@ -15,103 +15,91 @@ namespace ME03.GamingStore
 
             decimal avaliableMoney = decimal.Parse(Console.ReadLine());
             decimal spentMoney = 0.0m;
-            string input = Console.ReadLine();
 
-            while (input != "Game Time")
+            while (true)
             {
-                if (avaliableMoney <= 0)
-                {
-                    Console.WriteLine("Out of money!");
-                    return;
-                }
+                string input = Console.ReadLine(); 
 
-                if (input == "OutFall 4" || input == "CS:OG" || input == "Zplinter Zell"
-                    || input == "Honored 2" || input == "RoverWatch" || input == "RoverWatch Origins Edition")
-                {
-                    switch (input)
-                    {
-                        case "OutFall 4":
-                            if (avaliableMoney >= OUTFALL_FOUR_PRICE)
-                            {
-                                Console.WriteLine($"Bought {input}");
-                                avaliableMoney -= OUTFALL_FOUR_PRICE;
-                                spentMoney += OUTFALL_FOUR_PRICE;
-                            }
-                            else
-                            {
-                                Console.WriteLine("Too Expensive");
-                            }
-                            break;
-                        case "CS:OG":
-                            if (avaliableMoney >= CS_OG_PRICE)
-                            {
-                                Console.WriteLine($"Bought {input}");
-                                avaliableMoney -= CS_OG_PRICE;
-                                spentMoney += CS_OG_PRICE;
-                            }
-                            else
-                            {
-                                Console.WriteLine("Too Expensive");
-                            }
-                            break;
-                        case "Zplinter Zell":
-                            if (avaliableMoney >= ZPLINTER_ZELL_PRICE)
-                            {
-                                Console.WriteLine($"Bought {input}");
-                                avaliableMoney -= ZPLINTER_ZELL_PRICE;
-                                spentMoney += ZPLINTER_ZELL_PRICE;
-                            }
-                            else
-                            {
-                                Console.WriteLine("Too Expensive");
-                            }
-                            break;
-                        case "Honored 2":
-                            if (avaliableMoney >= HONORED_TWO_PRICE)
-                            {
-                                Console.WriteLine($"Bought {input}");
-                                avaliableMoney -= HONORED_TWO_PRICE;
-                                spentMoney += HONORED_TWO_PRICE;
-                            }
-                            else
-                            {
-                                Console.WriteLine("Too Expensive");
-                            }
-                            break;
-                        case "RoverWatch":
-                            if (avaliableMoney >= ROVERWATCH_PRICE)
-                            {
-                                Console.WriteLine($"Bought {input}");
-                                avaliableMoney -= ROVERWATCH_PRICE;
-                                spentMoney += ROVERWATCH_PRICE;
-                            }
-                            else
-                            {
-                                Console.WriteLine("Too Expensive");
-                            }
-                            break;
-                        case "RoverWatch Origins Edition":
-                            if (avaliableMoney >= ROVERWATCH_ORIGIN_PRICE)
-                            {
-                                Console.WriteLine($"Bought {input}");
-                                avaliableMoney -= ROVERWATCH_ORIGIN_PRICE;
-                                spentMoney += ROVERWATCH_ORIGIN_PRICE;
-                            }
-                            else
-                            {
-                                Console.WriteLine("Too Expensive");
-                            }
-                            break;
-                    }
-                }
-                else
-                {
-                    Console.WriteLine("Not Found");
-                    input = Console.ReadLine();
-                    continue;
-                }
+                if (input == "Game Time") { break; }
 
-                input = Console.ReadLine();
+                switch (input)
+                {
+                    case "OutFall 4":
+                        if (avaliableMoney >= OUTFALL_FOUR_PRICE)
+                        {
+                            Console.WriteLine($"Bought {input}");
+                            avaliableMoney -= OUTFALL_FOUR_PRICE;
+                            spentMoney += OUTFALL_FOUR_PRICE;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Too Expensive");
+                        }
+                        break;
+                    case "CS: OG":
+                        if (avaliableMoney >= CS_OG_PRICE)
+                        {
+                            Console.WriteLine($"Bought {input}");
+                            avaliableMoney -= CS_OG_PRICE;
+                            spentMoney += CS_OG_PRICE;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Too Expensive");
+                        }
+                        break;
+                    case "Zplinter Zell":
+                        if (avaliableMoney >= ZPLINTER_ZELL_PRICE)
+                        {
+                            Console.WriteLine($"Bought {input}");
+                            avaliableMoney -= ZPLINTER_ZELL_PRICE;
+                            spentMoney += ZPLINTER_ZELL_PRICE;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Too Expensive");
+                        }
+                        break;
+                    case "Honored 2":
+                        if (avaliableMoney >= HONORED_TWO_PRICE)
+                        {
+                            Console.WriteLine($"Bought {input}");
+                            avaliableMoney -= HONORED_TWO_PRICE;
+                            spentMoney += HONORED_TWO_PRICE;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Too Expensive");
+                        }
+                        break;
+                    case "RoverWatch":
+                        if (avaliableMoney >= ROVERWATCH_PRICE)
+                        {
+                            Console.WriteLine($"Bought {input}");
+                            avaliableMoney -= ROVERWATCH_PRICE;
+                            spentMoney += ROVERWATCH_PRICE;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Too Expensive");
+                        }
+                        break;
+                    case "RoverWatch Origins Edition":
+                        if (avaliableMoney >= ROVERWATCH_ORIGIN_PRICE)
+                        {
+                            Console.WriteLine($"Bought {input}");
+                            avaliableMoney -= ROVERWATCH_ORIGIN_PRICE;
+                            spentMoney += ROVERWATCH_ORIGIN_PRICE;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Too Expensive");
+                        }
+                        break;
+                    default:
+                        Console.WriteLine("Not Found");
+                        break;
+                }
             }
 
             if (avaliableMoney <= 0)

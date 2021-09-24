@@ -15,6 +15,10 @@ namespace ME05.Messages
             {
                 offset = ((mainDigit - 2) * 3) + 1;
             }
+            else if (mainDigit == 0)
+            {
+                return ' ';
+            }
             else
             {
                 offset = (mainDigit - 2) * 3;
