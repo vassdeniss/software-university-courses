@@ -9,38 +9,29 @@ namespace ME06.BalancedBrackets
             int n = int.Parse(Console.ReadLine());
             bool closingBracket = false;
             bool openingBracket = false;
-            bool balanced = true;
+            string result = "BALANCED";
 
             for (int i = 0; i < n; i++)
             {
-                if (openingBracket && closingBracket)
-                {
-                    openingBracket = false;
-                    closingBracket = false;
-                }
-
                 string input = Console.ReadLine();
 
                 if (input == "(")
                 {
-                    if (openingBracket) balanced = false;
+                    if (openingBracket) result = "UNBALANCED";
                     openingBracket = true;
+                    closingBracket = false;
                 }
                 else if (input == ")")
                 {
-                    if (!openingBracket) balanced = false;
+                    if (!openingBracket) result = "UNBALANCED";
+                    if (closingBracket) result = "UNBALANCED";
+                    openingBracket = false;
                     closingBracket = true;
                 }
             }
 
-            if (balanced)
-            {
-                Console.WriteLine("BALANCED");
-            }
-            else
-            {
-                Console.WriteLine("UNBALANCED");
-            }
+            if (openingBracket) result = "UNBALANCED";
+            Console.WriteLine(result);
         }
     }
 }
