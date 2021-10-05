@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace E10.KaminoFactory
+namespace E09.KaminoFactory
 {
     class Program
     {
