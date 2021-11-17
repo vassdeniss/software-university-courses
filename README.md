@@ -21,7 +21,7 @@ Repository filled with every (personal) solution for every problem from the cour
 * [17. Associative Arrays - Exercise - 05/11/2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/17.AssociativeArraysExercise) 
 * [18. Text Processing - Lab - 11/11/2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/18.TextProcessing) 
 * [19. Text Processing - Exercise - 12/11/2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/19.TextProcessingExercise) 
-* [More Exercises (collected in one place from every topic)](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/MoreExercises) 
+* [More Exercises](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/MoreExercises) 
 
 ## :heart: Support
 Please make sure to star this repository to show your support <3
