@@ -24,6 +24,7 @@ Repository filled with every (personal) solution for every problem from the cour
 * [20. Regular Expressions - Lab - 17/11/2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/20.RegularExpressions)
 * [21. Regular Expressions - Exercise - 19/11/2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/21.RegularExpressionsExercise)
 * [22. Final Exam Preparation - Part One - 24/11/2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/22.FinalExamPreparationOne)
+* [23. Final Exam Preparation - Part Two - 26/11/2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/23.FinalExamPreparationTwo)
 * [More Exercises](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/MoreExercises) 
 
 ## :heart: Support
