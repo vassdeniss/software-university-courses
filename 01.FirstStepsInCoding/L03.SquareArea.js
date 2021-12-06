@@ -3,4 +3,3 @@ function Main(numString) {
     let area = num * num;
     console.log(area);
 }
-Main([ "5" ]);

@@ -10,4 +10,3 @@ function Main() {
     console.log(9);
     console.log(10);
 }
-Main();

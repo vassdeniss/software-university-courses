@@ -7,4 +7,3 @@ function Main(input) {
     console.log(`The final price is: ${total} lv.`);
     console.log(`The discount is: ${discount} lv.`);
 }
-Main(["500.23"]);

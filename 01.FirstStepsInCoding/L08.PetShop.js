@@ -10,4 +10,3 @@ function Main(input) {
 
     console.log(`${totalCatFoodPrice + totalDogFoodPrice} lv.`);
 }
-Main(["5", "4"]);
