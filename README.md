@@ -7,6 +7,7 @@ Repository filled with every (personal) solution for every problem from the cour
 * [03. Conditional Statements - Lab](https://github.com/vassdeniss/softuni-programming-basics-js-november-2021-solutions/tree/master/03.ConditionalStatements)
 * [04. Conditional Statements - Exercise](https://github.com/vassdeniss/softuni-programming-basics-js-november-2021-solutions/tree/master/04.ConditionalStatementsExercise)
 * [05. Advanced Conditional Statements - Lab](https://github.com/vassdeniss/softuni-programming-basics-js-november-2021-solutions/tree/master/05.AdvancedConditionalStatements)
+* [06. Advanced Conditional Statements - Exercise](https://github.com/vassdeniss/softuni-programming-basics-js-november-2021-solutions/tree/master/06.AdvancedConditionalStatementsExercise)
 <!--
 * [More Exercises](https://github.com/vassdeniss/softuni-programming-basics-cs-july-solutions/tree/master/MoreExercises) 
 -->
