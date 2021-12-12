@@ -9,6 +9,7 @@ Repository filled with every (personal) solution for every problem from the cour
 * [05. Advanced Conditional Statements - Lab](https://github.com/vassdeniss/softuni-programming-basics-js-november-2021-solutions/tree/master/05.AdvancedConditionalStatements)
 * [06. Advanced Conditional Statements - Exercise](https://github.com/vassdeniss/softuni-programming-basics-js-november-2021-solutions/tree/master/06.AdvancedConditionalStatementsExercise)
 * [07. For Loops - Lab](https://github.com/vassdeniss/softuni-programming-basics-js-november-2021-solutions/tree/master/07.ForLoops)
+* [08. For Loops - Exercise](https://github.com/vassdeniss/softuni-programming-basics-js-november-2021-solutions/tree/master/08.ForLoopsExercise)
 <!--
 * [More Exercises](https://github.com/vassdeniss/softuni-programming-basics-cs-july-solutions/tree/master/MoreExercises) 
 -->
