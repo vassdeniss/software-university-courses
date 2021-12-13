@@ -11,6 +11,7 @@ Repository filled with every (personal) solution for every problem from the cour
 * [07. For Loops - Lab](https://github.com/vassdeniss/softuni-js-basics-november-2021-solutions/tree/master/07.ForLoops)
 * [08. For Loops - Exercise](https://github.com/vassdeniss/softuni-js-basics-november-2021-solutions/tree/master/08.ForLoopsExercise)
 * [09. While Loops - Lab](https://github.com/vassdeniss/softuni-js-basics-november-2021-solutions/tree/master/09.WhileLoops)
+* [10. While Loops - Exercise](https://github.com/vassdeniss/softuni-js-basics-november-2021-solutions/tree/master/10.WhileLoopsExercise)
 <!--
 * [More Exercises](https://github.com/vassdeniss/softuni-programming-basics-cs-july-solutions/tree/master/MoreExercises) 
 -->
