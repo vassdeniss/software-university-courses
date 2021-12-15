@@ -1,4 +1,4 @@
-# :mortar_board: Software University - Programming Basics with JS - November 2021 Solutions Repository
+# :mortar_board: Software University - JavaScript Basics - November 2021 Solutions Repository
 Repository filled with every (personal) solution for every problem from the course. 
 
 ## :orange_book: Contents 
@@ -12,6 +12,7 @@ Repository filled with every (personal) solution for every problem from the cour
 * [08. For Loops - Exercise](https://github.com/vassdeniss/softuni-js-basics-november-2021-solutions/tree/master/08.ForLoopsExercise)
 * [09. While Loops - Lab](https://github.com/vassdeniss/softuni-js-basics-november-2021-solutions/tree/master/09.WhileLoops)
 * [10. While Loops - Exercise](https://github.com/vassdeniss/softuni-js-basics-november-2021-solutions/tree/master/10.WhileLoopsExercise)
+* [11. Nested Loops - Lab](https://github.com/vassdeniss/softuni-js-basics-november-2021-solutions/tree/master/11.NestedLoops)
 <!--
 * [More Exercises](https://github.com/vassdeniss/softuni-programming-basics-cs-july-solutions/tree/master/MoreExercises) 
 -->
