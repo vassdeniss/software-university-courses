@@ -13,6 +13,7 @@ Repository filled with every (personal) solution for every problem from the cour
 * [09. While Loops - Lab](https://github.com/vassdeniss/softuni-js-basics-november-2021-solutions/tree/master/09.WhileLoops)
 * [10. While Loops - Exercise](https://github.com/vassdeniss/softuni-js-basics-november-2021-solutions/tree/master/10.WhileLoopsExercise)
 * [11. Nested Loops - Lab](https://github.com/vassdeniss/softuni-js-basics-november-2021-solutions/tree/master/11.NestedLoops)
+* [12. Nested Loops - Exercise](https://github.com/vassdeniss/softuni-js-basics-november-2021-solutions/tree/master/12.NestedLoopsExercise)
 <!--
 * [More Exercises](https://github.com/vassdeniss/softuni-programming-basics-cs-july-solutions/tree/master/MoreExercises) 
 -->
