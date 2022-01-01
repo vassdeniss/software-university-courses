@@ -26,7 +26,7 @@ Repository filled with every (personal) solution for every problem from the cour
 * [22. Final Exam Preparation - Part One - 24/11/2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/22.FinalExamPreparationOne)
 * [23. Final Exam Preparation - Part Two - 26/11/2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/23.FinalExamPreparationTwo)
 * [24. Basic Web Project - 01/12/2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/24.BasicWebProject)
-* [25. (Personal) Final Exam](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/25.FinalExam)
+* [25. (Personal) Final Exam - 05/12/2021](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/25.FinalExam)
 * [More Exercises](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/MoreExercises) 
 * [Other Exercises](https://github.com/vassdeniss/softuni-programming-fundamentals-cs-september-solutions/tree/master/OtherExercises)
 
