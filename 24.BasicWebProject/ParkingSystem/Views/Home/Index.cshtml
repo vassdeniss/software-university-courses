@@ -1,0 +1,84 @@
+﻿@model IEnumerable<Car>
+@{
+    ViewData["Title"] = "Cars";
+}
+
+<head>
+    <title>Phonebook</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand">Parking System</a>
+        </div>
+    </div>
+</nav>
+<div class="row">
+    <div class="col-md-4">
+        <h3>Parking System</h3>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">
+                        Car Make
+                    </th>
+                    <th scope="col">
+                        Plate Number
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CarMake)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.PlateNumber)
+                        </td>
+                        <td>
+                            <form method="post" asp-controller="Car" asp-action="DeleteCar">
+
+                                <input type="hidden" name="plateNumber" asp-for="@item.PlateNumber" />
+                                <input type="submit" value="Delete" class="btn btn-danger" />
+
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        @using (Html.BeginForm("AddCar", "Car", FormMethod.Post, new { @class = "form-horizontal" }))
+        {
+            <legend>New Car</legend>
+            <div class="form-group">
+                <label for="name" class="col-lg-2 control-label">Make</label>
+                <div class="col-lg-10">
+                    <input type="text" autofocus="autofocus" name="carMake" title="CarMake" class="form-control" id="name" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="number" class="col-lg-2 control-label">Plate№</label>
+                <div class="col-lg-10">
+                    <input type="text" autofocus="autofocus" name="plateNumber" title="PlateNumber" class="form-control" id="number" />
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-lg-10 col-lg-offset-2">
+                    <button type="submit" class="btn btn-primary">Add</button>
+                </div>
+            </div>
+        }
+    </div>
+</div>
