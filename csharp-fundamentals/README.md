@@ -1,5 +1,4 @@
-# :mortar_board: Software University - Programming Fundamentals with C# - September 2021 Solutions Repository
-Repository filled with every (personal) solution for every problem from the course. 
+# :mortar_board: Software University - C# Fundamentals - September 2021 Solutions
 
 ## :orange_book: Contents 
 * [01. Basics - Lab - 15/09/2021](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-fundamentals/01.Basics) 

@@ -1,5 +1,4 @@
-# :mortar_board: Software University - Programming Basics with C# - July 2021 Solutions Repository
-Repository filled with every (personal) solution for every problem from the course. 
+# :mortar_board: Software University - C# Basics - July 2021 Solutions
 
 ## :orange_book: Contents 
 
