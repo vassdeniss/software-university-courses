@@ -7,6 +7,7 @@
 * [04. Searching, Sorting, Greedy Algorithms - Lab - 23/12/2021](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals/04.SearchingSortingGreedyAlgorithms)
 * [05. Graph Theory, Traversal, Shortest Path - Lab - 30/12/2021](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals/05.GraphsTraversalShortestPath)
 * [06. Graph Theory, Traversal, Shortest Path - Exercise - 04/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals/06.GraphsTraversalShortestPathExercise)
+* [07. Dynamic Programming - Lab - 10/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals/07.DynamicProgramming)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
