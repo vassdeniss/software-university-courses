@@ -1,6 +1,7 @@
 # :mortar_board: Software University - C# Advanced - January 2022 Solutions
 
 ## :orange_book: Contents 
+* [01. Stacks & Queues - Lab - 11/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/01.StacksQueues) 
 
 
 ## :heart: Support
