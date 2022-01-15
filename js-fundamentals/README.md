@@ -3,6 +3,7 @@
 ## :orange_book: Contents 
 * [01. Basics](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals/01.Basics) 
 * [02. Data Type & Variables](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals/02.DataTypesVariables)
+* [03. Arrays](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals/03.Arrays)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
