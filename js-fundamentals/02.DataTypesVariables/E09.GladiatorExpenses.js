@@ -20,10 +20,3 @@ function Main(lostFights, helmet, sword, shield, armor) {
 
     console.log(`Gladiator expenses: ${sum.toFixed(2)} aureus`);
 }
-
-Main(23,
-    12.50,
-    21.50,
-    40,
-    200
-    )
