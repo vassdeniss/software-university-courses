@@ -1,5 +1,9 @@
 # :mortar_board: Software University Courses Repository
-All the courses I have attended with all my code written in every single one.
+* [Software University](https://softuni.bg/)
+	* Attendance: 03 July 2021 / Ongoing
+	* Diploma: N/A
+	* Average Software Engineering Grade: 6.00 / 6.00
+	* Average Open Courses Grade: 6.00 / 6.00
 
 ## :orange_book: Main Courses
 * [C# Basics](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-basics)
