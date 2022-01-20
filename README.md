@@ -2,6 +2,7 @@
 * [Software University](https://softuni.bg/)
 	* Attendance: 03 July 2021 / Ongoing
 	* Diploma: N/A
+	* Credits: 15
 	* Average Software Engineering Grade: 6.00 / 6.00
 	* Average Open Courses Grade: 6.00 / 6.00
 
