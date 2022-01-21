@@ -390,3 +390,7 @@ FodyWeavers.xsd
 
 *.DS_Store
 ._*
+
+# Custom excluded files
+output.txt
+*.zip
