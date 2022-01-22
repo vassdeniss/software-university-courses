@@ -9,6 +9,7 @@
 * [06. Graph Theory, Traversal, Shortest Path - Exercise - 04/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals/06.GraphsTraversalShortestPathExercise)
 * [07. Dynamic Programming - Lab - 10/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals/07.DynamicProgramming)
 * [08. Dynamic Programming - Exercise - 13/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals/08.DynamicProgrammingExercise)
+* [09. Exam Preparation - 17/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals/09.ExamPreparation)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
