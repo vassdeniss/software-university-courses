@@ -13,7 +13,7 @@
 	* Grade: 6.00 / 6.00
 
 * [C# Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-fundamentals)
-	* Attendance: 15 September 2021 / 05 December - 2021
+	* Attendance: 15 September 2021 / 05 December 2021
 	* Certification: [Yes](https://softuni.bg/certificates/details/119944/4c692338)
 	* Grade: 6.00 / 6.00
 
@@ -24,7 +24,7 @@
 
 ## :green_book: Attended Side Courses
 * [C# Algorithms Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals)
-	* Attendance: 09 December 2021 / Ongoing
+	* Attendance: 09 December 2021 / 23 January 2022
 	* Certification: N/A
 	* Grade: N/A
 
