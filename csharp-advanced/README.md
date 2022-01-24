@@ -7,6 +7,7 @@
 * [04. Multidimensional Arrays - Exercise - 17/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/04.MultidimensionalArraysExercise)
 * [05. Sets & Dictionaries Advanced - Lab - 18/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/05.SetsDictionariesAdvanced)
 * [06. Sets & Dictionaries Advanced - Exercise - 20/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/06.SetsDictionariesAdvancedExercise)
+* [07. Streams, Files, Directories - Lab - 21/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/07.StreamsFilesDirectories)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
