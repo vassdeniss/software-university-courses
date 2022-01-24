@@ -392,5 +392,7 @@ FodyWeavers.xsd
 ._*
 
 # Custom excluded files
-output.txt
+*.txt
 *.zip
+*.bin
+*.png
