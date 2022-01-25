@@ -2,7 +2,7 @@
 * [Software University](https://softuni.bg/)
 	* Attendance: 03 July 2021 / Ongoing
 	* Diploma: N/A
-	* Credits: 15
+	* Credits: 21
 	* Average Software Engineering Grade: 6.00 / 6.00
 	* Average Open Courses Grade: 6.00 / 6.00
 
@@ -25,8 +25,8 @@
 ## :green_book: Attended Side Courses
 * [C# Algorithms Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals)
 	* Attendance: 09 December 2021 / 23 January 2022
-	* Certification: N/A
-	* Grade: N/A
+	* Certification: [Yes](https://softuni.bg/certificates/details/123073/ced81e47)
+	* Grade: 6.00 / 6.00
 
 ## :closed_book: Self Taught Side Courses
 * [JavaScript Basics](https://github.com/vassdeniss/software-university-courses/tree/master/js-basics)
