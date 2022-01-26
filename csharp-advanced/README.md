@@ -9,6 +9,7 @@
 * [06. Sets & Dictionaries Advanced - Exercise - 20/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/06.SetsDictionariesAdvancedExercise)
 * [07. Streams, Files, Directories - Lab - 21/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/07.StreamsFilesDirectories)
 * [08. Streams, Files, Directories - Exercise - 24/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/08.StreamsFilesDirectoriesExercise)
+* [09. Functional Programming - Lab - 25/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/09.FunctionalProgramming)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
