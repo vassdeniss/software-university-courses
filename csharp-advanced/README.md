@@ -11,6 +11,7 @@
 * [08. Streams, Files, Directories - Exercise - 24/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/08.StreamsFilesDirectoriesExercise)
 * [09. Functional Programming - Lab - 25/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/09.FunctionalProgramming)
 * [10. Functional Programming - Exercise - 27/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/10.FunctionalProgrammingExercise)
+* [11. Classes - Lab - 28/01/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/11.Classes)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
