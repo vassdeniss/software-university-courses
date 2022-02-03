@@ -5,6 +5,7 @@
 * [02. Data Type & Variables](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals/02.DataTypesVariables)
 * [03. Arrays](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals/03.Arrays)
 * [04. Functions](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals/04.Functions)
+* [05. Arrays Advanced](https://github.com/vassdeniss/software-university-courses/tree/master/js-fundamentals/05.ArraysAdvanced)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
