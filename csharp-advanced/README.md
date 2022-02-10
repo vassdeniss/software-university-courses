@@ -17,6 +17,8 @@
 * [14. Custom Data Structures - 03/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/14.CustomDataStructures)
 * [15. Generics - Lab - 04/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/15.Generics)
 * [16. Generics - Exercise - 07/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/16.GenericsExercise)
+* [16. Generics - Exercise - 07/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/16.GenericsExercise)
+* [17. Iterators & Comparators - Lab - 09/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/17.IteratorsComparators)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
