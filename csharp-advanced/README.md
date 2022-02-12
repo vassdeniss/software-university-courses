@@ -19,6 +19,7 @@
 * [16. Generics - Exercise - 07/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/16.GenericsExercise)
 * [16. Generics - Exercise - 07/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/16.GenericsExercise)
 * [17. Iterators & Comparators - Lab - 09/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/17.IteratorsComparators)
+* [18. Iterators & Comparators - Exercise - 10/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/18.IteratorsComparatorsExercise)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
