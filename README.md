@@ -28,6 +28,11 @@
 	* Certification: [Yes](https://softuni.bg/certificates/details/123073/ced81e47)
 	* Grade: 6.00 / 6.00
 
+* [C# Data Structures Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-fundamentals)
+	* Attendance: 08 February 2022 / Ongoing
+	* Certification: N/A
+	* Grade: N/A
+
 ## :closed_book: Self Taught Side Courses
 * [JavaScript Basics](https://github.com/vassdeniss/software-university-courses/tree/master/js-basics)
 	* Attendance: N/A
