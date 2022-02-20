@@ -22,6 +22,7 @@
 * [18. Iterators & Comparators - Exercise - 10/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/18.IteratorsComparatorsExercise)
 * [19. Exam Preparation - 11/02/2022 | 14/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/19.ExamPreparation)
 * [20. Algorithms Basics - 15/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/20.AlgorithmsBasics)
+* [21. Exam - 20/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-advanced/21.Exam)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
