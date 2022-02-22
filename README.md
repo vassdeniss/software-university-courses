@@ -22,6 +22,11 @@
 	* Certification: [Yes](https://softuni.bg/certificates/details/123677/93a93ca5)
 	* Grade: 6.00 / 6.00
 
+* [C# OOP](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop)
+	* Attendance: 22 February 2022 / Ongoing
+	* Certification: N/A
+	* Grade: N/A
+
 ## :green_book: Attended Side Courses
 * [C# Algorithms Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals)
 	* Attendance: 09 December 2021 / 23 January 2022
