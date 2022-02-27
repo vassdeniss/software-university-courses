@@ -2,7 +2,8 @@
 
 ## :orange_book: Contents 
 * [01. Inheritance - Lab - 22/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/01.Inheritance)
-* [01. Inheritance - Exercise - 24/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/02.InheritanceExercise)
+* [02. Inheritance - Exercise - 24/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/02.InheritanceExercise)
+* [03. Encapsulation - Lab - 25/02/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/03.Encapsulation)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
