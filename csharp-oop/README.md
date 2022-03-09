@@ -9,6 +9,7 @@
 * [06. Interfaces, Abstraction - Exercise - 02/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/06.InterfacesAbstractionExercise)
 * [07. Polymorphism - Lab - 04/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/07.Polymorphism)
 * [08. Polymorphism - Exercise - 07/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/08.PolymorphismExercise)
+* [09. Exceptions - Lab - 08/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/09.Exceptions)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
