@@ -10,6 +10,7 @@
 * [07. Polymorphism - Lab - 04/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/07.Polymorphism)
 * [08. Polymorphism - Exercise - 07/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/08.PolymorphismExercise)
 * [09. Exceptions - Lab - 08/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/09.Exceptions)
+* [10. SOLID - Lab - 11/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/10.SOLID)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
