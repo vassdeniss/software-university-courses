@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>E04.CookiesProblem</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="SoftUni.Wintellect.PowerCollections" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="SoftUni.Wintellect.PowerCollections" Version="2.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\E03.MinHeap\E03.MinHeap.csproj" />
+  </ItemGroup>
+</Project>
