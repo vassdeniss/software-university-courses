@@ -34,7 +34,7 @@
 	* Grade: 6.00 / 6.00
 
 * [C# Data Structures Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-fundamentals)
-	* Attendance: 08 February 2022 / Ongoing
+	* Attendance: 08 February 2022 / 19 March 2022
 	* Certification: N/A
 	* Grade: N/A
 

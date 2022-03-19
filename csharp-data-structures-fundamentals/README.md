@@ -8,6 +8,7 @@
 * [05. Heaps, BST - Lab - 08/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-fundamentals/05.HeapsBST)
 * [06. Heaps, BST - Exercise - 10/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-fundamentals/06.HeapsBSTExercise)
 * [07. Exam Preparation - 15/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-fundamentals/07.ExamPreparation)
+* [08. Exam - 19/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-fundamentals/08.Exam)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
