@@ -17,6 +17,8 @@
 * [14. Unit Testing - Lab - 18/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/14.UnitTesting)
 * [15. Unit Testing - Exercise - 21/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/15.UnitTestingExercise)
 * [16. Mocking - Lab - 22/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/16.Mocking)
+* [17. Mocking - Exercise - 23/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/17.MockingExercise)
+* [18. Design Patterns - Lab - 25/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/18.DesignPatterns)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
