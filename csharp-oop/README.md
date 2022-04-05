@@ -22,6 +22,7 @@
 * [19. Design Patterns - Exercise - 28/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/19.DesignPatternsExercise)
 * [20. Dependency Injection - 29/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/20.DependencyInjection)
 * [21. Snake - 31/03/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/21.Snake)
+* [22. Exam Preparation - 01/04/2022](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-oop/22.ExamPreparation)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
