@@ -1,0 +1,7 @@
+# :mortar_board: Software University - Ms SQL - May 2022 Solutions
+
+## :orange_book: Contents 
+* [01. Databases Introduction - Exercise - 19/05/2022](https://github.com/vassdeniss/software-university-courses/tree/master/mssql/01.DatabasesIntroduction)
+
+## :heart: Support
+Please make sure to :star: this repository to show your support <3

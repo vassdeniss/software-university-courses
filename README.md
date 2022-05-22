@@ -27,6 +27,11 @@
 	* Certification: [Yes](https://softuni.bg/certificates/details/131010/c54612b6)
 	* Grade: 6.00 / 6.00
 
+* [Microsoft Structured Query Language](https://github.com/vassdeniss/software-university-courses/tree/master/mssql)
+	* Attendance: 17 May 2022 / Ongoing
+	* Certification: N/A
+	* Grade: N/A
+
 ## :green_book: Attended Side Courses
 * [C# Algorithms Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals)
 	* Attendance: 09 December 2021 / 23 January 2022
