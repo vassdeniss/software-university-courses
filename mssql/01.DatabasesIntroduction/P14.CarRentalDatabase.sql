@@ -1,6 +1,12 @@
+GO
+
 CREATE DATABASE [CarRental]
 
+GO
+
 USE [CarRental]
+
+GO
 
 CREATE TABLE [Categories] (
 	[Id] INT PRIMARY KEY IDENTITY
@@ -10,6 +16,8 @@ CREATE TABLE [Categories] (
 	, [MonthlyRate] DECIMAL(7, 2) NOT NULL
 	, [WeekendRate] DECIMAL(5, 2) NOT NULL
 )
+
+GO
 
 CREATE TABLE [Cars] (
 	[Id] INT PRIMARY KEY IDENTITY
@@ -25,6 +33,8 @@ CREATE TABLE [Cars] (
 	, [Available] BIT NOT NULL
 )
 
+GO
+
 CREATE TABLE [Employees] (
 	[Id] INT PRIMARY KEY IDENTITY
 	, [FirstName] VARCHAR(50) NOT NULL
@@ -32,6 +42,8 @@ CREATE TABLE [Employees] (
 	, [Title] VARCHAR(50) NOT NULL
 	, [Notes] VARCHAR(500)
 )
+
+GO
 
 CREATE TABLE [Customers] (
 	[Id] INT PRIMARY KEY IDENTITY
@@ -42,6 +54,8 @@ CREATE TABLE [Customers] (
 	, [ZIPCode] VARCHAR(4) NOT NULL
 	, [Notes] VARCHAR(500)
 )
+
+GO
 
 CREATE TABLE [RentalOrders] (
 	[Id] INT PRIMARY KEY IDENTITY
@@ -61,6 +75,8 @@ CREATE TABLE [RentalOrders] (
 	, [Notes] VARCHAR(500)
 )
 
+GO
+
 INSERT INTO [Categories] (
 	[CategoryName]
 	, [DailyRate]
@@ -75,6 +91,8 @@ VALUES (
 ) , (
 	'C', 25.00, 138.80, 577.55, 95.00
 )
+
+GO
 
 INSERT INTO [Cars] (
 	[PlateNumber]
@@ -94,6 +112,8 @@ VALUES (
 	'C 1313 KX', 'KIA', 'Optima', 2018, 2, 4, 'Good', 1
 )
 
+GO
+
 INSERT INTO [Employees] (
 	[FirstName]
 	, [LastName]
@@ -106,6 +126,8 @@ VALUES (
 ) , (
 	'Yu', 'Narukami', 'driver'
 )
+
+GO
 
 INSERT INTO [Customers] (
 	[DriverLicenceNumber]
@@ -121,6 +143,8 @@ VALUES (
 ) , (
 	28254, 'Jane3 Doe3', 'Sofia', 'Sofia', 1303
 )
+
+GO
 
 INSERT INTO [RentalOrders] (
 	[EmployeeId]

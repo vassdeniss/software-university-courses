@@ -1,4 +1,8 @@
+GO
+
 USE [Geography]
+
+GO
 
 SELECT [PeakName]
 FROM [Peaks]

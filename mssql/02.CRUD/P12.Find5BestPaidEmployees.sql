@@ -1,4 +1,8 @@
+GO
+
 USE [SoftUni]
+
+GO
 
 SELECT TOP 5 [FirstName]
 	, [LastName]

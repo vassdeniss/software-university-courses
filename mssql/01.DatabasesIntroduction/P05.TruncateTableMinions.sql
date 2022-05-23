@@ -1,1 +1,3 @@
+GO
+
 TRUNCATE TABLE [Minions]

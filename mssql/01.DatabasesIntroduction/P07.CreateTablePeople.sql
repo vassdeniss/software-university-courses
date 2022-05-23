@@ -1,3 +1,9 @@
+GO
+
+USE [Minions]
+
+GO
+
 CREATE TABLE [People] (
     [Id] INT PRIMARY KEY IDENTITY
     , [Name] NVARCHAR(200) NOT NULL
@@ -10,6 +16,8 @@ CREATE TABLE [People] (
     , [Birthdate] DATE NOT NULL
     , [Biography] NVARCHAR(MAX)
 )
+
+GO
 
 INSERT INTO [People] (
     [Name]

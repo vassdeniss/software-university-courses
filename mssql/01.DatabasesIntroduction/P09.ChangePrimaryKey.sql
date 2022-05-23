@@ -1,6 +1,14 @@
-ALTER TABLE [Users]
-	DROP CONSTRAINT	[PK__Users__3214EC077A0B81C8]
+GO
+
+USE [Minions]
+
+GO
 
 ALTER TABLE [Users]
-	ADD CONSTRAINT [PK_dbo_Users_IdUsername]
-	PRIMARY KEY ([Id], [Username])
+DROP CONSTRAINT	[PK__Users__3214EC077A0B81C8]
+
+GO
+
+ALTER TABLE [Users]
+ADD CONSTRAINT [PK_dbo_Users_IdUsername]
+PRIMARY KEY ([Id], [Username])

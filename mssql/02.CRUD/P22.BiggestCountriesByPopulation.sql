@@ -1,4 +1,8 @@
+GO
+
 USE [Geography]
+
+GO
 
 SELECT TOP 30 [CountryName]
 	, [Population]

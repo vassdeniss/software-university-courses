@@ -1,4 +1,8 @@
+GO
+
 USE [SoftUni]
+
+GO
 
 SELECT CONCAT (
 	[FirstName]

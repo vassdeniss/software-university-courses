@@ -1,3 +1,9 @@
+GO
+
+USE [Minions]
+
+GO
+
 INSERT INTO [Towns] (
     [Id]
 	, [Name]
@@ -9,6 +15,8 @@ VALUES (
 ) , (
     3, 'Varna'
 )
+
+GO
 
 INSERT INTO [Minions] (
     [Id]

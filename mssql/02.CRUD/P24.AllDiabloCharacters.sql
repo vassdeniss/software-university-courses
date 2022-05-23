@@ -1,4 +1,8 @@
+GO
+
 USE [Diablo]
+
+GO
 
 SELECT [Name]
 FROM [Characters]

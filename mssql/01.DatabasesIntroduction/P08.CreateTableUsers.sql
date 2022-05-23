@@ -1,3 +1,9 @@
+GO
+
+USE [Minions]
+
+GO
+
 CREATE TABLE [Users] (
     [Id] BIGINT PRIMARY KEY IDENTITY
     , [Username] VARCHAR(30) UNIQUE NOT NULL
@@ -7,6 +13,8 @@ CREATE TABLE [Users] (
     , [LastLoginTime] DATETIME2
     , [IsDeleted] BIT NOT NULL
 )
+
+GO
 
 INSERT INTO [Users] (
     [Username]

@@ -1,4 +1,8 @@
+GO
+
 USE [SoftUni]
+
+GO
 
 INSERT INTO [Towns] 
 VALUES (
@@ -10,6 +14,8 @@ VALUES (
 ) , (
 	'Burgas'
 )
+
+GO
 
 INSERT INTO [Departments] 
 VALUES (
@@ -23,6 +29,8 @@ VALUES (
 ) , (
 	'Quality Assurance'
 )
+
+GO
 
 INSERT INTO [Employees] 
 VALUES (

@@ -1,3 +1,9 @@
+GO
+
+USE [Minions]
+
+GO
+
 CREATE TABLE [Minions] (
 	[Id] INT PRIMARY KEY
 	, [Name] NVARCHAR(50) NOT NULL

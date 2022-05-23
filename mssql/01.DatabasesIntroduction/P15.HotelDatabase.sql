@@ -1,6 +1,12 @@
+GO
+
 CREATE DATABASE [Hotel]
 
+GO
+
 USE [Hotel]
+
+GO
 
 CREATE TABLE [Employees] (
 	[Id] INT PRIMARY KEY IDENTITY
@@ -10,6 +16,8 @@ CREATE TABLE [Employees] (
 	, [Notes] NVARCHAR(500)
 )
 
+GO
+
 INSERT INTO [Employees] 
 VALUES (
     'fname1', 'lname1', 'title1', NULL
@@ -18,6 +26,8 @@ VALUES (
 ) , (
     'fname3', 'lname3', 'title1', NULL
 )
+
+GO
 
 CREATE TABLE [Customers] (
 	[Id] INT PRIMARY KEY IDENTITY
@@ -29,6 +39,8 @@ CREATE TABLE [Customers] (
 	, [EmergencyNumber] VARCHAR(15)
 	, [Notes] NVARCHAR(500)
 )
+
+GO
 
 INSERT INTO [Customers] (
 	[AccountNumber]
@@ -44,11 +56,15 @@ VALUES (
     432879, 'fname3', 'lname3', '+359 88 3327688'
 )
 
+GO
+
 CREATE TABLE [RoomStatus] (
 	[Id] INT PRIMARY KEY IDENTITY
 	, [RoomStatus] VARCHAR(50) NOT NULL
 	, [Notes] NVARCHAR(500)
 )
+
+GO
 
 INSERT INTO [RoomStatus] 
 VALUES (
@@ -59,11 +75,15 @@ VALUES (
     'Under Construction', NULL
 )
 
+GO
+
 CREATE TABLE [RoomTypes] (
 	[Id] INT PRIMARY KEY IDENTITY
 	, [RoomType] VARCHAR(50) NOT NULL
 	, [Notes] NVARCHAR(500)
 )
+
+GO
 
 INSERT INTO [RoomTypes] 
 VALUES (
@@ -74,11 +94,15 @@ VALUES (
     'Large', NULL
 )
 
+GO
+
 CREATE TABLE [BedTypes] (
 	[Id] INT PRIMARY KEY IDENTITY
 	, [BedType] VARCHAR(50) NOT NULL
 	, [Notes] NVARCHAR(500)
 )
+
+GO
 
 INSERT INTO [BedTypes] 
 VALUES (
@@ -88,6 +112,8 @@ VALUES (
 ) , (
     'XXL', NULL
 )
+
+GO
 
 CREATE TABLE [Rooms] (
 	[Id] INT PRIMARY KEY IDENTITY
@@ -99,6 +125,8 @@ CREATE TABLE [Rooms] (
 	, [Notes] NVARCHAR(500)
 )
 
+GO
+
 INSERT INTO [Rooms] 
 VALUES (
 	1234, 1, 1, 1000.25, 1, NULL
@@ -107,6 +135,8 @@ VALUES (
 ) , (
 	1236, 3, 3, 1200.25, 3, NULL
 )
+
+GO
 
 CREATE TABLE [Payments] (
     [Id] INT PRIMARY KEY IDENTITY NOT NULL
@@ -123,6 +153,8 @@ CREATE TABLE [Payments] (
     , [Notes] NVARCHAR(500)
 )
 
+GO
+
 INSERT INTO [Payments] 
 VALUES (
 	1, '2022-05-06', 1, '2022-04-06', '2022-05-06', DATEDIFF(DAY, '2022-04-06', '2022-05-06'), 1000.25, 1003.21, 1231.23, 3000.23, NULL
@@ -131,6 +163,8 @@ VALUES (
 ) , (
 	3, '2022-05-06', 3, '2018-04-06', '2022-05-06', DATEDIFF(DAY, '2018-04-06', '2022-05-06'), 3000.25, 3003.21, 3231.23, 6000.23, NULL
 )
+
+GO
 
 CREATE TABLE [Occupancies] (
     [Id] INT PRIMARY KEY IDENTITY NOT NULL
@@ -142,6 +176,8 @@ CREATE TABLE [Occupancies] (
     , [PhoneCharge] DECIMAL(5, 2) NOT NULL
     , [Notes] NVARCHAR(500)
 )
+
+GO
 
 INSERT INTO [Occupancies] 
 VALUES (

@@ -1,11 +1,19 @@
+GO
+
 CREATE DATABASE [SoftUni] 
 
+GO
+
 USE [SoftUni]
+
+GO
 
 CREATE TABLE [Towns] (
 	[Id] INT PRIMARY KEY IDENTITY
 	, [Name] NVARCHAR(150) NOT NULL
 )
+
+GO
 
 CREATE TABLE [Addresses] (
 	[Id] INT PRIMARY KEY IDENTITY
@@ -13,10 +21,14 @@ CREATE TABLE [Addresses] (
 	, [TownId] INT FOREIGN KEY REFERENCES [Towns]([Id])
 )
 
+GO
+
 CREATE TABLE [Departments] (
 	[Id] INT PRIMARY KEY IDENTITY
 	, [Name] NVARCHAR(60) NOT NULL
 )
+
+GO
 
 CREATE TABLE [Employees] (
 	[Id] INT PRIMARY KEY IDENTITY

@@ -1,6 +1,12 @@
+GO
+
 CREATE DATABASE [Movies]
 
+GO
+
 USE [Movies]
+
+GO
 
 CREATE TABLE [Directors] (
 	[Id] INT PRIMARY KEY IDENTITY
@@ -8,17 +14,23 @@ CREATE TABLE [Directors] (
 	, [Notes] NVARCHAR(500)
 )
 
+GO
+
 CREATE TABLE [Genres] (
 	[Id] INT PRIMARY KEY IDENTITY
 	, [GenreName] NVARCHAR(30) NOT NULL
 	, [Notes] NVARCHAR(500)
 )
 
+GO
+
 CREATE TABLE [Categories] (
 	[Id] INT PRIMARY KEY IDENTITY
 	, [CategoryName] NVARCHAR(30) NOT NULL
 	, [Notes] NVARCHAR(500)
 )
+
+GO
 
 CREATE TABLE [Movies] (
 	[Id] INT PRIMARY KEY IDENTITY
@@ -32,6 +44,8 @@ CREATE TABLE [Movies] (
 	, CHECK ([Rating] >= 0 AND [Rating] <= 100)
 	, [Notes] NVARCHAR(500)
 )
+
+GO
 
 INSERT INTO [Directors] (
 	[DirectorName]
@@ -48,6 +62,8 @@ VALUES (
 	'Narumaki'
 )
 
+GO
+
 INSERT INTO [Genres] (
 	[GenreName]
 )
@@ -63,6 +79,8 @@ VALUES (
 	'Fantasy'
 )
 
+GO
+
 INSERT INTO [Categories] (
 	[CategoryName]
 )
@@ -77,6 +95,8 @@ VALUES (
 ) , (
 	'Recommendations'
 )
+
+GO
 
 INSERT INTO [Movies] (
 	[Title]
