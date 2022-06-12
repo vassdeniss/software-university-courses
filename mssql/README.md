@@ -7,6 +7,7 @@
 * [04. Built-In Functions - 28/05/2022](https://github.com/vassdeniss/software-university-courses/tree/master/mssql/04.BuiltInFunctions)
 * [05. Subqueries and Joins - 02/06/2022](https://github.com/vassdeniss/software-university-courses/tree/master/mssql/05.SubqueriesAndJoins)
 * [06. Indices and Data Aggregation - 06/06/2022](https://github.com/vassdeniss/software-university-courses/tree/master/mssql/06.IndicesAndDataAggregation)
+* [07. Functions and Stored Procedures - 08/06/2022](https://github.com/vassdeniss/software-university-courses/tree/master/mssql/07.FunctionsAndStoredProcedures)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
