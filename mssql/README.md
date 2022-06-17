@@ -10,6 +10,7 @@
 * [07. Functions and Stored Procedures - 08/06/2022](https://github.com/vassdeniss/software-university-courses/tree/master/mssql/07.FunctionsAndStoredProcedures)
 * [08. Triggers and Transactions - 10/06/2022](https://github.com/vassdeniss/software-university-courses/tree/master/mssql/08.TriggersAndTransactions)
 * [09. Exam Preparation - 13/06/2022](https://github.com/vassdeniss/software-university-courses/tree/master/mssql/09.ExamPreparation)
+* [10. Exam Preparation - 14/06/2022](https://github.com/vassdeniss/software-university-courses/tree/master/mssql/10.ExamPreparation)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
