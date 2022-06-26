@@ -397,3 +397,4 @@ FodyWeavers.xsd
 *.bin
 *.png
 *.bat
+Config.cs
