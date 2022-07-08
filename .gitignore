@@ -398,3 +398,4 @@ FodyWeavers.xsd
 *.png
 *.bat
 Config.cs
+configuration.cs
