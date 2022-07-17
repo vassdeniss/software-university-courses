@@ -59,5 +59,10 @@
 	* Certification: N/A
 	* Grade: N/A
 
+* [C# Data Structures Advanced](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-advanced)
+	* Attendance: N/A
+	* Certification: N/A
+	* Grade: N/A
+
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
