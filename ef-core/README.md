@@ -7,6 +7,7 @@
 * [04. Entity Relations - 04/07/2022](https://github.com/vassdeniss/software-university-courses/tree/master/ef-core/04.EntityRelations)
 * [05. LINQ - 07/07/2022](https://github.com/vassdeniss/software-university-courses/tree/master/ef-core/05.LINQ)
 * [06. Advanced Querying - 11/07/2022](https://github.com/vassdeniss/software-university-courses/tree/master/ef-core/06.AdvancedQuerying)
+* [07. Auto Mapper - 14/07/2022](https://github.com/vassdeniss/software-university-courses/tree/master/ef-core/07.AutoMapper)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
