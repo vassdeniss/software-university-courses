@@ -9,6 +9,7 @@
 * [06. Advanced Querying - 11/07/2022](https://github.com/vassdeniss/software-university-courses/tree/master/ef-core/06.AdvancedQuerying)
 * [07. Auto Mapper - 14/07/2022](https://github.com/vassdeniss/software-university-courses/tree/master/ef-core/07.AutoMapper)
 * [08. JSON Processing - 18/07/2022](https://github.com/vassdeniss/software-university-courses/tree/master/ef-core/08.JSONProcessing)
+* [09. XML Processing - 21/07/2022](https://github.com/vassdeniss/software-university-courses/tree/master/ef-core/09.XMLProcessing)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
