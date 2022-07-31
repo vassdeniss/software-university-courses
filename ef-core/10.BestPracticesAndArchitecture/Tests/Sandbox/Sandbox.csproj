@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <CodeAnalysisRuleSet>..\..\Rules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <AdditionalFiles Include="..\..\stylecop.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommandLineParser" Version="2.9.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="6.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.5" />
+    <PackageReference Include="StyleCop.Analyzers" Version="1.2.0-beta.435" PrivateAssets="all">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\PetStore.Common\PetStore.Common.csproj" />
+    <ProjectReference Include="..\..\Data\PetStore.Data.Common\PetStore.Data.Common.csproj" />
+    <ProjectReference Include="..\..\Data\PetStore.Data.Models\PetStore.Data.Models.csproj" />
+    <ProjectReference Include="..\..\Data\PetStore.Data\PetStore.Data.csproj" />
+    <ProjectReference Include="..\..\Services\PetStore.Services.Data\PetStore.Services.Data.csproj" />
+    <ProjectReference Include="..\..\Services\PetStore.Services.Mapping\PetStore.Services.Mapping.csproj" />
+    <ProjectReference Include="..\..\Services\PetStore.Services.Messaging\PetStore.Services.Messaging.csproj" />
+    <ProjectReference Include="..\..\Services\PetStore.Services\PetStore.Services.csproj" />
+  </ItemGroup>
+
+</Project>

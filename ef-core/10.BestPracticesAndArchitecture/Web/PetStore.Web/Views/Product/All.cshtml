@@ -1,0 +1,111 @@
+﻿@using PetStore.Common
+@model PetStore.Web.ViewModels.Product.AllProductsViewModel
+
+@{
+    ViewData["Title"] = "Product-All";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <h1>All Products</h1>
+
+        @if (User.IsInRole(GlobalConstants.AdministratorRoleName))
+        {
+            <p>
+                <a class="btn btn-info" asp-action="Create">Create New</a>
+            </p>
+        }
+
+        @foreach (string category in Model.Categories)
+        {
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="checkbox" id="@category" name="categoryCheckbox" value="@category">
+                <label class="form-check-label" for="@category">@category</label>
+            </div>
+        }
+    </div>
+    <div class="col-md-6 justify-content-end">
+        <form method="get" asp-controller="Product" asp-action="All" class="mt-5">
+            <div class="input-group">
+                @if (Model.SearchQuery == null)
+                {
+                    <input type="text" id="search" name="search" class="form-control" placeholder="Search...">
+                }
+                else
+                {
+                    <input type="text" id="search" name="search" class="form-control" value="@Model.SearchQuery">
+                }
+                <div class="input-group-btn">
+                    <button class="btn btn-success m-auto" type="submit">
+                        Search
+                    </button>
+                </div>
+            </div>
+        </form> 
+    </div>
+</div>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Price
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var product in Model.AllProducts) 
+    {
+        <tr name="trData">
+            <td>
+                @Html.DisplayFor(modelItem => product.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => product.Price)
+            </td>
+            <td>
+                <a class="btn btn-info" asp-action="Details" asp-route-id="@product.Id">Details</a> 
+                @if (User.IsInRole(GlobalConstants.AdministratorRoleName))
+                {
+                    <a class="btn btn-dark" asp-action="Edit" asp-route-id="@product.Id">Edit</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@product.Id">Delete</a>
+                }
+            </td>
+            <td hidden>
+                @product.CategoryName
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<script>
+    (function() {
+        let checkBoxes = document.getElementsByName("categoryCheckbox");
+        console.log(checkBoxes);
+        for (let box of checkBoxes) {
+
+            box.addEventListener('click', (e) => {
+                let targetValue = e.target.value;
+
+                let tableRows = document.getElementsByName("trData");
+                let rowsToDelete = [];
+;               for (let row of tableRows) {
+                    let categoryOfRow = row.childNodes[row.childNodes.length - 2].childNodes[0].data.trim();
+
+                    if (categoryOfRow !== targetValue) {
+                        rowsToDelete.push(row);
+                    }
+                }
+
+                for (let row of rowsToDelete) {
+                    row.parentNode.removeChild(row);
+                }
+            });
+        }
+    })();
+</script>

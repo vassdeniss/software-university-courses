@@ -1,0 +1,40 @@
+﻿@model PetStore.Web.ViewModels.Product.DetailsProductViewModel
+
+@{
+    ViewData["Title"] = "View";
+}
+
+<h1>View</h1>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="row">
+        <div class="col-md-4">
+            <dt class="col-sm-2 mt-4">
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.CategoryName)
+            </dd>
+        </div>
+        <div class="col-md-8">
+            <img class="img-thumbnail mx-auto" style="width: 250px" src="@Model.ImageURL" alt="@Model.Name"/>
+        </div>
+    </dl>
+</div>
+<div>
+    <a class="btn btn-light" asp-action="All">Back</a>
+</div>

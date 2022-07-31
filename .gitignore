@@ -399,3 +399,5 @@ FodyWeavers.xsd
 *.bat
 Config.cs
 configuration.cs
+appsettings.json
+appsettings.Development.json

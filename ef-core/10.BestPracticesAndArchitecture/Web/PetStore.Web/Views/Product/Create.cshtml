@@ -1,0 +1,46 @@
+﻿@model ICollection<PetStore.Web.ViewModels.Product.ListCategoriesOnProductCreateViewModel>
+
+@{
+    ViewData["Title"] = "Product-Create";
+}
+
+<h1>Create</h1>
+
+<h4>Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label for="Name" class="control-label">Name</label>
+                <input id="Name" name="Name" class="form-control" type="text" required="true"/>
+            </div>
+            <div class="form-group">
+                <label for="Price" class="control-label">Price</label>
+                <input id="Price" name="Price" class="form-control" type="number" min="0"/>
+            </div>
+            <div class="form-group">
+                <label for="ImageURL" class="control-label">ImageURL</label>
+                <input id="ImageURL" name="ImageURL" class="form-control" type="text"/>
+            </div>
+            <div class="form-group">
+                <label for="CategoryId" class="control-label">Category</label>
+                <select id="CategoryId" name="CategoryId" class="form-control" asp-items="ViewBag.CategoryId">
+                    @foreach (var catInfo in Model)
+                    {
+                        <option value="@catInfo.Id">@catInfo.Name</option>
+                    }
+                </select>
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-action="All" class="btn btn-light">Back</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
