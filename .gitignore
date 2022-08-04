@@ -401,3 +401,5 @@ Config.cs
 configuration.cs
 appsettings.json
 appsettings.Development.json
+ExportResults/
+ImportResults/
