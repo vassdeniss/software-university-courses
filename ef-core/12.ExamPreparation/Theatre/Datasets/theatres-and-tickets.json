@@ -1,0 +1,4409 @@
+[
+  {
+    "Name": "",
+    "NumberOfHalls": 7,
+    "Director": "Ulwin Mabosty",
+    "Tickets": [
+      {
+        "Price": 7.63,
+        "RowNumber": 5,
+        "PlayId": 4
+      },
+      {
+        "Price": 47.96,
+        "RowNumber": 9,
+        "PlayId": 3
+      }
+    ]
+  },
+  {
+    "Name": "Corona Theatre",
+    "NumberOfHalls": 7,
+    "Director": "Alwin MacCosty",
+    "Tickets": [
+      {
+        "Price": 7.63,
+        "RowNumber": -5,
+        "PlayId": 4
+      },
+      {
+        "Price": 47.96,
+        "RowNumber": 9,
+        "PlayId": 3
+      },
+      {
+        "Price": 0,
+        "RowNumber": 10,
+        "PlayId": 5
+      },
+      {
+        "Price": 94.39,
+        "RowNumber": 8,
+        "PlayId": 2
+      },
+      {
+        "Price": 44.85,
+        "RowNumber": 1,
+        "PlayId": 5
+      },
+      {
+        "Price": 23.26,
+        "RowNumber": 6,
+        "PlayId": 3
+      },
+      {
+        "Price": 25.22,
+        "RowNumber": 3,
+        "PlayId": 2
+      },
+      {
+        "Price": 74.91,
+        "RowNumber": 3,
+        "PlayId": 3
+      },
+      {
+        "Price": 44.14,
+        "RowNumber": 6,
+        "PlayId": 4
+      },
+      {
+        "Price": 96.56,
+        "RowNumber": 1,
+        "PlayId": 3
+      },
+      {
+        "Price": 4.38,
+        "RowNumber": 15,
+        "PlayId": 3
+      },
+      {
+        "Price": 20.99,
+        "RowNumber": 7,
+        "PlayId": 5
+      },
+      {
+        "Price": 82.22,
+        "RowNumber": 5,
+        "PlayId": 1
+      },
+      {
+        "Price": 79.45,
+        "RowNumber": 9,
+        "PlayId": 3
+      },
+      {
+        "Price": 71.69,
+        "RowNumber": 5,
+        "PlayId": 3
+      },
+      {
+        "Price": 53.62,
+        "RowNumber": 10,
+        "PlayId": 1
+      },
+      {
+        "Price": 40.85,
+        "RowNumber": 10,
+        "PlayId": 2
+      },
+      {
+        "Price": 10.34,
+        "RowNumber": 9,
+        "PlayId": 2
+      },
+      {
+        "Price": 79.46,
+        "RowNumber": 10,
+        "PlayId": 1
+      },
+      {
+        "Price": 45.27,
+        "RowNumber": 10,
+        "PlayId": 5
+      }
+    ]
+  },
+  {
+    "Name": "",
+    "NumberOfHalls": 7,
+    "Director": "Alwin MacCostyAlwin MacCostyAlwin MacCostyAlwin MacCostyAlwin MacCosty",
+    "Tickets": [
+      {
+        "Price": 7.63,
+        "RowNumber": 5,
+        "PlayId": 4
+      },
+      {
+        "Price": 47.96,
+        "RowNumber": 9,
+        "PlayId": 3
+      }
+    ]
+  },
+  {
+    "Name": "Eglinton Theatre",
+    "NumberOfHalls": 5,
+    "Director": "Swen Dikes",
+    "Tickets": [
+      {
+        "Price": 99.66,
+        "RowNumber": 7,
+        "PlayId": 9
+      },
+      {
+        "Price": 11.29,
+        "RowNumber": 3,
+        "PlayId": 5
+      },
+      {
+        "Price": 29.29,
+        "RowNumber": 2,
+        "PlayId": 10
+      },
+      {
+        "Price": 15.22,
+        "RowNumber": 6,
+        "PlayId": 10
+      },
+      {
+        "Price": 7.99,
+        "RowNumber": 10,
+        "PlayId": 9
+      },
+      {
+        "Price": 14.65,
+        "RowNumber": 5,
+        "PlayId": 4
+      },
+      {
+        "Price": 33.43,
+        "RowNumber": 7,
+        "PlayId": 9
+      },
+      {
+        "Price": 89.24,
+        "RowNumber": 10,
+        "PlayId": 8
+      },
+      {
+        "Price": 17.95,
+        "RowNumber": 7,
+        "PlayId": 8
+      },
+      {
+        "Price": 30.32,
+        "RowNumber": 3,
+        "PlayId": 10
+      },
+      {
+        "Price": 50.15,
+        "RowNumber": 8,
+        "PlayId": 9
+      },
+      {
+        "Price": 40.97,
+        "RowNumber": 8,
+        "PlayId": 8
+      },
+      {
+        "Price": 155,
+        "RowNumber": 1,
+        "PlayId": 6
+      },
+      {
+        "Price": 90.6,
+        "RowNumber": 7,
+        "PlayId": 9
+      },
+      {
+        "Price": 52.51,
+        "RowNumber": 3,
+        "PlayId": 5
+      },
+      {
+        "Price": 4.78,
+        "RowNumber": 3,
+        "PlayId": 8
+      },
+      {
+        "Price": 32.82,
+        "RowNumber": 9,
+        "PlayId": 9
+      },
+      {
+        "Price": 74.05,
+        "RowNumber": 6,
+        "PlayId": 9
+      },
+      {
+        "Price": 45.36,
+        "RowNumber": 45,
+        "PlayId": 4
+      },
+      {
+        "Price": 26.42,
+        "RowNumber": 6,
+        "PlayId": 10
+      }
+    ]
+  },
+  {
+    "Name": "Royal Cinema",
+    "NumberOfHalls": 10,
+    "Director": "Darnall Silbert",
+    "Tickets": [
+      {
+        "Price": 57.78,
+        "RowNumber": 2,
+        "PlayId": 12
+      },
+      {
+        "Price": 68.67,
+        "RowNumber": 10,
+        "PlayId": 11
+      },
+      {
+        "Price": 55.22,
+        "RowNumber": -1,
+        "PlayId": 2
+      },
+      {
+        "Price": 64.25,
+        "RowNumber": 7,
+        "PlayId": 15
+      },
+      {
+        "Price": 48.87,
+        "RowNumber": 2,
+        "PlayId": 14
+      },
+      {
+        "Price": 94.25,
+        "RowNumber": 2,
+        "PlayId": 12
+      },
+      {
+        "Price": 72.88,
+        "RowNumber": 7,
+        "PlayId": 15
+      },
+      {
+        "Price": 92.27,
+        "RowNumber": 6,
+        "PlayId": 12
+      },
+      {
+        "Price": 26.65,
+        "RowNumber": 9,
+        "PlayId": 13
+      },
+      {
+        "Price": 65.21,
+        "RowNumber": 5,
+        "PlayId": 12
+      },
+      {
+        "Price": 2.77,
+        "RowNumber": 8,
+        "PlayId": 10
+      },
+      {
+        "Price": 74.45,
+        "RowNumber": 5,
+        "PlayId": 11
+      },
+      {
+        "Price": 99.82,
+        "RowNumber": 6,
+        "PlayId": 14
+      },
+      {
+        "Price": 92.82,
+        "RowNumber": 4,
+        "PlayId": 14
+      },
+      {
+        "Price": 31.43,
+        "RowNumber": 7,
+        "PlayId": 13
+      },
+      {
+        "Price": 5.05,
+        "RowNumber": 5,
+        "PlayId": 15
+      },
+      {
+        "Price": 11.53,
+        "RowNumber": 5,
+        "PlayId": 14
+      },
+      {
+        "Price": 44.24,
+        "RowNumber": 2,
+        "PlayId": 2
+      },
+      {
+        "Price": 35.11,
+        "RowNumber": 7,
+        "PlayId": 14
+      },
+      {
+        "Price": -15,
+        "RowNumber": 6,
+        "PlayId": 14
+      },
+      {
+        "Price": 83.18,
+        "RowNumber": 3,
+        "PlayId": 12
+      },
+      {
+        "Price": 93.7,
+        "RowNumber": 3,
+        "PlayId": 15
+      },
+      {
+        "Price": 57.3,
+        "RowNumber": 3,
+        "PlayId": 12
+      },
+      {
+        "Price": 74.43,
+        "RowNumber": 4,
+        "PlayId": 11
+      },
+      {
+        "Price": 68.58,
+        "RowNumber": 6,
+        "PlayId": 15
+      }
+    ]
+  },
+  {
+    "Name": "Le Balzac",
+    "NumberOfHalls": 8,
+    "Director": "Duff Yukhnov",
+    "Tickets": [
+      {
+        "Price": 66.15,
+        "RowNumber": 3,
+        "PlayId": 15
+      },
+      {
+        "Price": 72.72,
+        "RowNumber": 8,
+        "PlayId": 16
+      },
+      {
+        "Price": 0,
+        "RowNumber": 8,
+        "PlayId": 19
+      },
+      {
+        "Price": 35.46,
+        "RowNumber": 6,
+        "PlayId": 19
+      },
+      {
+        "Price": 77.17,
+        "RowNumber": 6,
+        "PlayId": 16
+      },
+      {
+        "Price": 33.74,
+        "RowNumber": 2,
+        "PlayId": 15
+      },
+      {
+        "Price": 8.1,
+        "RowNumber": 10,
+        "PlayId": 20
+      },
+      {
+        "Price": 61.03,
+        "RowNumber": 1,
+        "PlayId": 15
+      },
+      {
+        "Price": 66.1,
+        "RowNumber": 10,
+        "PlayId": 19
+      },
+      {
+        "Price": 34.08,
+        "RowNumber": 3,
+        "PlayId": 3
+      },
+      {
+        "Price": 17.84,
+        "RowNumber": 4,
+        "PlayId": 3
+      },
+      {
+        "Price": 15.66,
+        "RowNumber": 5,
+        "PlayId": 19
+      },
+      {
+        "Price": 8.67,
+        "RowNumber": 7,
+        "PlayId": 4
+      },
+      {
+        "Price": 62.09,
+        "RowNumber": 2,
+        "PlayId": 16
+      },
+      {
+        "Price": 40.85,
+        "RowNumber": 1,
+        "PlayId": 15
+      },
+      {
+        "Price": 23.29,
+        "RowNumber": 3,
+        "PlayId": 16
+      },
+      {
+        "Price": 38.59,
+        "RowNumber": 1,
+        "PlayId": 19
+      },
+      {
+        "Price": 0,
+        "RowNumber": 7,
+        "PlayId": 17
+      },
+      {
+        "Price": 80.29,
+        "RowNumber": 1,
+        "PlayId": 18
+      },
+      {
+        "Price": 55.32,
+        "RowNumber": 15,
+        "PlayId": 17
+      },
+      {
+        "Price": 56.63,
+        "RowNumber": 5,
+        "PlayId": 16
+      },
+      {
+        "Price": 80.08,
+        "RowNumber": 2,
+        "PlayId": 17
+      },
+      {
+        "Price": 47.35,
+        "RowNumber": 9,
+        "PlayId": 20
+      },
+      {
+        "Price": 6.71,
+        "RowNumber": 8,
+        "PlayId": 19
+      },
+      {
+        "Price": 17.99,
+        "RowNumber": 8,
+        "PlayId": 6
+      }
+    ]
+  },
+  {
+    "Name": "Le Champo",
+    "NumberOfHalls": 2,
+    "Director": "Artur McIllrick",
+    "Tickets": [
+      {
+        "Price": 53.62,
+        "RowNumber": 3,
+        "PlayId": 17
+      },
+      {
+        "Price": 52.02,
+        "RowNumber": 6,
+        "PlayId": 5
+      },
+      {
+        "Price": 1.98,
+        "RowNumber": 9,
+        "PlayId": 18
+      },
+      {
+        "Price": 22.14,
+        "RowNumber": 9,
+        "PlayId": 18
+      },
+      {
+        "Price": 85.71,
+        "RowNumber": 5,
+        "PlayId": 16
+      },
+      {
+        "Price": 70.44,
+        "RowNumber": 2,
+        "PlayId": 16
+      },
+      {
+        "Price": 30.37,
+        "RowNumber": 1,
+        "PlayId": 19
+      },
+      {
+        "Price": 47.25,
+        "RowNumber": 5,
+        "PlayId": 19
+      },
+      {
+        "Price": 55.32,
+        "RowNumber": -15,
+        "PlayId": 16
+      },
+      {
+        "Price": 96.4,
+        "RowNumber": 3,
+        "PlayId": 17
+      },
+      {
+        "Price": 70.44,
+        "RowNumber": 10,
+        "PlayId": 20
+      },
+      {
+        "Price": 75.99,
+        "RowNumber": 9,
+        "PlayId": 16
+      },
+      {
+        "Price": 91.42,
+        "RowNumber": 7,
+        "PlayId": 3
+      },
+      {
+        "Price": 2.8,
+        "RowNumber": 3,
+        "PlayId": 18
+      },
+      {
+        "Price": 44.32,
+        "RowNumber": 9,
+        "PlayId": 20
+      },
+      {
+        "Price": 70.19,
+        "RowNumber": 55,
+        "PlayId": 4
+      },
+      {
+        "Price": 30.72,
+        "RowNumber": 3,
+        "PlayId": 18
+      },
+      {
+        "Price": 55.36,
+        "RowNumber": 2,
+        "PlayId": 20
+      },
+      {
+        "Price": 32.76,
+        "RowNumber": 4,
+        "PlayId": 18
+      }
+    ]
+  },
+  {
+    "Name": "Max Linder Panorama",
+    "NumberOfHalls": 5,
+    "Director": "Patrizia Lillico",
+    "Tickets": [
+      {
+        "Price": 88.65,
+        "RowNumber": 55,
+        "PlayId": 3
+      },
+      {
+        "Price": 99.24,
+        "RowNumber": 22,
+        "PlayId": 4
+      },
+      {
+        "Price": 74.40,
+        "RowNumber": 5,
+        "PlayId": 20
+      },
+      {
+        "Price": 73.67,
+        "RowNumber": 1,
+        "PlayId": 25
+      },
+      {
+        "Price": 16.77,
+        "RowNumber": 1,
+        "PlayId": 20
+      },
+      {
+        "Price": 3.51,
+        "RowNumber": 5,
+        "PlayId": 25
+      },
+      {
+        "Price": 21.73,
+        "RowNumber": 9,
+        "PlayId": 25
+      },
+      {
+        "Price": 77.55,
+        "RowNumber": 7,
+        "PlayId": 22
+      },
+      {
+        "Price": 44.48,
+        "RowNumber": 77,
+        "PlayId": 5
+      },
+      {
+        "Price": 7.07,
+        "RowNumber": 9,
+        "PlayId": 21
+      },
+      {
+        "Price": 70.8,
+        "RowNumber": 7,
+        "PlayId": 20
+      },
+      {
+        "Price": 26.33,
+        "RowNumber": 8,
+        "PlayId": 23
+      },
+      {
+        "Price": 35.01,
+        "RowNumber": 2,
+        "PlayId": 24
+      },
+      {
+        "Price": 44.64,
+        "RowNumber": 11,
+        "PlayId": 20
+      },
+      {
+        "Price": 55.64,
+        "RowNumber": 3,
+        "PlayId": 20
+      },
+      {
+        "Price": 37.82,
+        "RowNumber": 3,
+        "PlayId": 24
+      },
+      {
+        "Price": 86.96,
+        "RowNumber": 1,
+        "PlayId": 21
+      },
+      {
+        "Price": 93.71,
+        "RowNumber": 8,
+        "PlayId": 21
+      },
+      {
+        "Price": 95.17,
+        "RowNumber": 10,
+        "PlayId": 21
+      },
+      {
+        "Price": 83.73,
+        "RowNumber": 44,
+        "PlayId": 5
+      },
+      {
+        "Price": 78.55,
+        "RowNumber": 9,
+        "PlayId": 24
+      },
+      {
+        "Price": 66.11,
+        "RowNumber": 7,
+        "PlayId": 23
+      },
+      {
+        "Price": 21.89,
+        "RowNumber": 7,
+        "PlayId": 25
+      },
+      {
+        "Price": 30.99,
+        "RowNumber": 77,
+        "PlayId": 4
+      },
+      {
+        "Price": 35.7,
+        "RowNumber": 10,
+        "PlayId": 21
+      },
+      {
+        "Price": 83.38,
+        "RowNumber": 10,
+        "PlayId": 20
+      },
+      {
+        "Price": 47.95,
+        "RowNumber": 3,
+        "PlayId": 25
+      },
+      {
+        "Price": 30.67,
+        "RowNumber": 7,
+        "PlayId": 22
+      },
+      {
+        "Price": 13.48,
+        "RowNumber": 2,
+        "PlayId": 22
+      },
+      {
+        "Price": 45.84,
+        "RowNumber": 4,
+        "PlayId": 21
+      }
+    ]
+  },
+  {
+    "Name": "The Studio des Ursulines",
+    "NumberOfHalls": 5,
+    "Director": "Annie Baker",
+    "Tickets": [
+      {
+        "Price": 72.78,
+        "RowNumber": 2,
+        "PlayId": 26
+      },
+      {
+        "Price": -20,
+        "RowNumber": 7,
+        "PlayId": 29
+      },
+      {
+        "Price": 42.53,
+        "RowNumber": 7,
+        "PlayId": 26
+      },
+      {
+        "Price": 71.21,
+        "RowNumber": 7,
+        "PlayId": 28
+      },
+      {
+        "Price": 2.76,
+        "RowNumber": 1,
+        "PlayId": 26
+      },
+      {
+        "Price": 39.74,
+        "RowNumber": 55,
+        "PlayId": 1
+      },
+      {
+        "Price": 53.87,
+        "RowNumber": 6,
+        "PlayId": 26
+      },
+      {
+        "Price": 56.05,
+        "RowNumber": 4,
+        "PlayId": 30
+      },
+      {
+        "Price": 15.77,
+        "RowNumber": 7,
+        "PlayId": 25
+      },
+      {
+        "Price": 49.17,
+        "RowNumber": 55,
+        "PlayId": 1
+      },
+      {
+        "Price": 55.95,
+        "RowNumber": 1,
+        "PlayId": 25
+      },
+      {
+        "Price": 53.72,
+        "RowNumber": 55,
+        "PlayId": 4
+      },
+      {
+        "Price": 78.46,
+        "RowNumber": 9,
+        "PlayId": 27
+      },
+      {
+        "Price": 18.18,
+        "RowNumber": 9,
+        "PlayId": 30
+      },
+      {
+        "Price": 77.14,
+        "RowNumber": 8,
+        "PlayId": 26
+      },
+      {
+        "Price": 88.55,
+        "RowNumber": 16,
+        "PlayId": 27
+      },
+      {
+        "Price": 70.34,
+        "RowNumber": 6,
+        "PlayId": 27
+      },
+      {
+        "Price": 19.88,
+        "RowNumber": 1,
+        "PlayId": 30
+      },
+      {
+        "Price": 26.67,
+        "RowNumber": 6,
+        "PlayId": 29
+      },
+      {
+        "Price": 77.55,
+        "RowNumber": 4,
+        "PlayId": 26
+      },
+      {
+        "Price": 66.78,
+        "RowNumber": 8,
+        "PlayId": 29
+      },
+      {
+        "Price": 74.92,
+        "RowNumber": 2,
+        "PlayId": 25
+      },
+      {
+        "Price": 44.32,
+        "RowNumber": 2,
+        "PlayId": 26
+      },
+      {
+        "Price": 46.66,
+        "RowNumber": 3,
+        "PlayId": 26
+      },
+      {
+        "Price": 30.82,
+        "RowNumber": 3,
+        "PlayId": 29
+      },
+      {
+        "Price": 1.63,
+        "RowNumber": 8,
+        "PlayId": 25
+      },
+      {
+        "Price": 26.15,
+        "RowNumber": 2,
+        "PlayId": 29
+      },
+      {
+        "Price": 13.29,
+        "RowNumber": 9,
+        "PlayId": 25
+      },
+      {
+        "Price": 5.81,
+        "RowNumber": 7,
+        "PlayId": 30
+      },
+      {
+        "Price": 31.02,
+        "RowNumber": 10,
+        "PlayId": 26
+      }
+    ]
+  },
+  {
+    "Name": "",
+    "NumberOfHalls": 7,
+    "Director": "Aslwin VacCosty",
+    "Tickets": [
+      {
+        "Price": 7.63,
+        "RowNumber": 5,
+        "PlayId": 4
+      },
+      {
+        "Price": 47.96,
+        "RowNumber": 9,
+        "PlayId": 3
+      }
+    ]
+  },
+  {
+    "Name": "Babylon",
+    "NumberOfHalls": 7,
+    "Director": "Randell Pauler",
+    "Tickets": [
+      {
+        "Price": 91.79,
+        "RowNumber": 10,
+        "PlayId": 5
+      },
+      {
+        "Price": 17.53,
+        "RowNumber": 3,
+        "PlayId": 3
+      },
+      {
+        "Price": 92.01,
+        "RowNumber": 5,
+        "PlayId": 4
+      },
+      {
+        "Price": 9.55,
+        "RowNumber": 44,
+        "PlayId": 1
+      },
+      {
+        "Price": 43.38,
+        "RowNumber": 5,
+        "PlayId": 3
+      },
+      {
+        "Price": 88.63,
+        "RowNumber": 8,
+        "PlayId": 6
+      },
+      {
+        "Price": 60.69,
+        "RowNumber": 8,
+        "PlayId": 5
+      },
+      {
+        "Price": 52.48,
+        "RowNumber": 10,
+        "PlayId": 7
+      },
+      {
+        "Price": 28.73,
+        "RowNumber": 10,
+        "PlayId": 2
+      },
+      {
+        "Price": 33.15,
+        "RowNumber": 6,
+        "PlayId": 1
+      },
+      {
+        "Price": 40.78,
+        "RowNumber": 6,
+        "PlayId": 1
+      },
+      {
+        "Price": 125.55,
+        "RowNumber": 2,
+        "PlayId": 4
+      },
+      {
+        "Price": 7.43,
+        "RowNumber": 1,
+        "PlayId": 3
+      },
+      {
+        "Price": 41.3,
+        "RowNumber": 1,
+        "PlayId": 3
+      },
+      {
+        "Price": 22.57,
+        "RowNumber": 4,
+        "PlayId": 1
+      },
+      {
+        "Price": 37.42,
+        "RowNumber": 44,
+        "PlayId": 11
+      },
+      {
+        "Price": 73.41,
+        "RowNumber": 7,
+        "PlayId": 7
+      },
+      {
+        "Price": 33.14,
+        "RowNumber": 8,
+        "PlayId": 5
+      },
+      {
+        "Price": 1.05,
+        "RowNumber": 1,
+        "PlayId": 5
+      },
+      {
+        "Price": 20.69,
+        "RowNumber": 5,
+        "PlayId": 6
+      },
+      {
+        "Price": 80.13,
+        "RowNumber": 7,
+        "PlayId": 4
+      },
+      {
+        "Price": 68.0,
+        "RowNumber": 1,
+        "PlayId": 1
+      },
+      {
+        "Price": 96.99,
+        "RowNumber": 10,
+        "PlayId": 6
+      },
+      {
+        "Price": 99.77,
+        "RowNumber": 5,
+        "PlayId": 6
+      },
+      {
+        "Price": 94.25,
+        "RowNumber": 10,
+        "PlayId": 2
+      },
+      {
+        "Price": 80.33,
+        "RowNumber": 5,
+        "PlayId": 6
+      },
+      {
+        "Price": 56.56,
+        "RowNumber": 3,
+        "PlayId": 1
+      },
+      {
+        "Price": 70.45,
+        "RowNumber": 10,
+        "PlayId": 6
+      },
+      {
+        "Price": 8.75,
+        "RowNumber": 8,
+        "PlayId": 1
+      },
+      {
+        "Price": 44.25,
+        "RowNumber": 9,
+        "PlayId": 7
+      }
+    ]
+  },
+  {
+    "Name": "Teatro Adriano",
+    "NumberOfHalls": 3,
+    "Director": "Eden Varga",
+    "Tickets": [
+      {
+        "Price": 22.55,
+        "RowNumber": 2,
+        "PlayId": 7
+      },
+      {
+        "Price": 41.99,
+        "RowNumber": 2,
+        "PlayId": 7
+      },
+      {
+        "Price": 12.25,
+        "RowNumber": 6,
+        "PlayId": 7
+      },
+      {
+        "Price": 0.55,
+        "RowNumber": 2,
+        "PlayId": 12
+      },
+      {
+        "Price": 40.79,
+        "RowNumber": 2,
+        "PlayId": 13
+      },
+      {
+        "Price": 65.31,
+        "RowNumber": 7,
+        "PlayId": 14
+      },
+      {
+        "Price": 89.27,
+        "RowNumber": 8,
+        "PlayId": 11
+      },
+      {
+        "Price": 84.5,
+        "RowNumber": 5,
+        "PlayId": 9
+      },
+      {
+        "Price": 68.96,
+        "RowNumber": 4,
+        "PlayId": 8
+      },
+      {
+        "Price": 14.19,
+        "RowNumber": 9,
+        "PlayId": 15
+      },
+      {
+        "Price": 16.3,
+        "RowNumber": 5,
+        "PlayId": 7
+      },
+      {
+        "Price": 72.47,
+        "RowNumber": 7,
+        "PlayId": 8
+      },
+      {
+        "Price": 27.97,
+        "RowNumber": 9,
+        "PlayId": 13
+      },
+      {
+        "Price": 14.09,
+        "RowNumber": 9,
+        "PlayId": 13
+      },
+      {
+        "Price": 55.22,
+        "RowNumber": 4,
+        "PlayId": 13
+      },
+      {
+        "Price": 47.08,
+        "RowNumber": 2,
+        "PlayId": 13
+      },
+      {
+        "Price": 62.72,
+        "RowNumber": 7,
+        "PlayId": 11
+      },
+      {
+        "Price": 23.72,
+        "RowNumber": 44,
+        "PlayId": 1
+      },
+      {
+        "Price": 5.58,
+        "RowNumber": 5,
+        "PlayId": 10
+      },
+      {
+        "Price": 38.19,
+        "RowNumber": 5,
+        "PlayId": 14
+      },
+      {
+        "Price": 32.73,
+        "RowNumber": 9,
+        "PlayId": 13
+      },
+      {
+        "Price": 45.25,
+        "RowNumber": 9,
+        "PlayId": 9
+      },
+      {
+        "Price": 29.64,
+        "RowNumber": 6,
+        "PlayId": 8
+      },
+      {
+        "Price": 93.44,
+        "RowNumber": 8,
+        "PlayId": 13
+      },
+      {
+        "Price": 87.94,
+        "RowNumber": 66,
+        "PlayId": 1
+      },
+      {
+        "Price": 56.74,
+        "RowNumber": 6,
+        "PlayId": 7
+      },
+      {
+        "Price": 34.91,
+        "RowNumber": 44,
+        "PlayId": 1
+      },
+      {
+        "Price": 6.94,
+        "RowNumber": 1,
+        "PlayId": 11
+      },
+      {
+        "Price": 20.13,
+        "RowNumber": 5,
+        "PlayId": 8
+      },
+      {
+        "Price": 68.66,
+        "RowNumber": 6,
+        "PlayId": 8
+      }
+    ]
+  },
+  {
+    "Name": "Teatro Dante",
+    "NumberOfHalls": 2,
+    "Director": "Darb Monday",
+    "Tickets": [
+      {
+        "Price": 21.53,
+        "RowNumber": 8,
+        "PlayId": 19
+      },
+      {
+        "Price": 87.75,
+        "RowNumber": 3,
+        "PlayId": 19
+      },
+      {
+        "Price": 56.09,
+        "RowNumber": 2,
+        "PlayId": 19
+      },
+      {
+        "Price": 77.38,
+        "RowNumber": 8,
+        "PlayId": 16
+      },
+      {
+        "Price": 7.95,
+        "RowNumber": 7,
+        "PlayId": 17
+      },
+      {
+        "Price": -12,
+        "RowNumber": 2,
+        "PlayId": 16
+      },
+      {
+        "Price": 28.67,
+        "RowNumber": 9,
+        "PlayId": 22
+      },
+      {
+        "Price": 8.59,
+        "RowNumber": 10,
+        "PlayId": 22
+      },
+      {
+        "Price": 98.07,
+        "RowNumber": 10,
+        "PlayId": 23
+      },
+      {
+        "Price": 77.99,
+        "RowNumber": 6,
+        "PlayId": 22
+      },
+      {
+        "Price": 11.54,
+        "RowNumber": 3,
+        "PlayId": 20
+      },
+      {
+        "Price": 58.17,
+        "RowNumber": 1,
+        "PlayId": 15
+      },
+      {
+        "Price": 6.06,
+        "RowNumber": 6,
+        "PlayId": 17
+      },
+      {
+        "Price": 16.42,
+        "RowNumber": 6,
+        "PlayId": 19
+      },
+      {
+        "Price": 33.95,
+        "RowNumber": 4,
+        "PlayId": 23
+      },
+      {
+        "Price": 19.27,
+        "RowNumber": 7,
+        "PlayId": 19
+      },
+      {
+        "Price": 1.98,
+        "RowNumber": 9,
+        "PlayId": 15
+      },
+      {
+        "Price": 11.53,
+        "RowNumber": 10,
+        "PlayId": 17
+      },
+      {
+        "Price": 87.73,
+        "RowNumber": 8,
+        "PlayId": 23
+      },
+      {
+        "Price": 36.47,
+        "RowNumber": 2,
+        "PlayId": 14
+      },
+      {
+        "Price": 23.67,
+        "RowNumber": 10,
+        "PlayId": 19
+      },
+      {
+        "Price": 85.42,
+        "RowNumber": 9,
+        "PlayId": 16
+      },
+      {
+        "Price": 96.54,
+        "RowNumber": 6,
+        "PlayId": 15
+      },
+      {
+        "Price": 67.64,
+        "RowNumber": 44,
+        "PlayId": 1
+      },
+      {
+        "Price": 81.01,
+        "RowNumber": 3,
+        "PlayId": 20
+      },
+      {
+        "Price": 65.13,
+        "RowNumber": 7,
+        "PlayId": 22
+      },
+      {
+        "Price": 50.86,
+        "RowNumber": 1,
+        "PlayId": 23
+      },
+      {
+        "Price": 1.36,
+        "RowNumber": 44,
+        "PlayId": 1
+      },
+      {
+        "Price": 97.68,
+        "RowNumber": 9,
+        "PlayId": 21
+      },
+      {
+        "Price": 46.84,
+        "RowNumber": 5,
+        "PlayId": 19
+      }
+    ]
+  },
+  {
+    "Name": "Panda Vision",
+    "NumberOfHalls": 4,
+    "Director": "Bertolt Brecht",
+    "Tickets": [
+      {
+        "Price": 68.56,
+        "RowNumber": 8,
+        "PlayId": 24
+      },
+      {
+        "Price": 59.06,
+        "RowNumber": 8,
+        "PlayId": 26
+      },
+      {
+        "Price": 1.14,
+        "RowNumber": 7,
+        "PlayId": 19
+      },
+      {
+        "Price": 34.36,
+        "RowNumber": 4,
+        "PlayId": 23
+      },
+      {
+        "Price": 32.1,
+        "RowNumber": 6,
+        "PlayId": 30
+      },
+      {
+        "Price": 42.14,
+        "RowNumber": 6,
+        "PlayId": 20
+      },
+      {
+        "Price": 88.21,
+        "RowNumber": 6,
+        "PlayId": 23
+      },
+      {
+        "Price": 90.04,
+        "RowNumber": 9,
+        "PlayId": 29
+      },
+      {
+        "Price": 45.43,
+        "RowNumber": 5,
+        "PlayId": 28
+      },
+      {
+        "Price": 77.11,
+        "RowNumber": 1,
+        "PlayId": 25
+      },
+      {
+        "Price": 3.64,
+        "RowNumber": 10,
+        "PlayId": 23
+      },
+      {
+        "Price": 63.65,
+        "RowNumber": 5,
+        "PlayId": 24
+      },
+      {
+        "Price": 54.22,
+        "RowNumber": 55,
+        "PlayId": 1
+      },
+      {
+        "Price": 60.02,
+        "RowNumber": 5,
+        "PlayId": 29
+      },
+      {
+        "Price": 51.87,
+        "RowNumber": 6,
+        "PlayId": 4
+      },
+      {
+        "Price": 31.91,
+        "RowNumber": 22,
+        "PlayId": 1
+      },
+      {
+        "Price": 41.97,
+        "RowNumber": 3,
+        "PlayId": 29
+      },
+      {
+        "Price": 16.33,
+        "RowNumber": 5,
+        "PlayId": 29
+      },
+      {
+        "Price": 5.75,
+        "RowNumber": 8,
+        "PlayId": 29
+      },
+      {
+        "Price": 15.44,
+        "RowNumber": 3,
+        "PlayId": 24
+      },
+      {
+        "Price": 14.41,
+        "RowNumber": 1,
+        "PlayId": 23
+      },
+      {
+        "Price": 9.45,
+        "RowNumber": 8,
+        "PlayId": 27
+      },
+      {
+        "Price": 61.02,
+        "RowNumber": 22,
+        "PlayId": 1
+      },
+      {
+        "Price": 16.54,
+        "RowNumber": 7,
+        "PlayId": 28
+      },
+      {
+        "Price": 20.44,
+        "RowNumber": 7,
+        "PlayId": 23
+      },
+      {
+        "Price": 83.98,
+        "RowNumber": 9,
+        "PlayId": 28
+      },
+      {
+        "Price": 68.97,
+        "RowNumber": 7,
+        "PlayId": 29
+      },
+      {
+        "Price": 83.84,
+        "RowNumber": 4,
+        "PlayId": 24
+      },
+      {
+        "Price": 70.83,
+        "RowNumber": 5,
+        "PlayId": 28
+      },
+      {
+        "Price": 79.12,
+        "RowNumber": 6,
+        "PlayId": 29
+      }
+    ]
+  },
+  {
+    "Name": "Rex Theatre",
+    "NumberOfHalls": 5,
+    "Director": "Sorcha Banting",
+    "Tickets": [
+      {
+        "Price": 24.88,
+        "RowNumber": 3,
+        "PlayId": 6
+      },
+      {
+        "Price": 57.96,
+        "RowNumber": 4,
+        "PlayId": 3
+      },
+      {
+        "Price": 12.63,
+        "RowNumber": 6,
+        "PlayId": 8
+      },
+      {
+        "Price": 44.22,
+        "RowNumber": 1,
+        "PlayId": 3
+      },
+      {
+        "Price": 27.05,
+        "RowNumber": 3,
+        "PlayId": 5
+      },
+      {
+        "Price": 57.77,
+        "RowNumber": 2,
+        "PlayId": 8
+      },
+      {
+        "Price": 25.40,
+        "RowNumber": 9,
+        "PlayId": 8
+      },
+      {
+        "Price": 66.33,
+        "RowNumber": 4,
+        "PlayId": 6
+      },
+      {
+        "Price": 82.24,
+        "RowNumber": 3,
+        "PlayId": 8
+      },
+      {
+        "Price": 50.64,
+        "RowNumber": 5,
+        "PlayId": 7
+      },
+      {
+        "Price": 15.22,
+        "RowNumber": 10,
+        "PlayId": 7
+      },
+      {
+        "Price": 46.63,
+        "RowNumber": 4,
+        "PlayId": 4
+      },
+      {
+        "Price": 49.66,
+        "RowNumber": 7,
+        "PlayId": 7
+      },
+      {
+        "Price": 78.46,
+        "RowNumber": 9,
+        "PlayId": 5
+      },
+      {
+        "Price": 43.88,
+        "RowNumber": 7,
+        "PlayId": 5
+      },
+      {
+        "Price": 5.84,
+        "RowNumber": 8,
+        "PlayId": 6
+      },
+      {
+        "Price": 75.15,
+        "RowNumber": 5,
+        "PlayId": 8
+      },
+      {
+        "Price": 69.58,
+        "RowNumber": 2,
+        "PlayId": 5
+      },
+      {
+        "Price": 77.93,
+        "RowNumber": 9,
+        "PlayId": 6
+      },
+      {
+        "Price": 63.71,
+        "RowNumber": 7,
+        "PlayId": 3
+      },
+      {
+        "Price": 70.56,
+        "RowNumber": 6,
+        "PlayId": 8
+      },
+      {
+        "Price": 80.58,
+        "RowNumber": 55,
+        "PlayId": 1
+      },
+      {
+        "Price": 83.52,
+        "RowNumber": 7,
+        "PlayId": 23
+      },
+      {
+        "Price": 44.22,
+        "RowNumber": 2,
+        "PlayId": 3
+      },
+      {
+        "Price": 26.54,
+        "RowNumber": 2,
+        "PlayId": 14
+      },
+      {
+        "Price": 82.61,
+        "RowNumber": 7,
+        "PlayId": 7
+      },
+      {
+        "Price": 22.69,
+        "RowNumber": 8,
+        "PlayId": 6
+      },
+      {
+        "Price": 80.71,
+        "RowNumber": 3,
+        "PlayId": 15
+      },
+      {
+        "Price": 8.08,
+        "RowNumber": 5,
+        "PlayId": 7
+      },
+      {
+        "Price": 71.78,
+        "RowNumber": 1,
+        "PlayId": 3
+      }
+    ]
+  },
+  {
+    "Name": "Toneelschuur",
+    "NumberOfHalls": 9,
+    "Director": "Feodor Spitell",
+    "Tickets": [
+      {
+        "Price": 54.69,
+        "RowNumber": 7,
+        "PlayId": 10
+      },
+      {
+        "Price": 91.46,
+        "RowNumber": 5,
+        "PlayId": 18
+      },
+      {
+        "Price": 87.88,
+        "RowNumber": 5,
+        "PlayId": 9
+      },
+      {
+        "Price": 76.09,
+        "RowNumber": 9,
+        "PlayId": 9
+      },
+      {
+        "Price": 42.79,
+        "RowNumber": 3,
+        "PlayId": 8
+      },
+      {
+        "Price": 71.45,
+        "RowNumber": 3,
+        "PlayId": 10
+      },
+      {
+        "Price": 46.42,
+        "RowNumber": 7,
+        "PlayId": 10
+      },
+      {
+        "Price": 89.78,
+        "RowNumber": 4,
+        "PlayId": 9
+      },
+      {
+        "Price": 35.91,
+        "RowNumber": 4,
+        "PlayId": 13
+      },
+      {
+        "Price": 2.37,
+        "RowNumber": 5,
+        "PlayId": 10
+      },
+      {
+        "Price": 88.55,
+        "RowNumber": 4,
+        "PlayId": 10
+      },
+      {
+        "Price": 13.66,
+        "RowNumber": 5,
+        "PlayId": 12
+      },
+      {
+        "Price": 96.14,
+        "RowNumber": 1,
+        "PlayId": 12
+      },
+      {
+        "Price": 36.28,
+        "RowNumber": 4,
+        "PlayId": 8
+      },
+      {
+        "Price": 55.01,
+        "RowNumber": 4,
+        "PlayId": 12
+      },
+      {
+        "Price": 84.53,
+        "RowNumber": 7,
+        "PlayId": 11
+      },
+      {
+        "Price": 76.28,
+        "RowNumber": 8,
+        "PlayId": 11
+      },
+      {
+        "Price": 66.48,
+        "RowNumber": 7,
+        "PlayId": 12
+      },
+      {
+        "Price": 9.62,
+        "RowNumber": 7,
+        "PlayId": 16
+      },
+      {
+        "Price": 52.44,
+        "RowNumber": 8,
+        "PlayId": 8
+      },
+      {
+        "Price": 34.91,
+        "RowNumber": 2,
+        "PlayId": 10
+      },
+      {
+        "Price": 22.33,
+        "RowNumber": 6,
+        "PlayId": 12
+      },
+      {
+        "Price": 92.17,
+        "RowNumber": 8,
+        "PlayId": 8
+      },
+      {
+        "Price": 2.80,
+        "RowNumber": 55,
+        "PlayId": 1
+      },
+      {
+        "Price": 64.47,
+        "RowNumber": 2,
+        "PlayId": 12
+      },
+      {
+        "Price": 70.97,
+        "RowNumber": 3,
+        "PlayId": 8
+      },
+      {
+        "Price": 29.27,
+        "RowNumber": 2,
+        "PlayId": 11
+      },
+      {
+        "Price": 61.76,
+        "RowNumber": 10,
+        "PlayId": 12
+      },
+      {
+        "Price": 81.12,
+        "RowNumber": 6,
+        "PlayId": 10
+      },
+      {
+        "Price": 36.84,
+        "RowNumber": 2,
+        "PlayId": 10
+      }
+    ]
+  },
+  {
+    "Name": "",
+    "NumberOfHalls": 7,
+    "Director": "Alwin MacCostyAlwin MacCdfgdfgostyAlwinMacCostyAlwin MacCostyAlwin MacCosty",
+    "Tickets": [
+      {
+        "Price": 7.63,
+        "RowNumber": 5,
+        "PlayId": 4
+      },
+      {
+        "Price": 47.96,
+        "RowNumber": 9,
+        "PlayId": 3
+      }
+    ]
+  },
+  {
+    "Name": "Bergakungen",
+    "NumberOfHalls": 2,
+    "Director": "Oliver Goldsmith",
+    "Tickets": [
+      {
+        "Price": 89.01,
+        "RowNumber": 4,
+        "PlayId": 13
+      },
+      {
+        "Price": 42.22,
+        "RowNumber": 10,
+        "PlayId": 13
+      },
+      {
+        "Price": 41.22,
+        "RowNumber": 8,
+        "PlayId": 13
+      },
+      {
+        "Price": 97.77,
+        "RowNumber": 55,
+        "PlayId": 1
+      },
+      {
+        "Price": 85.18,
+        "RowNumber": 55,
+        "PlayId": 1
+      },
+      {
+        "Price": 74.07,
+        "RowNumber": 3,
+        "PlayId": 12
+      },
+      {
+        "Price": 3.23,
+        "RowNumber": 3,
+        "PlayId": 12
+      },
+      {
+        "Price": 99.99,
+        "RowNumber": 8,
+        "PlayId": 15
+      },
+      {
+        "Price": 26.77,
+        "RowNumber": 1,
+        "PlayId": 15
+      },
+      {
+        "Price": 39.78,
+        "RowNumber": 10,
+        "PlayId": 15
+      },
+      {
+        "Price": 84.27,
+        "RowNumber": 5,
+        "PlayId": 13
+      },
+      {
+        "Price": 47.35,
+        "RowNumber": 3,
+        "PlayId": 16
+      },
+      {
+        "Price": 95.87,
+        "RowNumber": 5,
+        "PlayId": 12
+      },
+      {
+        "Price": -55,
+        "RowNumber": 4,
+        "PlayId": 14
+      },
+      {
+        "Price": 35.1,
+        "RowNumber": 4,
+        "PlayId": 17
+      },
+      {
+        "Price": 91.08,
+        "RowNumber": 5,
+        "PlayId": 16
+      },
+
+      {
+        "Price": 15.35,
+        "RowNumber": 9,
+        "PlayId": 15
+      },
+      {
+        "Price": 6.52,
+        "RowNumber": 2,
+        "PlayId": 15
+      },
+      {
+        "Price": 22.33,
+        "RowNumber": 3,
+        "PlayId": 16
+      },
+      {
+        "Price": 13.68,
+        "RowNumber": 9,
+        "PlayId": 15
+      },
+      {
+        "Price": 20.33,
+        "RowNumber": 2,
+        "PlayId": 17
+      },
+      {
+        "Price": 87.98,
+        "RowNumber": 3,
+        "PlayId": 14
+      },
+      {
+        "Price": 99.13,
+        "RowNumber": 2,
+        "PlayId": 13
+      },
+      {
+        "Price": 84.55,
+        "RowNumber": 2,
+        "PlayId": 16
+      },
+      {
+        "Price": 53.85,
+        "RowNumber": 6,
+        "PlayId": 13
+      },
+      {
+        "Price": 28.49,
+        "RowNumber": 4,
+        "PlayId": 17
+      },
+      {
+        "Price": 36.29,
+        "RowNumber": 6,
+        "PlayId": 17
+      },
+      {
+        "Price": 41.64,
+        "RowNumber": 33,
+        "PlayId": 3
+      },
+      {
+        "Price": 35.56,
+        "RowNumber": 10,
+        "PlayId": 13
+      }
+    ]
+  },
+  {
+    "Name": "Fox Theatre",
+    "NumberOfHalls": 7,
+    "Director": "Milt Charrette",
+    "Tickets": [
+      {
+        "Price": 20.37,
+        "RowNumber": 7,
+        "PlayId": 20
+      },
+      {
+        "Price": 54.76,
+        "RowNumber": 6,
+        "PlayId": 18
+      },
+      {
+        "Price": 38.87,
+        "RowNumber": 3,
+        "PlayId": 21
+      },
+      {
+        "Price": 42.02,
+        "RowNumber": 1,
+        "PlayId": 18
+      },
+      {
+        "Price": 11.22,
+        "RowNumber": 3,
+        "PlayId": 21
+      },
+      {
+        "Price": 52.61,
+        "RowNumber": 10,
+        "PlayId": 20
+      },
+      {
+        "Price": 96.87,
+        "RowNumber": 4,
+        "PlayId": 20
+      },
+      {
+        "Price": 44.06,
+        "RowNumber": 10,
+        "PlayId": 18
+      },
+      {
+        "Price": 86.28,
+        "RowNumber": 3,
+        "PlayId": 19
+      },
+      {
+        "Price": 36.34,
+        "RowNumber": 3,
+        "PlayId": 19
+      },
+      {
+        "Price": 52.79,
+        "RowNumber": 8,
+        "PlayId": 18
+      },
+      {
+        "Price": 60.93,
+        "RowNumber": 1,
+        "PlayId": 21
+      },
+      {
+        "Price": 11.56,
+        "RowNumber": 3,
+        "PlayId": 18
+      },
+      {
+        "Price": 64.04,
+        "RowNumber": 45,
+        "PlayId": 3
+      },
+      {
+        "Price": 99.47,
+        "RowNumber": 1,
+        "PlayId": 21
+      },
+      {
+        "Price": 9.58,
+        "RowNumber": 5,
+        "PlayId": 20
+      },
+      {
+        "Price": 26.34,
+        "RowNumber": 4,
+        "PlayId": 18
+      },
+      {
+        "Price": 81.29,
+        "RowNumber": 8,
+        "PlayId": 18
+      },
+      {
+        "Price": 7.75,
+        "RowNumber": 55,
+        "PlayId": 3
+      },
+      {
+        "Price": 66.33,
+        "RowNumber": 9,
+        "PlayId": 20
+      },
+      {
+        "Price": 28.81,
+        "RowNumber": 4,
+        "PlayId": 19
+      },
+      {
+        "Price": 24.15,
+        "RowNumber": 3,
+        "PlayId": 14
+      },
+      {
+        "Price": 39.93,
+        "RowNumber": 6,
+        "PlayId": 21
+      },
+      {
+        "Price": 28.88,
+        "RowNumber": 9,
+        "PlayId": 18
+      },
+      {
+        "Price": 55.14,
+        "RowNumber": 3,
+        "PlayId": 20
+      },
+      {
+        "Price": 28.31,
+        "RowNumber": 3,
+        "PlayId": 21
+      },
+      {
+        "Price": 65.48,
+        "RowNumber": 4,
+        "PlayId": 17
+      },
+      {
+        "Price": 82.82,
+        "RowNumber": 9,
+        "PlayId": 20
+      },
+      {
+        "Price": 36.14,
+        "RowNumber": 8,
+        "PlayId": 19
+      },
+      {
+        "Price": 31.08,
+        "RowNumber": 3,
+        "PlayId": 18
+      }
+    ]
+  },
+  {
+    "Name": "",
+    "NumberOfHalls": 7,
+    "Director": "Wlwin Masty",
+    "Tickets": [
+      {
+        "Price": 7.63,
+        "RowNumber": 5,
+        "PlayId": 4
+      },
+      {
+        "Price": 47.96,
+        "RowNumber": 9,
+        "PlayId": 3
+      }
+    ]
+  },
+  {
+    "Name": "Maximteatern",
+    "NumberOfHalls": 4,
+    "Director": "Kata Wixon",
+    "Tickets": [
+      {
+        "Price": 75.14,
+        "RowNumber": 7,
+        "PlayId": 22
+      },
+      {
+        "Price": 33.88,
+        "RowNumber": 8,
+        "PlayId": 23
+      },
+      {
+        "Price": 82.97,
+        "RowNumber": 9,
+        "PlayId": 25
+      },
+      {
+        "Price": 11.16,
+        "RowNumber": 9,
+        "PlayId": 26
+      },
+      {
+        "Price": 78.96,
+        "RowNumber": 5,
+        "PlayId": 26
+      },
+      {
+        "Price": 20.49,
+        "RowNumber": 5,
+        "PlayId": 24
+      },
+      {
+        "Price": 10.11,
+        "RowNumber": 9,
+        "PlayId": 23
+      },
+      {
+        "Price": 81.42,
+        "RowNumber": 5,
+        "PlayId": 22
+      },
+      {
+        "Price": 14.57,
+        "RowNumber": 10,
+        "PlayId": 22
+      },
+      {
+        "Price": 42.07,
+        "RowNumber": 2,
+        "PlayId": 23
+      },
+      {
+        "Price": 69.53,
+        "RowNumber": 55,
+        "PlayId": 30
+      },
+      {
+        "Price": 23.43,
+        "RowNumber": 2,
+        "PlayId": 23
+      },
+      {
+        "Price": 74.91,
+        "RowNumber": 1,
+        "PlayId": 22
+      },
+      {
+        "Price": 23.61,
+        "RowNumber": 5,
+        "PlayId": 22
+      },
+      {
+        "Price": 4.28,
+        "RowNumber": 2,
+        "PlayId": 22
+      },
+      {
+        "Price": 77.49,
+        "RowNumber": 2,
+        "PlayId": 14
+      },
+      {
+        "Price": 31.86,
+        "RowNumber": 8,
+        "PlayId": 21
+      },
+      {
+        "Price": 74.58,
+        "RowNumber": 8,
+        "PlayId": 22
+      },
+      {
+        "Price": 19.45,
+        "RowNumber": 8,
+        "PlayId": 24
+      },
+      {
+        "Price": 66.57,
+        "RowNumber": 1,
+        "PlayId": 26
+      },
+      {
+        "Price": 88.54,
+        "RowNumber": 0,
+        "PlayId": 25
+      },
+      {
+        "Price": 49.73,
+        "RowNumber": 4,
+        "PlayId": 25
+      },
+      {
+        "Price": 72.07,
+        "RowNumber": 9,
+        "PlayId": 25
+      },
+      {
+        "Price": 66.64,
+        "RowNumber": 3,
+        "PlayId": 26
+      },
+      {
+        "Price": 82.87,
+        "RowNumber": 5,
+        "PlayId": 22
+      },
+      {
+        "Price": 64.75,
+        "RowNumber": 5,
+        "PlayId": 24
+      },
+      {
+        "Price": 36.35,
+        "RowNumber": 8,
+        "PlayId": 25
+      },
+      {
+        "Price": 13.22,
+        "RowNumber": 5,
+        "PlayId": 23
+      },
+      {
+        "Price": 77.65,
+        "RowNumber": 2,
+        "PlayId": 22
+      },
+      {
+        "Price": 24.62,
+        "RowNumber": 9,
+        "PlayId": 25
+      }
+    ]
+  },
+  {
+    "Name": "Curzon Mayfair Cinema",
+    "NumberOfHalls": 1,
+    "Director": "Greta Aspel",
+    "Tickets": [
+      {
+        "Price": 15.33,
+        "RowNumber": 9,
+        "PlayId": 27
+      },
+      {
+        "Price": 160.53,
+        "RowNumber": 5,
+        "PlayId": 26
+      },
+      {
+        "Price": 11.48,
+        "RowNumber": 3,
+        "PlayId": 29
+      },
+      {
+        "Price": 51.67,
+        "RowNumber": 7,
+        "PlayId": 28
+      },
+      {
+        "Price": 14.09,
+        "RowNumber": 7,
+        "PlayId": 29
+      },
+      {
+        "Price": 44.22,
+        "RowNumber": 10,
+        "PlayId": 28
+      },
+      {
+        "Price": 100.00,
+        "RowNumber": 5,
+        "PlayId": 28
+      },
+      {
+        "Price": 1.76,
+        "RowNumber": 10,
+        "PlayId": 30
+      },
+      {
+        "Price": 19.27,
+        "RowNumber": 10,
+        "PlayId": 28
+      },
+      {
+        "Price": 64.64,
+        "RowNumber": 10,
+        "PlayId": 26
+      },
+      {
+        "Price": 52.59,
+        "RowNumber": 1,
+        "PlayId": 26
+      },
+      {
+        "Price": 60.29,
+        "RowNumber": 1,
+        "PlayId": 29
+      },
+      {
+        "Price": 61.14,
+        "RowNumber": 7,
+        "PlayId": 29
+      },
+      {
+        "Price": 55.56,
+        "RowNumber": 2,
+        "PlayId": 27
+      },
+      {
+        "Price": 25.48,
+        "RowNumber": 55,
+        "PlayId": 1
+      },
+      {
+        "Price": 94.67,
+        "RowNumber": 1,
+        "PlayId": 26
+      },
+      {
+        "Price": 45.09,
+        "RowNumber": 4,
+        "PlayId": 27
+      },
+      {
+        "Price": 81.25,
+        "RowNumber": 6,
+        "PlayId": 27
+      },
+      {
+        "Price": 26.07,
+        "RowNumber": 5,
+        "PlayId": 27
+      },
+      {
+        "Price": 76.77,
+        "RowNumber": 6,
+        "PlayId": 29
+      }
+    ]
+  },
+  {
+    "Name": "Artcraft Theatre",
+    "NumberOfHalls": 9,
+    "Director": "Lynn Nottage",
+    "Tickets": [
+      {
+        "Price": 90.78,
+        "RowNumber": 3,
+        "PlayId": 5
+      },
+      {
+        "Price": 91.12,
+        "RowNumber": 2,
+        "PlayId": 2
+      },
+      {
+        "Price": 64.16,
+        "RowNumber": 9,
+        "PlayId": 3
+      },
+      {
+        "Price": 97.66,
+        "RowNumber": 6,
+        "PlayId": 2
+      },
+      {
+        "Price": 94.23,
+        "RowNumber": 1,
+        "PlayId": 5
+      },
+      {
+        "Price": 55.96,
+        "RowNumber": 10,
+        "PlayId": 5
+      },
+      {
+        "Price": 22.11,
+        "RowNumber": 6,
+        "PlayId": 4
+      },
+      {
+        "Price": 15.72,
+        "RowNumber": 9,
+        "PlayId": 2
+      },
+      {
+        "Price": 82.61,
+        "RowNumber": 10,
+        "PlayId": 2
+      },
+      {
+        "Price": 84.19,
+        "RowNumber": 5,
+        "PlayId": 2
+      },
+      {
+        "Price": 70.43,
+        "RowNumber": 8,
+        "PlayId": 3
+      },
+      {
+        "Price": 53.6,
+        "RowNumber": 1,
+        "PlayId": 4
+      },
+      {
+        "Price": 80.49,
+        "RowNumber": 6,
+        "PlayId": 5
+      },
+      {
+        "Price": 67.47,
+        "RowNumber": 7,
+        "PlayId": 2
+      },
+      {
+        "Price": 15.73,
+        "RowNumber": 3,
+        "PlayId": 3
+      },
+      {
+        "Price": 33.35,
+        "RowNumber": 6,
+        "PlayId": 2
+      },
+      {
+        "Price": 81.76,
+        "RowNumber": 1,
+        "PlayId": 3
+      },
+      {
+        "Price": 22.84,
+        "RowNumber": 1,
+        "PlayId": 4
+      },
+      {
+        "Price": 99.92,
+        "RowNumber": 1,
+        "PlayId": 5
+      },
+      {
+        "Price": 78.07,
+        "RowNumber": 9,
+        "PlayId": 5
+      },
+      {
+        "Price": 53.41,
+        "RowNumber": 1,
+        "PlayId": 5
+      },
+      {
+        "Price": 92.75,
+        "RowNumber": 2,
+        "PlayId": 5
+      },
+      {
+        "Price": 11.62,
+        "RowNumber": 9,
+        "PlayId": 5
+      },
+      {
+        "Price": 18.21,
+        "RowNumber": 8,
+        "PlayId": 5
+      },
+      {
+        "Price": 18.64,
+        "RowNumber": 8,
+        "PlayId": 5
+      }
+    ]
+  },
+  {
+    "Name": "Alwsdin MacCos",
+    "NumberOfHalls": 15,
+    "Director": "Alwsdin MacCostyAlwin MacCostyAlwin MacCostasdyAlwin MacCostyAlwin MacCosty",
+    "Tickets": [
+      {
+        "Price": 7.63,
+        "RowNumber": 5,
+        "PlayId": 4
+      },
+      {
+        "Price": 47.96,
+        "RowNumber": 9,
+        "PlayId": 3
+      }
+    ]
+  },
+  {
+    "Name": "Astor Theater",
+    "NumberOfHalls": 8,
+    "Director": "Pattie Wass",
+    "Tickets": [
+      {
+        "Price": 74.92,
+        "RowNumber": 5,
+        "PlayId": 5
+      },
+      {
+        "Price": 52.35,
+        "RowNumber": 4,
+        "PlayId": 7
+      },
+      {
+        "Price": 73.41,
+        "RowNumber": 9,
+        "PlayId": 7
+      },
+      {
+        "Price": 68.05,
+        "RowNumber": 1,
+        "PlayId": 9
+      },
+      {
+        "Price": 54.22,
+        "RowNumber": 3,
+        "PlayId": 7
+      },
+      {
+        "Price": 0,
+        "RowNumber": 6,
+        "PlayId": 7
+      },
+      {
+        "Price": 51.09,
+        "RowNumber": 8,
+        "PlayId": 7
+      },
+      {
+        "Price": 80.91,
+        "RowNumber": 6,
+        "PlayId": 6
+      },
+      {
+        "Price": 81.4,
+        "RowNumber": 8,
+        "PlayId": 9
+      },
+      {
+        "Price": 82.84,
+        "RowNumber": 1,
+        "PlayId": 9
+      },
+      {
+        "Price": 61.01,
+        "RowNumber": 4,
+        "PlayId": 9
+      },
+      {
+        "Price": 18.75,
+        "RowNumber": 7,
+        "PlayId": 9
+      },
+      {
+        "Price": 17.34,
+        "RowNumber": 3,
+        "PlayId": 6
+      },
+      {
+        "Price": 55.33,
+        "RowNumber": 2,
+        "PlayId": 5
+      },
+      {
+        "Price": 12.53,
+        "RowNumber": 7,
+        "PlayId": 6
+      },
+      {
+        "Price": 83.78,
+        "RowNumber": 5,
+        "PlayId": 9
+      },
+      {
+        "Price": 77.37,
+        "RowNumber": 3,
+        "PlayId": 6
+      },
+      {
+        "Price": 82.07,
+        "RowNumber": 1,
+        "PlayId": 5
+      },
+      {
+        "Price": 58.99,
+        "RowNumber": 5,
+        "PlayId": 8
+      },
+      {
+        "Price": 40.54,
+        "RowNumber": 5,
+        "PlayId": 29
+      },
+      {
+        "Price": 68.88,
+        "RowNumber": 5,
+        "PlayId": 7
+      },
+      {
+        "Price": 84.64,
+        "RowNumber": 5,
+        "PlayId": 28
+      },
+      {
+        "Price": 80.08,
+        "RowNumber": 2,
+        "PlayId": 8
+      },
+      {
+        "Price": 47.19,
+        "RowNumber": 8,
+        "PlayId": 7
+      },
+      {
+        "Price": 92.92,
+        "RowNumber": 6,
+        "PlayId": 9
+      }
+    ]
+  },
+  {
+    "Name": "Booth Theater",
+    "NumberOfHalls": 2,
+    "Director": "Heindrick Goranov",
+    "Tickets": [
+      {
+        "Price": 88.88,
+        "RowNumber": 55,
+        "PlayId": 3
+      },
+      {
+        "Price": 51.37,
+        "RowNumber": 4,
+        "PlayId": 9
+      },
+      {
+        "Price": 29.69,
+        "RowNumber": 7,
+        "PlayId": 9
+      },
+      {
+        "Price": 44.85,
+        "RowNumber": 2,
+        "PlayId": 9
+      },
+      {
+        "Price": 81.62,
+        "RowNumber": 1,
+        "PlayId": 10
+      },
+      {
+        "Price": 87.5,
+        "RowNumber": 2,
+        "PlayId": 9
+      },
+      {
+        "Price": 60.21,
+        "RowNumber": 10,
+        "PlayId": 11
+      },
+      {
+        "Price": 14.8,
+        "RowNumber": 55,
+        "PlayId": 1
+      },
+      {
+        "Price": 73.74,
+        "RowNumber": 6,
+        "PlayId": 11
+      },
+      {
+        "Price": 55.55,
+        "RowNumber": 22,
+        "PlayId": 1
+      },
+      {
+        "Price": 57.49,
+        "RowNumber": 9,
+        "PlayId": 9
+      },
+      {
+        "Price": 72.06,
+        "RowNumber": 8,
+        "PlayId": 10
+      },
+      {
+        "Price": 19.04,
+        "RowNumber": 55,
+        "PlayId": 1
+      },
+      {
+        "Price": 72.54,
+        "RowNumber": 5,
+        "PlayId": 13
+      },
+      {
+        "Price": 35.55,
+        "RowNumber": 4,
+        "PlayId": 15
+      },
+      {
+        "Price": 55.33,
+        "RowNumber": 7,
+        "PlayId": 9
+      },
+      {
+        "Price": 84.59,
+        "RowNumber": 44,
+        "PlayId": 1
+      },
+      {
+        "Price": 33.25,
+        "RowNumber": 3,
+        "PlayId": 14
+      },
+      {
+        "Price": 69.76,
+        "RowNumber": 3,
+        "PlayId": 12
+      },
+      {
+        "Price": 44.35,
+        "RowNumber": 1,
+        "PlayId": 11
+      },
+      {
+        "Price": 13.13,
+        "RowNumber": 2,
+        "PlayId": 9
+      },
+      {
+        "Price": 185.67,
+        "RowNumber": 7,
+        "PlayId": 10
+      },
+      {
+        "Price": 90.09,
+        "RowNumber": 6,
+        "PlayId": 10
+      },
+      {
+        "Price": 97.74,
+        "RowNumber": 7,
+        "PlayId": 10
+      },
+      {
+        "Price": 93.15,
+        "RowNumber": 55,
+        "PlayId": 1
+      }
+    ]
+  },
+  {
+    "Name": "Capitol Theater",
+    "NumberOfHalls": 4,
+    "Director": "Kimble Emson",
+    "Tickets": [
+      {
+        "Price": 90.55,
+        "RowNumber": 8,
+        "PlayId": 17
+      },
+      {
+        "Price": 76.63,
+        "RowNumber": 4,
+        "PlayId": 14
+      },
+      {
+        "Price": 500.22,
+        "RowNumber": 6,
+        "PlayId": 17
+      },
+      {
+        "Price": 88.17,
+        "RowNumber": 55,
+        "PlayId": 1
+      },
+      {
+        "Price": 42.35,
+        "RowNumber": 4,
+        "PlayId": 18
+      },
+      {
+        "Price": 26.36,
+        "RowNumber": 10,
+        "PlayId": 19
+      },
+      {
+        "Price": 18.33,
+        "RowNumber": 22,
+        "PlayId": 1
+      },
+      {
+        "Price": 17.85,
+        "RowNumber": 10,
+        "PlayId": 19
+      },
+      {
+        "Price": 87.22,
+        "RowNumber": 6,
+        "PlayId": 14
+      },
+      {
+        "Price": 15.94,
+        "RowNumber": 1,
+        "PlayId": 16
+      },
+      {
+        "Price": 13.32,
+        "RowNumber": 7,
+        "PlayId": 17
+      },
+      {
+        "Price": 77.95,
+        "RowNumber": 2,
+        "PlayId": 17
+      },
+      {
+        "Price": 91.67,
+        "RowNumber": 7,
+        "PlayId": 14
+      },
+      {
+        "Price": 89.58,
+        "RowNumber": 5,
+        "PlayId": 19
+      },
+      {
+        "Price": 98.82,
+        "RowNumber": 2,
+        "PlayId": 18
+      },
+      {
+        "Price": 51.5,
+        "RowNumber": 6,
+        "PlayId": 19
+      },
+      {
+        "Price": 117.48,
+        "RowNumber": 9,
+        "PlayId": 17
+      },
+      {
+        "Price": 73.58,
+        "RowNumber": 9,
+        "PlayId": 18
+      },
+      {
+        "Price": 84.76,
+        "RowNumber": 9,
+        "PlayId": 19
+      },
+      {
+        "Price": 76.77,
+        "RowNumber": 1,
+        "PlayId": 16
+      },
+      {
+        "Price": 58.37,
+        "RowNumber": 7,
+        "PlayId": 17
+      },
+      {
+        "Price": 31.62,
+        "RowNumber": 7,
+        "PlayId": 15
+      },
+      {
+        "Price": 44.33,
+        "RowNumber": 7,
+        "PlayId": 17
+      },
+      {
+        "Price": 13.07,
+        "RowNumber": 8,
+        "PlayId": 14
+      },
+      {
+        "Price": 15.59,
+        "RowNumber": 6,
+        "PlayId": 14
+      }
+    ]
+  },
+  {
+    "Name": "Capitol Theatre Building",
+    "NumberOfHalls": 10,
+    "Director": "Netti Overill",
+    "Tickets": [
+      {
+        "Price": 13.83,
+        "RowNumber": 3,
+        "PlayId": 23
+      },
+      {
+        "Price": 17.47,
+        "RowNumber": 6,
+        "PlayId": 20
+      },
+      {
+        "Price": 86.14,
+        "RowNumber": 5,
+        "PlayId": 22
+      },
+      {
+        "Price": 93.41,
+        "RowNumber": 1,
+        "PlayId": 23
+      },
+      {
+        "Price": 68.56,
+        "RowNumber": 1,
+        "PlayId": 24
+      },
+      {
+        "Price": 62.14,
+        "RowNumber": 3,
+        "PlayId": 24
+      },
+      {
+        "Price": 98.49,
+        "RowNumber": 9,
+        "PlayId": 19
+      },
+      {
+        "Price": 55.96,
+        "RowNumber": 1,
+        "PlayId": 22
+      },
+      {
+        "Price": 83.33,
+        "RowNumber": 6,
+        "PlayId": 23
+      },
+      {
+        "Price": 93.48,
+        "RowNumber": 3,
+        "PlayId": 22
+      },
+      {
+        "Price": 40.18,
+        "RowNumber": 5,
+        "PlayId": 23
+      },
+      {
+        "Price": 68.06,
+        "RowNumber": 55,
+        "PlayId": 1
+      },
+      {
+        "Price": 15.74,
+        "RowNumber": 7,
+        "PlayId": 24
+      },
+      {
+        "Price": 47.25,
+        "RowNumber": 8,
+        "PlayId": 24
+      },
+      {
+        "Price": 10.37,
+        "RowNumber": 3,
+        "PlayId": 24
+      },
+      {
+        "Price": 11.07,
+        "RowNumber": 7,
+        "PlayId": 24
+      },
+      {
+        "Price": 75.62,
+        "RowNumber": 7,
+        "PlayId": 24
+      },
+      {
+        "Price": 85.64,
+        "RowNumber": 4,
+        "PlayId": 22
+      },
+      {
+        "Price": 12.83,
+        "RowNumber": 55,
+        "PlayId": 1
+      },
+      {
+        "Price": 54.72,
+        "RowNumber": 7,
+        "PlayId": 21
+      },
+      {
+        "Price": 86.21,
+        "RowNumber": 5,
+        "PlayId": 15
+      },
+      {
+        "Price": 79.01,
+        "RowNumber": 3,
+        "PlayId": 21
+      },
+      {
+        "Price": 73.64,
+        "RowNumber": 8,
+        "PlayId": 23
+      },
+      {
+        "Price": 85.09,
+        "RowNumber": 1,
+        "PlayId": 22
+      },
+      {
+        "Price": 12.51,
+        "RowNumber": 9,
+        "PlayId": 24
+      }
+    ]
+
+  },
+  {
+    "Name": "",
+    "NumberOfHalls": 7,
+    "Director": "Alwin MacCostyAlwin MacCostyAlwin MacCosdfsdfstyAlwin MasdfcCostyAlwin MacCosty",
+    "Tickets": [
+      {
+        "Price": 7.63,
+        "RowNumber": 5,
+        "PlayId": 4
+      },
+      {
+        "Price": 47.96,
+        "RowNumber": 9,
+        "PlayId": 3
+      }
+    ]
+  },
+  {
+    "Name": "A",
+    "NumberOfHalls": 7,
+    "Director": "Asdlwin MafgcCosty",
+    "Tickets": [
+      {
+        "Price": 7.63,
+        "RowNumber": 5,
+        "PlayId": 4
+      },
+      {
+        "Price": 47.96,
+        "RowNumber": 9,
+        "PlayId": 3
+      }
+    ]
+  },
+  {
+    "Name": "Thacher",
+    "NumberOfHalls": 9,
+    "Director": "Thacher Kolakovic",
+    "Tickets": [
+      {
+        "Price": 14.13,
+        "RowNumber": 8,
+        "PlayId": 24
+      },
+      {
+        "Price": 88.76,
+        "RowNumber": 1,
+        "PlayId": 28
+      },
+      {
+        "Price": 65.96,
+        "RowNumber": 3,
+        "PlayId": 26
+      },
+      {
+        "Price": 52.17,
+        "RowNumber": 8,
+        "PlayId": 26
+      },
+      {
+        "Price": 89.31,
+        "RowNumber": 10,
+        "PlayId": 24
+      },
+      {
+        "Price": 103.25,
+        "RowNumber": 5,
+        "PlayId": 16
+      },
+      {
+        "Price": 45.18,
+        "RowNumber": 3,
+        "PlayId": 28
+      },
+      {
+        "Price": 88.82,
+        "RowNumber": 7,
+        "PlayId": 25
+      },
+      {
+        "Price": 18.29,
+        "RowNumber": -15,
+        "PlayId": 28
+      },
+      {
+        "Price": 44.55,
+        "RowNumber": 5,
+        "PlayId": 12
+      },
+      {
+        "Price": 12.79,
+        "RowNumber": 9,
+        "PlayId": 26
+      },
+      {
+        "Price": 13.67,
+        "RowNumber": 1,
+        "PlayId": 26
+      },
+      {
+        "Price": 88.32,
+        "RowNumber": 6,
+        "PlayId": 26
+      },
+      {
+        "Price": 57.16,
+        "RowNumber": 10,
+        "PlayId": 25
+      },
+      {
+        "Price": 74.05,
+        "RowNumber": 5,
+        "PlayId": 25
+      },
+      {
+        "Price": 11.84,
+        "RowNumber": 4,
+        "PlayId": 11
+      },
+      {
+        "Price": 49.68,
+        "RowNumber": 7,
+        "PlayId": 17
+      },
+      {
+        "Price": 44.22,
+        "RowNumber": 10,
+        "PlayId": 24
+      },
+      {
+        "Price": 12.99,
+        "RowNumber": 4,
+        "PlayId": 26
+      },
+      {
+        "Price": 44.33,
+        "RowNumber": 2,
+        "PlayId": 25
+      },
+      {
+        "Price": 95.89,
+        "RowNumber": 8,
+        "PlayId": 25
+      },
+      {
+        "Price": 90.3,
+        "RowNumber": 5,
+        "PlayId": 25
+      },
+      {
+        "Price": 18.12,
+        "RowNumber": 3,
+        "PlayId": 27
+      },
+      {
+        "Price": 47.06,
+        "RowNumber": 5,
+        "PlayId": 27
+      },
+      {
+        "Price": 77.35,
+        "RowNumber": 4,
+        "PlayId": 22
+      }
+    ]
+
+  },
+  {
+    "Name": "ac",
+    "NumberOfHalls": 7,
+    "Director": "Alwdfin MacCostsdfy",
+    "Tickets": [
+      {
+        "Price": 7.63,
+        "RowNumber": 5,
+        "PlayId": 4
+      },
+      {
+        "Price": 47.96,
+        "RowNumber": 9,
+        "PlayId": 3
+      }
+    ]
+  },
+  {
+    "Name": "Castro Theatre",
+    "NumberOfHalls": 3,
+    "Director": "Helli Webbe",
+    "Tickets": [
+      {
+        "Price": 62.52,
+        "RowNumber": 8,
+        "PlayId": 29
+      },
+      {
+        "Price": 85.21,
+        "RowNumber": 6,
+        "PlayId": 27
+      },
+      {
+        "Price": 19.31,
+        "RowNumber": 4,
+        "PlayId": 28
+      },
+      {
+        "Price": 71.04,
+        "RowNumber": 8,
+        "PlayId": 27
+      },
+      {
+        "Price": 88.33,
+        "RowNumber": 2,
+        "PlayId": 28
+      },
+      {
+        "Price": 72.49,
+        "RowNumber": 9,
+        "PlayId": 29
+      },
+      {
+        "Price": 70.71,
+        "RowNumber": 5,
+        "PlayId": 26
+      },
+      {
+        "Price": 71.38,
+        "RowNumber": 1,
+        "PlayId": 28
+      },
+      {
+        "Price": 59.42,
+        "RowNumber": 5,
+        "PlayId": 11
+      },
+      {
+        "Price": 40.59,
+        "RowNumber": 6,
+        "PlayId": 7
+      },
+      {
+        "Price": 22.14,
+        "RowNumber": 8,
+        "PlayId": 9
+      },
+      {
+        "Price": 73.39,
+        "RowNumber": 10,
+        "PlayId": 28
+      },
+      {
+        "Price": 66.22,
+        "RowNumber": 4,
+        "PlayId": 27
+      },
+      {
+        "Price": 85.19,
+        "RowNumber": 9,
+        "PlayId": 28
+      },
+      {
+        "Price": 68.22,
+        "RowNumber": 8,
+        "PlayId": 28
+      },
+      {
+        "Price": 59.44,
+        "RowNumber": 6,
+        "PlayId": 30
+      },
+      {
+        "Price": 99.26,
+        "RowNumber": 4,
+        "PlayId": 24
+      },
+      {
+        "Price": 17.51,
+        "RowNumber": 8,
+        "PlayId": 27
+      },
+      {
+        "Price": 65.52,
+        "RowNumber": 6,
+        "PlayId": 28
+      },
+      {
+        "Price": 78.12,
+        "RowNumber": 2,
+        "PlayId": 30
+      },
+      {
+        "Price": 68.44,
+        "RowNumber": 3,
+        "PlayId": 27
+      },
+      {
+        "Price": 13.92,
+        "RowNumber": 6,
+        "PlayId": 28
+      },
+      {
+        "Price": 61.44,
+        "RowNumber": 5,
+        "PlayId": 25
+      },
+      {
+        "Price": 76.64,
+        "RowNumber": 7,
+        "PlayId": 30
+      },
+      {
+        "Price": 10.11,
+        "RowNumber": 1,
+        "PlayId": 29
+      }
+    ]
+  },
+  {
+    "Name": "Th",
+    "NumberOfHalls": 7,
+    "Director": "Asdlwin MafgcCosty",
+    "Tickets": [
+      {
+        "Price": 7.63,
+        "RowNumber": 5,
+        "PlayId": 4
+      },
+      {
+        "Price": 47.96,
+        "RowNumber": 9,
+        "PlayId": 3
+      }
+    ]
+  },
+  {
+    "Name": "Draken",
+    "NumberOfHalls": 5,
+    "Director": "Margery Piatti",
+    "Tickets": [
+      {
+        "Price": 88.33,
+        "RowNumber": 13,
+        "PlayId": 12
+      },
+      {
+        "Price": 91.35,
+        "RowNumber": 8,
+        "PlayId": 12
+      },
+      {
+        "Price": 44.38,
+        "RowNumber": 9,
+        "PlayId": 13
+      },
+      {
+        "Price": 47.3,
+        "RowNumber": 11,
+        "PlayId": 14
+      },
+      {
+        "Price": 69.78,
+        "RowNumber": 10,
+        "PlayId": 14
+      },
+      {
+        "Price": 79.68,
+        "RowNumber": 4,
+        "PlayId": 12
+      },
+      {
+        "Price": 75.04,
+        "RowNumber": 9,
+        "PlayId": 12
+      },
+      {
+        "Price": 78.42,
+        "RowNumber": 10,
+        "PlayId": 13
+      },
+      {
+        "Price": 16.51,
+        "RowNumber": 7,
+        "PlayId": 14
+      },
+      {
+        "Price": 50.05,
+        "RowNumber": 5,
+        "PlayId": 16
+      },
+      {
+        "Price": 98.28,
+        "RowNumber": 12,
+        "PlayId": 11
+      },
+      {
+        "Price": 14.89,
+        "RowNumber": 12,
+        "PlayId": 11
+      },
+      {
+        "Price": 95.78,
+        "RowNumber": 9,
+        "PlayId": 14
+      },
+      {
+        "Price": 16.69,
+        "RowNumber": 10,
+        "PlayId": 14
+      },
+      {
+        "Price": 13.48,
+        "RowNumber": 14,
+        "PlayId": 13
+      },
+      {
+        "Price": 40.49,
+        "RowNumber": 5,
+        "PlayId": 11
+      },
+      {
+        "Price": 44.22,
+        "RowNumber": 8,
+        "PlayId": 14
+      },
+      {
+        "Price": 56.66,
+        "RowNumber": 10,
+        "PlayId": 13
+      },
+      {
+        "Price": 53.31,
+        "RowNumber": 9,
+        "PlayId": 14
+      },
+      {
+        "Price": 97.82,
+        "RowNumber": 10,
+        "PlayId": 11
+      },
+      {
+        "Price": 98.45,
+        "RowNumber": 14,
+        "PlayId": 11
+      },
+      {
+        "Price": 49.52,
+        "RowNumber": 8,
+        "PlayId": 7
+      },
+      {
+        "Price": 75.31,
+        "RowNumber": 7,
+        "PlayId": 12
+      },
+      {
+        "Price": 45.27,
+        "RowNumber": 12,
+        "PlayId": 14
+      },
+      {
+        "Price": 79.03,
+        "RowNumber": 14,
+        "PlayId": 12
+      }
+    ]
+  },
+  {
+    "Name": "Colonial Theatre",
+    "NumberOfHalls": 4,
+    "Director": "Kissiah Sansun",
+    "Tickets": [
+      {
+        "Price": 62.35,
+        "RowNumber": 4,
+        "PlayId": 15
+      },
+      {
+        "Price": 70.53,
+        "RowNumber": 7,
+        "PlayId": 18
+      },
+      {
+        "Price": 85.21,
+        "RowNumber": 6,
+        "PlayId": 17
+      },
+      {
+        "Price": 79.17,
+        "RowNumber": 11,
+        "PlayId": 17
+      },
+      {
+        "Price": 48.68,
+        "RowNumber": 1,
+        "PlayId": 16
+      },
+      {
+        "Price": 70.23,
+        "RowNumber": 9,
+        "PlayId": 16
+      },
+      {
+        "Price": 19.75,
+        "RowNumber": 3,
+        "PlayId": 17
+      },
+      {
+        "Price": 72.26,
+        "RowNumber": 2,
+        "PlayId": 18
+      },
+      {
+        "Price": 95.5,
+        "RowNumber": 5,
+        "PlayId": 17
+      },
+      {
+        "Price": 98.09,
+        "RowNumber": 10,
+        "PlayId": 18
+      },
+      {
+        "Price": 41.77,
+        "RowNumber": 5,
+        "PlayId": 12
+      },
+      {
+        "Price": 36.45,
+        "RowNumber": 10,
+        "PlayId": 18
+      },
+      {
+        "Price": 551.09,
+        "RowNumber": 2,
+        "PlayId": 18
+      },
+      {
+        "Price": 57.25,
+        "RowNumber": 13,
+        "PlayId": 18
+      },
+      {
+        "Price": 57.71,
+        "RowNumber": 6,
+        "PlayId": 22
+      },
+      {
+        "Price": 76.98,
+        "RowNumber": 8,
+        "PlayId": 15
+      },
+      {
+        "Price": 60.77,
+        "RowNumber": 9,
+        "PlayId": 16
+      },
+      {
+        "Price": 77.33,
+        "RowNumber": 7,
+        "PlayId": 16
+      },
+      {
+        "Price": 89.88,
+        "RowNumber": 8,
+        "PlayId": 30
+      },
+      {
+        "Price": 78.29,
+        "RowNumber": 7,
+        "PlayId": 17
+      },
+      {
+        "Price": 48.33,
+        "RowNumber": 5,
+        "PlayId": 17
+      },
+      {
+        "Price": 71.08,
+        "RowNumber": 5,
+        "PlayId": 17
+      },
+      {
+        "Price": 59.15,
+        "RowNumber": 4,
+        "PlayId": 12
+      },
+      {
+        "Price": 53.87,
+        "RowNumber": 10,
+        "PlayId": 15
+      },
+      {
+        "Price": 84.67,
+        "RowNumber": 5,
+        "PlayId": 17
+      }
+    ]
+  },
+  {
+    "Name": "R",
+    "NumberOfHalls": 7,
+    "Director": "Asdlwin MafgcCosty",
+    "Tickets": [
+      {
+        "Price": 7.63,
+        "RowNumber": 5,
+        "PlayId": 4
+      },
+      {
+        "Price": 47.96,
+        "RowNumber": 9,
+        "PlayId": 3
+      }
+    ]
+  },
+  {
+    "Name": "Congress Theater",
+    "NumberOfHalls": 5,
+    "Director": "Earvin Van der Kruys",
+    "Tickets": [
+      {
+        "Price": 62.35,
+        "RowNumber": 14,
+        "PlayId": 15
+      },
+      {
+        "Price": 70.53,
+        "RowNumber": 7,
+        "PlayId": 18
+      },
+      {
+        "Price": 85.21,
+        "RowNumber": 6,
+        "PlayId": 17
+      },
+      {
+        "Price": 79.17,
+        "RowNumber": 10,
+        "PlayId": 17
+      },
+      {
+        "Price": 48.68,
+        "RowNumber": 2,
+        "PlayId": 16
+      },
+      {
+        "Price": 70.23,
+        "RowNumber": 9,
+        "PlayId": 16
+      },
+      {
+        "Price": 49.75,
+        "RowNumber": -1,
+        "PlayId": 17
+      },
+      {
+        "Price": 72.26,
+        "RowNumber": 2,
+        "PlayId": 18
+      },
+      {
+        "Price": 95.55,
+        "RowNumber": 5,
+        "PlayId": 17
+      },
+      {
+        "Price": 98.09,
+        "RowNumber": 10,
+        "PlayId": 18
+      },
+      {
+        "Price": 41.77,
+        "RowNumber": 4,
+        "PlayId": 15
+      },
+      {
+        "Price": 16.45,
+        "RowNumber": 10,
+        "PlayId": 18
+      },
+      {
+        "Price": 51.09,
+        "RowNumber": 12,
+        "PlayId": 18
+      },
+      {
+        "Price": 57.25,
+        "RowNumber": 13,
+        "PlayId": 18
+      },
+      {
+        "Price": 57.71,
+        "RowNumber": 7,
+        "PlayId": 14
+      },
+      {
+        "Price": 76.98,
+        "RowNumber": -55,
+        "PlayId": 15
+      },
+      {
+        "Price": 60.77,
+        "RowNumber": 4,
+        "PlayId": 16
+      },
+      {
+        "Price": 77.33,
+        "RowNumber": 7,
+        "PlayId": 16
+      },
+      {
+        "Price": 89.88,
+        "RowNumber": 4,
+        "PlayId": 12
+      },
+      {
+        "Price": 78.29,
+        "RowNumber": 7,
+        "PlayId": 17
+      },
+      {
+        "Price": 48.33,
+        "RowNumber": 5,
+        "PlayId": 17
+      },
+      {
+        "Price": 71.08,
+        "RowNumber": 5,
+        "PlayId": 17
+      },
+      {
+        "Price": 59.71,
+        "RowNumber": 9,
+        "PlayId": 18
+      },
+      {
+        "Price": 53.87,
+        "RowNumber": 10,
+        "PlayId": 15
+      },
+      {
+        "Price": 84.67,
+        "RowNumber": 5,
+        "PlayId": 17
+      }
+    ]
+  },
+  {
+    "Name": "As",
+    "NumberOfHalls": 7,
+    "Director": "Asdlwin MafgcCosty",
+    "Tickets": [
+      {
+        "Price": 7.63,
+        "RowNumber": 5,
+        "PlayId": 4
+      },
+      {
+        "Price": 47.96,
+        "RowNumber": 9,
+        "PlayId": 3
+      }
+    ]
+  },
+  {
+    "Name": "Gothic Theatre",
+    "NumberOfHalls": 8,
+    "Director": "Thornton Wilder",
+    "Tickets": [
+      {
+        "Price": 15.29,
+        "RowNumber": 10,
+        "PlayId": 11
+      },
+      {
+        "Price": 56.77,
+        "RowNumber": 5,
+        "PlayId": 19
+      },
+      {
+        "Price": 43.35,
+        "RowNumber": 13,
+        "PlayId": 16
+      },
+      {
+        "Price": 90.85,
+        "RowNumber": 12,
+        "PlayId": 19
+      },
+      {
+        "Price": 19.48,
+        "RowNumber": 2,
+        "PlayId": 19
+      },
+      {
+        "Price": 116.41,
+        "RowNumber": 8,
+        "PlayId": 18
+      },
+      {
+        "Price": 61.53,
+        "RowNumber": 8,
+        "PlayId": 16
+      },
+      {
+        "Price": 48.03,
+        "RowNumber": 4,
+        "PlayId": 16
+      },
+      {
+        "Price": 83.13,
+        "RowNumber": 1,
+        "PlayId": 17
+      },
+      {
+        "Price": 66.72,
+        "RowNumber": 10,
+        "PlayId": 16
+      },
+      {
+        "Price": 55.33,
+        "RowNumber": 7,
+        "PlayId": 17
+      },
+      {
+        "Price": 98.33,
+        "RowNumber": 3,
+        "PlayId": 15
+      },
+      {
+        "Price": 55.33,
+        "RowNumber": 4,
+        "PlayId": 16
+      },
+      {
+        "Price": 59.68,
+        "RowNumber": 10,
+        "PlayId": 10
+      },
+      {
+        "Price": 42.81,
+        "RowNumber": 3,
+        "PlayId": 17
+      },
+      {
+        "Price": 51.78,
+        "RowNumber": 3,
+        "PlayId": 18
+      },
+      {
+        "Price": 11.43,
+        "RowNumber": 10,
+        "PlayId": 16
+      },
+      {
+        "Price": 47.59,
+        "RowNumber": 14,
+        "PlayId": 16
+      },
+      {
+        "Price": 41.52,
+        "RowNumber": 8,
+        "PlayId": 17
+      },
+      {
+        "Price": 10.44,
+        "RowNumber": 1,
+        "PlayId": 18
+      },
+      {
+        "Price": 47.57,
+        "RowNumber": 10,
+        "PlayId": 19
+      },
+      {
+        "Price": 44.22,
+        "RowNumber": 10,
+        "PlayId": 19
+      },
+      {
+        "Price": 53.25,
+        "RowNumber": 14,
+        "PlayId": 17
+      },
+      {
+        "Price": 56.02,
+        "RowNumber": 10,
+        "PlayId": 5
+      },
+      {
+        "Price": 84.27,
+        "RowNumber": 9,
+        "PlayId": 17
+      }
+    ]
+  },
+  {
+    "Name": "Masonic Temple Theater",
+    "NumberOfHalls": 4,
+    "Director": "Karole Crohan",
+    "Tickets": [
+      {
+        "Price": 93.88,
+        "RowNumber": 6,
+        "PlayId": 8
+      },
+      {
+        "Price": 42.65,
+        "RowNumber": 7,
+        "PlayId": 8
+      },
+      {
+        "Price": 57.27,
+        "RowNumber": 14,
+        "PlayId": 6
+      },
+      {
+        "Price": 52.91,
+        "RowNumber": 1,
+        "PlayId": 9
+      },
+      {
+        "Price": 16.36,
+        "RowNumber": 7,
+        "PlayId": 8
+      },
+      {
+        "Price": 80.47,
+        "RowNumber": 13,
+        "PlayId": 6
+      },
+      {
+        "Price": 63.59,
+        "RowNumber": 10,
+        "PlayId": 6
+      },
+      {
+        "Price": 71.47,
+        "RowNumber": 12,
+        "PlayId": 9
+      },
+      {
+        "Price": 64.15,
+        "RowNumber": 11,
+        "PlayId": 6
+      },
+      {
+        "Price": 18.91,
+        "RowNumber": 10,
+        "PlayId": 6
+      },
+      {
+        "Price": 78.03,
+        "RowNumber": 8,
+        "PlayId": 9
+      },
+      {
+        "Price": 16.83,
+        "RowNumber": 1,
+        "PlayId": 6
+      },
+      {
+        "Price": 86.06,
+        "RowNumber": 14,
+        "PlayId": 8
+      },
+      {
+        "Price": 77.55,
+        "RowNumber": 5,
+        "PlayId": 6
+      },
+      {
+        "Price": 18.49,
+        "RowNumber": 9,
+        "PlayId": 6
+      },
+      {
+        "Price": 55.18,
+        "RowNumber": 1,
+        "PlayId": 9
+      },
+      {
+        "Price": 48.38,
+        "RowNumber": 9,
+        "PlayId": 6
+      },
+      {
+        "Price": 45.17,
+        "RowNumber": 9,
+        "PlayId": 6
+      },
+      {
+        "Price": 15.56,
+        "RowNumber": 5,
+        "PlayId": 9
+      },
+      {
+        "Price": 73.68,
+        "RowNumber": 7,
+        "PlayId": 8
+      },
+      {
+        "Price": 99.32,
+        "RowNumber": 2,
+        "PlayId": 6
+      },
+      {
+        "Price": 77.11,
+        "RowNumber": 4,
+        "PlayId": 8
+      },
+      {
+        "Price": 104.51,
+        "RowNumber": 1,
+        "PlayId": 8
+      },
+      {
+        "Price": 82.97,
+        "RowNumber": 9,
+        "PlayId": 8
+      },
+      {
+        "Price": 86.79,
+        "RowNumber": 9,
+        "PlayId": 6
+      }
+    ]
+  },
+  {
+    "Name": "Fox Theatre Inglewood",
+    "NumberOfHalls": 7,
+    "Director": "Luelle Woolen",
+    "Tickets": [
+      {
+        "Price": 85.54,
+        "RowNumber": 2,
+        "PlayId": 13
+      },
+      {
+        "Price": 74.85,
+        "RowNumber": 7,
+        "PlayId": 15
+      },
+      {
+        "Price": 61.22,
+        "RowNumber": 10,
+        "PlayId": 2
+      },
+      {
+        "Price": 66.17,
+        "RowNumber": 5,
+        "PlayId": 10
+      },
+      {
+        "Price": 11.59,
+        "RowNumber": 10,
+        "PlayId": 12
+      },
+      {
+        "Price": 81.8,
+        "RowNumber": 4,
+        "PlayId": 18
+      },
+      {
+        "Price": 76.19,
+        "RowNumber": 1,
+        "PlayId": 13
+      },
+      {
+        "Price": 49.65,
+        "RowNumber": 3,
+        "PlayId": 12
+      },
+      {
+        "Price": 57.13,
+        "RowNumber": 8,
+        "PlayId": 18
+      },
+      {
+        "Price": 86.22,
+        "RowNumber": 7,
+        "PlayId": 9
+      },
+      {
+        "Price": 97.05,
+        "RowNumber": 13,
+        "PlayId": 10
+      },
+      {
+        "Price": 57.65,
+        "RowNumber": 10,
+        "PlayId": 8
+      },
+      {
+        "Price": 55.12,
+        "RowNumber": 9,
+        "PlayId": 9
+      },
+      {
+        "Price": 76.96,
+        "RowNumber": 5,
+        "PlayId": 22
+      },
+      {
+        "Price": 41.14,
+        "RowNumber": 8,
+        "PlayId": 13
+      },
+      {
+        "Price": 56.1,
+        "RowNumber": 9,
+        "PlayId": 12
+      },
+      {
+        "Price": 11.09,
+        "RowNumber": 1,
+        "PlayId": 8
+      },
+      {
+        "Price": 40.36,
+        "RowNumber": 8,
+        "PlayId": 8
+      },
+      {
+        "Price": 73.07,
+        "RowNumber": 6,
+        "PlayId": 30
+      },
+      {
+        "Price": 70.35,
+        "RowNumber": 7,
+        "PlayId": 15
+      },
+      {
+        "Price": 15.38,
+        "RowNumber": 14,
+        "PlayId": 18
+      },
+      {
+        "Price": 99.22,
+        "RowNumber": 6,
+        "PlayId": 9
+      },
+      {
+        "Price": 59.57,
+        "RowNumber": 7,
+        "PlayId": 8
+      },
+      {
+        "Price": 10.08,
+        "RowNumber": 5,
+        "PlayId": 14
+      },
+      {
+        "Price": 14.88,
+        "RowNumber": 10,
+        "PlayId": 18
+      },
+      {
+        "Price": 14.29,
+        "RowNumber": 5,
+        "PlayId": 14
+      },
+      {
+        "Price": 84.37,
+        "RowNumber": 8,
+        "PlayId": 16
+      },
+      {
+        "Price": 65.45,
+        "RowNumber": 5,
+        "PlayId": 10
+      },
+      {
+        "Price": 11.22,
+        "RowNumber": 6,
+        "PlayId": 10
+      },
+      {
+        "Price": 11.79,
+        "RowNumber": 14,
+        "PlayId": 10
+      },
+      {
+        "Price": 77.9,
+        "RowNumber": 10,
+        "PlayId": 14
+      },
+      {
+        "Price": 79.66,
+        "RowNumber": 5,
+        "PlayId": 10
+      },
+      {
+        "Price": 18.37,
+        "RowNumber": 5,
+        "PlayId": 15
+      },
+      {
+        "Price": 42.66,
+        "RowNumber": 1,
+        "PlayId": 8
+      },
+      {
+        "Price": 70.41,
+        "RowNumber": 6,
+        "PlayId": 16
+      },
+      {
+        "Price": 63.17,
+        "RowNumber": 9,
+        "PlayId": 18
+      },
+      {
+        "Price": 92.19,
+        "RowNumber": 6,
+        "PlayId": 13
+      },
+      {
+        "Price": 83.69,
+        "RowNumber": 5,
+        "PlayId": 15
+      },
+      {
+        "Price": 83.74,
+        "RowNumber": 6,
+        "PlayId": 13
+      },
+      {
+        "Price": 52.86,
+        "RowNumber": 5,
+        "PlayId": 15
+      }
+    ]
+  }
+]
