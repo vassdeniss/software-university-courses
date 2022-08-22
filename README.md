@@ -2,7 +2,7 @@
 * [Software University](https://softuni.bg/)
 	* Attendance: 03 July 2021 / Ongoing
 	* Diploma: N/A
-	* Credits: 63
+	* Credits: 78
 	* Average Software Engineering Grade: 6.00 / 6.00
 	* Average Open Courses Grade: 6.00 / 6.00
 
@@ -33,9 +33,9 @@
 	* Grade: 6.00 / 6.00
 
 * [Entity Framework Core](https://github.com/vassdeniss/software-university-courses/tree/master/ef-core)
-	* Attendance: 21 June 2022 / Ongoing
-	* Certification: N/A
-	* Grade: N/A
+	* Attendance: 21 June 2022 / 06 August 2022
+	* Certification: [Yes](https://softuni.bg/certificates/details/138414/5c455176)
+	* Grade: 6.00 / 6.00
 
 ## :green_book: Attended Side Courses
 * [C# Algorithms Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals)
