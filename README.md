@@ -38,12 +38,12 @@
 	* Grade: 6.00 / 6.00
 
 ## :green_book: Attended Side Courses
-* [C# Algorithms Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals)
+* [Algorithms Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals)
 	* Attendance: 09 December 2021 / 23 January 2022
 	* Certification: [Yes](https://softuni.bg/certificates/details/123073/ced81e47)
 	* Grade: 6.00 / 6.00
 
-* [C# Data Structures Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-fundamentals)
+* [Data Structures Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-fundamentals)
 	* Attendance: 08 February 2022 / 19 March 2022
 	* Certification: [Yes](https://softuni.bg/certificates/details/127938/164b87e7)
 	* Grade: 6.00 / 6.00
@@ -59,9 +59,14 @@
 	* Certification: N/A
 	* Grade: N/A
 
-* [C# Data Structures Advanced](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-advanced)
+* [Data Structures Advanced](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-advanced)
 	* Attendance: N/A
 	* Certification: N/A
+	* Grade: N/A
+
+* [Algorithms Advanced](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-advanced)
+	* Attendance: N/A
+	* Certificate: N/A
 	* Grade: N/A
 
 ## :heart: Support
