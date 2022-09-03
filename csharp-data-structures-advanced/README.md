@@ -7,6 +7,7 @@
 * [04. Red-Black Trees, AA Trees - Exercise](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-advanced/04.RedBlackTreesAATreesExercise)
 * [05. Hash Tables, Sets, Maps - Lab](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-advanced/05.HashTablesSetsMaps)
 * [06. Hash Tables, Sets, Maps - Exercise](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-advanced/06.HashTablesSetsMapsExercise)
+* [07. Data Structures Augmentation](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-data-structures-advanced/07.DataStructuresAugmentation)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
