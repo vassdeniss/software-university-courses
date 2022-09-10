@@ -69,5 +69,10 @@
 	* Certificate: N/A
 	* Grade: N/A
 
+* [WPF Essentials](https://github.com/vassdeniss/Chess-Engine-Wpf)
+	* Attendance: N/A
+	* Certificate: N/A
+	* Grade: N/A
+
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3

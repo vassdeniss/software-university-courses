@@ -1,0 +1,3 @@
+[submodule "wpf-essentials"]
+	path = wpf-essentials
+	url = https://github.com/vassdeniss/Chess-Engine-Wpf
