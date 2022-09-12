@@ -5,6 +5,7 @@
 * [02. Bellman-Ford, Longest DAG Path Algorithms - Lab](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-advanced/02.BellmanFordLongestDAGPath)
 * [03. Bellman-Ford, Longest DAG Path Algorithms - Exercise](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-advanced/03.BellmanFordLongestDAGPathExercise)
 * [04. Strongly Connected Components, Max Flow, Bi-Connectivity - Lab](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-advanced/04.StronglyConnectedComponentsMaxFlow)
+* [05. Strongly Connected Components, Max Flow, Bi-Connectivity - Exercise](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-advanced/05.StronglyConnectedComponentsMaxFlowExercise)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
