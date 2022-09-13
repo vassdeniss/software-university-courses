@@ -37,6 +37,11 @@
 	* Certification: [Yes](https://softuni.bg/certificates/details/138414/5c455176)
 	* Grade: 6.00 / 6.00
 
+* [HTML & CSS](https://github.com/vassdeniss/software-university-courses/tree/master/html-css)
+	* Attendance: 12 September 2022 / Ongoing
+	* Certification: N/A
+	* Grade: N/A
+
 ## :green_book: Attended Side Courses
 * [Algorithms Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/csharp-algorithms-fundamentals)
 	* Attendance: 09 December 2021 / 23 January 2022
