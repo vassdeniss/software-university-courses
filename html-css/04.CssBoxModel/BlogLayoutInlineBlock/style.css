@@ -1,0 +1,57 @@
+html {
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgb(51, 51, 51);
+    max-width: 80%;
+    margin: 40px;
+}
+
+body {
+    background: rgb(238, 238, 238);
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherits;
+}
+
+h1,
+h2 {
+    font-family: Georgia, serif;
+    line-height: 1.2;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+img {
+    max-width: 70%;
+}
+
+article,
+aside,
+ul {
+    display: inline-block;
+}
+
+ul {
+    margin: 0px;
+}
+
+a{
+    color: blue;
+}
+
+article {
+    max-width: 60%;
+    padding-right: 20px;
+}
+
+aside {
+    vertical-align: top;
+    max-width: 30%;
+}

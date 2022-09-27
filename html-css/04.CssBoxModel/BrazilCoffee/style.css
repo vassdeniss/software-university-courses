@@ -1,0 +1,85 @@
+/* Working judge CSS */
+section {
+    border: 8px solid #e6e6e6;
+    padding: 16px;
+    width: 451px;
+    height: 540px;
+}
+
+h2 {
+    font-family: Merriweather, serif;
+    font-weight: 700;
+    margin: 12 rem, 0;
+    color: rgb(51, 51, 51);
+}
+
+button {
+    width: 250px;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    border-radius: 4px;
+    background-color: #d5384d;
+    color: #fff;
+    letter-spacing: 1px;
+    text-align: center;
+    padding: 8px 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 0;
+}
+
+div {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+/* Better CSS using BEM methodology 
+
+.coffee {
+    border: 8px solid #e6e6e6;
+    padding: 16px;
+    width: 451px;
+    height: 540px;
+}
+
+.coffee__type {
+    font-family: Merriweather, serif;
+    font-weight: 700;
+    margin: 1.2rem, 0;
+    color: rgb(51, 51, 51);
+}
+
+.coffee__buy {
+    width: 250px;
+    font-family: 'Work Sans', sans-serif;
+	font-weight: 600;
+    font-size: 18px;
+    border-radius: 4px;
+	background-color: #d5384d;
+	color: #fff;
+	letter-spacing: 1px;
+	text-align: center;
+    padding: 8px, 16px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.coffee__details {
+    font-family: Georgia, Cambria, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 0;
+}
+
+.coffee__price {
+    font-weight: 600;
+    font-size: 20px;
+}
+*/
