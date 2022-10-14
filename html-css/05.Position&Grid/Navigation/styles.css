@@ -1,0 +1,96 @@
+body {
+    display: grid;
+    background-color: lightgray;
+    grid-template-areas: 
+        "nav nav"
+        "main aside "
+        "main .";
+    gap: 24px;
+}
+
+.main-header {
+    grid-area: nav;
+    border-bottom: 2px solid black;
+}
+
+main {
+    grid-area: main;
+}
+
+aside {
+    grid-area: aside;
+}
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-header nav ul {
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+.main-header nav ul li {
+    color: green;
+}
+
+img {
+    width: 150px;
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 0px 23px 0px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    border: 0.4rem solid #000;
+    padding: 5px;
+    vertical-align: middle;
+
+}
+
+.escalator-image {
+    margin: 15px;
+    float: right;
+}
+
+.path-image {
+    margin: 0px 15px 15px 0px;
+    float: left;
+}
+
+aside {
+    margin-right: 50px;
+}
+
+aside section nav ul li a {
+    text-decoration: none;
+    color: green;
+}
+
+.side-text {
+    display: flex;
+    gap: 24px;
+}
+
+.side-text::before {
+    content: "";
+    border: 1px solid gray;
+    align-self: stretch;
+}
+
+.side-text__paragraph {
+    order: -1;
+}
+
+blockquote {
+    font-family: Georgia, serif;
+}
+
+.quote .quote__body {
+    margin: 0;
+}
+
+.quote .quote__author {
+    float: right;
+}

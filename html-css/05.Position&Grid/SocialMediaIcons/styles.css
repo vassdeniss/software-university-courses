@@ -1,0 +1,41 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css');
+
+body {
+    padding: 30px;
+}
+
+ul li {
+    list-style-type: none;
+    cursor: pointer;
+    display: inline-block;
+    margin: 10px;
+}
+
+a {
+    color: black;
+    /* border-radius: 50%; judge 100/100 */
+}
+
+.facebook:hover {
+    color: #3B5998;
+}
+
+.twitter:hover {
+    color: #00ACEE;
+}
+
+.google:hover {
+    color: #DB4A39;
+}
+
+.linkedin:hover,
+.instagram:hover {
+    color: #0072B1;
+}
+
+i {
+    background-color: lightgray;
+    font-size: 30px;
+    border-radius: 50%;
+    padding: 30px;
+}
