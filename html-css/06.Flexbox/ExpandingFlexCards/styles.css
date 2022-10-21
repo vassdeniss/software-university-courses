@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(238, 238, 238);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    align-items: stretch;
+    gap: 10px;
+    width: 900px;
+    height: 300px;
+}
+
+.container img {
+    width: 100px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px gray;
+}
+.container img:nth-child(2) {
+    flex-grow: 4;
+}

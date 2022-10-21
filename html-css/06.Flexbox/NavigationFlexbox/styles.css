@@ -1,0 +1,17 @@
+body header {
+    border-bottom: 2px solid rgb(0,0,0);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body header nav ul {
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+}
+
+body header nav ul li a {
+    text-decoration: none;
+    color: rgb(0, 153, 0);
+}

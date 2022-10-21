@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+.card {
+    background-color: white;
+    max-width: 300px;
+    border: 1px solid black;
+    border-radius: 7px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.card .card__image {
+    width: 100%;
+}
+
+.card .card-section,
+.card .card-footer {
+    padding: 20px;
+}
+
+.card .card-footer {
+    margin-top: auto;
+    border-top: 2px solid gray;
+}
+
+.card .card-section .card-section__title {
+    margin: 0;
+}
+
+.flex, .masonry {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+/* .masonry {
+    display: grid;
+    grid-template-rows: masonry;
+    gap: 10px;
+} */
