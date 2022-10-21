@@ -42,7 +42,7 @@
 	* Certification: N/A
 	* Grade: N/A
 
-* ASP.NET Fundamentals
+* [ASP.NET Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/asp-net-fundamentals)
 	* Attendance: 14 September 2022 / Ongoing
 	* Certification: N/A
 	* Grade: N/A

@@ -1,0 +1,29 @@
+﻿@model ICollection<MovieViewModel>
+@{
+    ViewBag.Title = "All Movies";
+}
+
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+
+<div class="text-center row">
+    @foreach (var movie in Model)
+    {
+        <div class="card col-4" style="width: 20rem;">
+            <img class="card-img-top" style="width: 18rem;"
+             src="@movie.ImageUrl" alt="Movie Image">
+            <div class="card-body">
+
+                <h5 class="card-title mt-1">@movie.Title</h5>
+                <p class="mb-0">Director: @movie.Director</p>
+                <p class="mb-0">Rating: @movie.Rating</p>
+                <p>Genre: @movie.Genre.Name</p>
+            </div>
+
+            <form class="input-group-sm" asp-route-movieId="@movie.Id" asp-controller="Movies" asp-action="AddToCollection" method="post">
+                <input type="submit" value="Mark as Watched" class="fs-6 btn btn-success mb-3 p-2" />
+            </form>
+        </div>
+    }
+</div>
