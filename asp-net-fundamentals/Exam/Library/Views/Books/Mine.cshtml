@@ -1,0 +1,27 @@
+﻿@model ICollection<BookViewModel>
+@{
+    ViewBag.Title = "My Books";
+}
+
+<h2 class="text-center">@ViewBag.Title</h2>
+<hr />
+
+<div class="text-center row">
+    @foreach (var book in Model)
+    {
+        <div class="card col-4" style="width: 20rem; ">
+            <img class="card-img-top" style="width: 18rem;"
+             src="@book.ImageUrl" alt="Book Image">
+            <div class="card-body">
+                <h5 class="card-title mt-1">@book.Title</h5>
+                <p class="mb-0">Author: @book.Author</p>
+                <p class="mb-0">Description: @book.Description</p>
+                <p>Category: @book.Category.Name</p>
+            </div>
+
+            <form class="input-group-sm" asp-controller="Books" asp-action="RemoveFromCollection" asp-route-bookId="@book.Id">
+                <input class="fs-6 btn btn-success mb-3 p-2" type="submit" value="Remove from Collection" />
+            </form>
+        </div>
+    }
+</div>

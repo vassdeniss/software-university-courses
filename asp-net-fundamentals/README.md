@@ -2,6 +2,7 @@
 
 ## :orange_book: Contents 
 * [Exam Preparation - 17/10/2022](https://github.com/vassdeniss/software-university-courses/tree/master/asp-net-fundamentals/ExamPreparation)
+* [Exam - 22/10/2022](https://github.com/vassdeniss/software-university-courses/tree/master/asp-net-fundamentals/Exam)
 
 ## :heart: Support
 Please make sure to :star: this repository to show your support <3
