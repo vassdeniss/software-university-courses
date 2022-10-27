@@ -1,0 +1,106 @@
+body {
+    background-color: rgb(238, 238, 238);
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1,
+h2,
+blockquote {
+    font-family: Georgia, serif;
+}
+
+.page {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.page header {
+    border-bottom: 2px solid black;
+    width: 100%;
+}
+
+img {
+    border: 3px solid black;
+    padding: 10px; 
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
+    background-color: rgb(255, 255, 255);
+}
+
+.image1 {
+    float: right;
+    margin: 20px;
+}
+
+.image2 {
+    float: left;
+    margin: 0px 20px 20px 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 153, 0);
+}
+
+.quote {
+    display: flex;
+    gap: 10px;
+}
+
+.quote .quote__left-side {
+    width: 50%;
+    border-right: 2px solid gray;
+    margin: 0px;
+    padding-right: 5px;
+}
+
+.quote .quote__right-side {
+    width: 50%;
+    font-style: italic;
+}
+
+.quote .quote__right-side--body {
+    margin: 0px;
+}
+
+.quote .quote__right-side .quote__right-side--name {
+    float: right;
+}
+
+* {
+    font-size: 23px;
+}
+
+@media screen and (max-width: 1800px) {
+    * {
+        font-size: 21px;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    * {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    * {
+        font-size: 16px;
+    }
+
+    body {
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    * {
+        font-size: 14px;
+    }
+
+    body {
+        padding: 10px;
+    }
+}

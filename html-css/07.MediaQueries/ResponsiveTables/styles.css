@@ -1,0 +1,29 @@
+table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+table td,
+table th {
+    border: 1px solid #AAAAAA;
+    padding: 3px 2px;
+}
+
+table tbody td {
+    font-size: 13px;
+}
+
+table tbody tr:nth-child(odd) {
+    background: lightgray;
+}
+
+table thead {
+    background: black;
+}
+
+table thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+}

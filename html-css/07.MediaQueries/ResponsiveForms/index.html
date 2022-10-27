@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible"
+            content="IE=edge">
+        <meta name="viewport"
+            content="width=device-width, initial-scale=1.0">
+        <title>Responsive Forms</title>
+        <link rel="stylesheet"
+            href="styles.css">
+    </head>
+
+    <body>
+        <!-- Note to self: please learn proper form structure :) -->
+        <!-- https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form -->
+        <legend class="loginTag">Login</legend>
+        <form class="loginForm"
+            action="post">
+            <!-- Field set tag for judge -->
+            <fieldset></fieldset>
+            <div>
+                <label class="loginForm__username--label"
+                    for="username">Username</label>
+                <div>
+                    <i class="icon fa-solid fa-user fa-xs"></i>
+                    <input class="loginForm__username--input"
+                        type="text"
+                        id="username"
+                        name="username">
+                </div>
+
+                <label class="loginForm__password--label"
+                    for="password">Password</label>
+                <div>
+                    <i class="icon fa-solid fa-key fa-xs"></i>
+                    <input class="loginForm__password--input"
+                        type="password"
+                        id="password"
+                        name="password">
+                </div>
+            </div>
+
+            <p>
+                <input class="loginForm__submitButton"
+                    type="submit"
+                    value="Login">
+            </p>
+
+            <!-- Extra p tag for judge -->
+            <p></p>
+        </form>
+    </body>
+
+</html>

@@ -1,0 +1,81 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css');
+
+body {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.loginForm,
+.loginTag {
+    border: 1px solid lightgray;
+    box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.75);
+    background-color: white;
+}
+
+.loginForm {
+    padding: 20px;
+    max-width: 300px;
+    margin-top: -20px;
+}
+
+.loginTag {
+    margin: 0px;
+    z-index: 1;
+    padding: 10px;
+    max-width: 10%;
+}
+
+.loginForm .loginForm__username--label,
+.loginForm .loginForm__password--label,
+.loginTag {
+    font-weight: bold;
+}
+
+.loginForm__submitButton {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.loginForm div {
+    display: inline-block;
+}
+
+.loginForm div .icon {
+    position: relative;
+    top: 1px;
+    left: 20px;
+}
+
+.loginForm div .loginForm__username--input,
+.loginForm div .loginForm__password--input {
+    margin: auto;
+    padding-left: 15px;
+}
+
+.loginForm div:first-child {
+    margin: 20px auto;
+}
+
+div:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .loginForm {
+        max-width: 40%;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .loginForm {
+        max-width: 100%;
+    }
+
+    .loginTag {
+        max-width: 50%;
+    }
+}
