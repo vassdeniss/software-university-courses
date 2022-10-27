@@ -1,0 +1,28 @@
+@media screen and (max-width: 600px) {
+    .w3-right.w3-hide-small {
+        display: none;
+    }
+
+    #about article:first-child {
+        display: none;
+    }
+
+    #about article:nth-child(2) {
+        display: flex;
+        flex-direction: column;
+        width: unset;
+    }
+
+    #menu {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #menu article:first-child {
+        width: unset;
+    }
+
+    #menu article:nth-child(2) {
+        width: 100%;
+    }
+}
