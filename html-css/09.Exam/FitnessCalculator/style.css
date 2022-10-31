@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+body {
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+section {
+  max-width: 1300px;
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  border-radius: 7px;
+  box-shadow: 0px 0px 37px 1px rgba(0, 0, 0, 0.75);
+  background-color: #efefef;
+}
+
+section .image,
+section .calculator {
+  width: 50%;
+}
+
+section .calculator {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+section .calculator .title {
+  text-transform: uppercase;
+  font-size: 30px;
+}
+
+section .calculator form {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: black;
+  gap: 50px;
+}
+
+.formContainerItem {
+  margin: 10px 30px;
+}
+
+section .calculator .buttons {
+  display: flex;
+  gap: 150px;
+}
+
+section .calculator .buttons .us,
+section .calculator .buttons .metric {
+  border: 1px solid black;
+  color: black;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+section .calculator .buttons .us {
+  background-color: rgba(5, 194, 5, 0.756);
+}
+
+section .calculator .buttons .metric {
+  background-color: lightgrey;
+  padding: 8px 30px;
+}
+
+form button {
+  color: white;
+  width: 500px;
+  border-radius: 20px;
+  font-weight: bold;
+  background-color: #05a2d3;
+  border: none;
+  padding: 10px;
+  box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.75);
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+label {
+  font-weight: bold;
+}
+
+#weightInput {
+  width: 500px;
+  padding: 5px;
+}
+
+select {
+  width: 170px;
+}

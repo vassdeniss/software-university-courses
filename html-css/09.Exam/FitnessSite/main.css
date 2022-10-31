@@ -1,0 +1,161 @@
+@import "./repeat.css";
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css");
+@import url("https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif");
+
+:root {
+  --fa-rotate-angle: -40deg;
+}
+
+body {
+  font-family: "PT Sans", serif;
+}
+
+header {
+  background-color: rgb(198, 16, 16);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 50px;
+}
+
+header .siteLogo,
+header .location {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  color: white;
+}
+
+header nav ul {
+  display: flex;
+  list-style-type: none;
+  gap: 2px;
+}
+
+header nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  padding: 10px;
+  font-size: 20px;
+}
+
+main #hero {
+  text-align: center;
+  background: url(./image/fitness-main.jpg);
+  color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 350px;
+  background-clip: border-box;
+  background-position-y: 40%;
+  background-size: 100% auto;
+}
+
+main #hero nav .nav {
+  list-style-type: none;
+  display: flex;
+  gap: 50px;
+  justify-content: flex-end;
+}
+
+main #hero nav .nav li a {
+  text-decoration: none;
+  color: white;
+}
+
+main #hero .heroInfo h1 {
+  font-size: 50px;
+  letter-spacing: 7px;
+  margin-bottom: 0;
+}
+
+main #hero .heroInfo p {
+  margin-bottom: 50px;
+}
+
+main #hero .heroInfo button {
+  background-color: rgb(198, 16, 16);
+  color: white;
+  border-radius: 7px;
+  padding: 10px;
+  font-weight: bold;
+}
+
+h2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: black;
+  gap: 30px;
+  font-size: 32px;
+}
+
+main #features,
+main #coaches {
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 50px;
+  justify-content: space-evenly;
+}
+
+main #features {
+  margin-bottom: 50px;
+}
+
+main .coachWrapper {
+  background-color: #efefef;
+  padding: 5px 30px;
+}
+
+main #features .feature .feature-icon {
+  color: black;
+  padding: 20px;
+  font-size: 60px;
+}
+
+h2::after {
+  content: "";
+  border: 2px solid red;
+  width: 50px;
+}
+
+main #features .feature .title,
+main #coaches .coach .title {
+  color: rgb(198, 16, 16);
+  font-weight: bold;
+  padding: 15px 0;
+  font-size: 18px;
+  margin: 0;
+  padding: 0;
+}
+
+main #features .feature .desc,
+main #coaches .coach .desc {
+  font-weight: 500;
+  font-size: 18px;
+  text-align: center;
+}
+
+main #coaches .coach .name {
+  font-weight: bold;
+  margin: 5px;
+}
+
+main #coaches .coach .title {
+  font-size: 14px;
+}
+
+main #coaches .coach .desc {
+  color: darkgrey;
+  font-size: 16px;
+}
+
+footer {
+  text-align: center;
+  font-size: 16px;
+  color: black;
+  padding: 5px;
+  background-color: rgb(198, 16, 16);
+}

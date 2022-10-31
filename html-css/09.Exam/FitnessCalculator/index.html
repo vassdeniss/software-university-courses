@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fitness Calculator</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <section>
+        <img class="image" src="./image/calculator.jpg" alt="" />
+        <div class="calculator">
+          <h1 class="title">Fitness Calculator</h1>
+          <div class="buttons">
+            <button class="us">Standard units (US)</button>
+            <button class="metric">Metric units</button>
+          </div>
+          <form>
+            <div class="formContainer">
+              <label class="formContainerItem" for="gender">Gender</label><br />
+              <select class="formContainerItem" name="genders" id="genders">
+                Male
+                <option value="male">Male</option>
+                <option value="female">Female</option>
+                <option value="other">Other</option>
+              </select>
+              <input
+                class="formContainerItem"
+                type="text"
+                id="gender"
+                name="gender"
+                placeholder="Years..."
+              />
+            </div>
+            <div class="formContainer">
+              <label class="formContainerItem" for="weight">Weight</label><br />
+              <input
+                id="weightInput"
+                class="formContainerItem"
+                type="text"
+                id="weight"
+                name="weight"
+                placeholder="Pounds..."
+              />
+            </div>
+            <div class="formContainer">
+              <label class="formContainerItem" for="height">Height</label><br />
+              <input
+                class="formContainerItem"
+                type="text"
+                id="height"
+                name="height"
+                placeholder="Feet..."
+              />
+              <input
+                class="formContainerItem"
+                type="text"
+                id="height"
+                name="height"
+                placeholder="Inches..."
+              />
+            </div>
+            <button type="submit">Calculate</button>
+          </form>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

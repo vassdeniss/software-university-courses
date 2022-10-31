@@ -1,0 +1,423 @@
+@import url("https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i|PT+Serif:400,400i,700,700i");
+@import url("https://fonts.googleapis.com/css?family=Lobster&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  box-sizing: border-box;
+  font-family: PT Sans, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  width: 1400px;
+  max-width: 100%;
+  margin: 0 auto;
+  color: #000;
+}
+
+p,
+ul,
+ol {
+  padding-bottom: 1.5rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Strangelove", "Amatic SC", cursive;
+  padding-bottom: 1em;
+  letter-spacing: 1.2;
+}
+
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2.8rem;
+}
+h3 {
+  font-size: 1.4rem;
+}
+h4 {
+  font-size: 1.2rem;
+}
+h5 {
+  font-size: 1rem;
+}
+h6 {
+  font-size: 1.2rem;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: #006cff;
+}
+
+.button {
+  padding: 1rem 1.2rem;
+  border: none;
+  border-radius: 10px;
+}
+
+/* site-header */
+.site-header {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  background: #329a8f;
+  padding: 0.5rem 1.5rem;
+}
+
+.site-header-logo {
+  padding-bottom: 0;
+  margin-right: 1.2rem;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: "Lobster", cursive;
+  letter-spacing: 1.5px;
+  margin-right: auto;
+}
+
+.site-navigation ul {
+  display: flex;
+  padding-bottom: 0;
+  align-items: center;
+}
+
+.site-navigation ul li {
+  border-radius: 5px;
+  margin: 0.4rem;
+  text-align: center;
+  padding: 0.2rem 0.4rem;
+  cursor: pointer;
+}
+
+.site-navigation ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.hamburger-menu:after {
+  display: inline-block;
+  content: "\f0c9";
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  font-size: 20px;
+  margin-left: 1.5rem;
+}
+
+/* main */
+
+.site-main {
+  margin: 1.5rem;
+}
+
+.entry-header {
+  max-width: 100%;
+  font-family: "Strangelove", "Amatic SC", cursive;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)),
+    url("./images/header-image.jpg");
+  background-size: cover;
+  color: #fff;
+  padding: 10rem 0 10rem 0;
+  font-size: 1.2rem;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 5px;
+}
+
+.entry-header-container {
+  width: 90%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.entry-header-container p {
+  padding-bottom: 0;
+}
+
+.entry-header-title {
+  font-weight: 400;
+  font-size: 4.8rem;
+  padding-bottom: 1rem;
+}
+
+.entry-header-title::first-letter {
+  font-size: 7.7rem;
+}
+
+.entry-header-description {
+  font-family: "Lobster", cursive;
+  color: #41cfcf;
+  font-size: 1.8rem;
+  position: absolute;
+  top: 40px;
+  left: 93px;
+}
+
+.button-primary {
+  background-image: linear-gradient(
+    to right,
+    #329a8f,
+    #58a271,
+    #8ca550,
+    #c79f40,
+    #ff8f57
+  );
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  opacity: 0.9;
+  font-style: italic;
+  font-family: "Strangelove", "Amatic SC", cursive;
+}
+
+/* logo section */
+
+.site-logos {
+  padding: 10px;
+}
+
+.site-logos-container {
+  text-align: center;
+  min-width: 1200px;
+}
+
+.site-logo {
+  color: #ff8f57;
+  font-weight: bold;
+  display: inline-block;
+  letter-spacing: 1px;
+  font-size: 1.6rem;
+  position: relative;
+}
+
+.site-logo:not(:last-child) {
+  margin-right: 2rem;
+}
+
+.site-logo img {
+  width: 10.5rem;
+  height: 10.2rem;
+}
+
+.site-logo span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* site-info section */
+.site-information {
+  width: 100%;
+  display: flex;
+  background: radial-gradient(
+      circle at 100% 50%,
+      transparent 20%,
+      rgba(255, 255, 255, 0.3) 21%,
+      rgba(255, 255, 255, 0.3) 34%,
+      transparent 35%,
+      transparent
+    ),
+    radial-gradient(
+        circle at 0% 50%,
+        transparent 20%,
+        rgba(255, 255, 255, 0.3) 21%,
+        rgba(255, 255, 255, 0.3) 34%,
+        transparent 35%,
+        transparent
+      )
+      0 -50px;
+  background-color: #41cfcf;
+  background-size: 75px 100px;
+  color: #fff;
+  text-shadow: 1px 1px 1px rgb(122, 121, 121);
+}
+
+.site-information-text {
+  flex: 0 0 50%;
+  padding: 4rem 2rem;
+}
+
+.site-information-image {
+  background: url("./images/games-picture.jpg") center center;
+  background-size: cover;
+  flex: 0 0 50%;
+}
+
+.entry-title {
+  font-weight: 400;
+  font-size: 3rem;
+  padding: 0;
+}
+
+.entry-subtitle {
+  font-family: "Lobster", cursive;
+  font-size: 1.8rem;
+  letter-spacing: 2.5px;
+  padding-bottom: 0;
+}
+
+.entry-description {
+  width: 60%;
+  font-size: 1.3rem;
+}
+
+.site-form {
+  text-align: center;
+  background: #ff8f57;
+  opacity: 0.6;
+  padding: 4rem 2rem;
+  margin-top: 1.5rem;
+}
+
+.site-form .entry-subtitle {
+  color: #329a8f;
+}
+
+form {
+  max-width: 30rem;
+  margin: 0 auto;
+  padding-top: 3rem;
+}
+
+.site-form form > p {
+  display: flex;
+  align-items: center;
+}
+
+.site-form label,
+.site-form input {
+  display: inline-block;
+}
+
+.site-form label {
+  font-size: 1.3rem;
+  font-family: "Lobster", cursive;
+  padding-right: 1.5rem;
+}
+
+.site-form input {
+  border: none;
+  padding: 0.8rem 0.5rem;
+  border-radius: 5px;
+  background: rgb(146, 94, 68);
+  overflow: hidden;
+  flex-grow: 1;
+  color: #fff;
+}
+
+.site-form button {
+  background: #329a8f;
+  padding: 0.8rem 3rem;
+  display: flex;
+  margin-left: auto;
+}
+
+/*blog section*/
+.site-blog-container {
+  text-align: center;
+  padding: 4rem 2rem;
+  background: rgb(241, 241, 230);
+  margin-top: 1.5rem;
+}
+
+.site-blog-container h5 {
+  color: #a2a757;
+}
+
+.site-blog-container h2 {
+  color: #329a8f;
+  margin-bottom: 1.5rem;
+}
+
+.site-posts {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.site-post {
+  flex: 0 0 30%;
+  border: 2px solid #ff8f57;
+  margin-top: 1.5rem;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.site-post h2 {
+  font-size: 1.3rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+  padding: 0.5rem 1rem;
+}
+
+.site-post p {
+  padding: 1rem;
+}
+
+.site-post h2 a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #ff8f57;
+}
+
+.site-post .image {
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+
+.site-post .image:before {
+  content: "";
+  padding-top: 56.25%;
+  display: block;
+}
+
+.site-post img {
+  display: block;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  width: 100%;
+  height: auto;
+}
+
+/* footer */
+.site-footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 1.5rem 1rem;
+  background: #329a8f;
+  color: #fff;
+  font-family: "Lobster", cursive;
+  font-size: 1.2rem;
+}
+
+.site-footer p {
+  padding: 0;
+}
+
+.site-footer a {
+  color: #fff;
+  font-family: "Lobster", cursive;
+  font-size: 1.2rem;
+}

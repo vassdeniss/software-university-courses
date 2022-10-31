@@ -1,0 +1,96 @@
+@media screen and (max-width: 600px) {
+  html,
+  body {
+    overflow-x: hidden;
+  }
+
+  .site-header {
+    max-width: 100%;
+  }
+
+  .site-navigation {
+    display: none;
+  }
+
+  .site-main {
+    margin: 0px;
+  }
+
+  .site-logos-container {
+    min-width: 10%;
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .button.button-primary {
+    width: 25%;
+  }
+
+  .site-information {
+    display: flex;
+    justify-content: center;
+  }
+
+  .site-information-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .entry-description {
+    width: 100%;
+  }
+
+  .site-information-image {
+    display: none;
+  }
+
+  .site-information-text > .button.button-primary {
+    width: 30%;
+    padding: 20px;
+  }
+
+  .site-form {
+    margin: 0;
+  }
+
+  .site-blog-container {
+    margin: 0;
+  }
+
+  .site-form-container > .entry-title {
+    font-size: 12px;
+  }
+
+  .site-form form > p,
+  .site-form form > p label {
+    display: block;
+  }
+
+  .site-form form input {
+    width: 100%;
+  }
+
+  .site-form form .button.button-primary {
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 15px 10px;
+    display: block;
+  }
+
+  .site-footer {
+    display: block;
+    text-align: center;
+  }
+
+  .site-posts {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 0px 60px;
+  }
+}

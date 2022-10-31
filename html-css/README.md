@@ -10,6 +10,7 @@
 - [06. Flexbox - 10/10/2022](https://github.com/vassdeniss/software-university-courses/tree/master/html-css/06.Flexbox)
 - [07. Media Queries - 17/10/2022](https://github.com/vassdeniss/software-university-courses/tree/master/html-css/07.MediaQueries)
 - [08. Exam Preparation - 19/10/2022](https://github.com/vassdeniss/software-university-courses/tree/master/html-css/08.ExamPreparation)
+- [09. Exam - 30/10/2022](https://github.com/vassdeniss/software-university-courses/tree/master/html-css/09.Exam)
 
 ## :heart: Support
 
