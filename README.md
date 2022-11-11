@@ -3,7 +3,7 @@
 - [Software University](https://softuni.bg/)
   - Attendance: 03 July 2021 / Ongoing
   - Diploma: N/A
-  - Credits: 93
+  - Credits: 105
   - Average Software Engineering Grade: 6.00 / 6.00
   - Average Open Courses Grade: 6.00 / 6.00
 
@@ -48,8 +48,8 @@
 - [HTML & CSS](https://github.com/vassdeniss/software-university-courses/tree/master/html-css)
 
   - Attendance: 12 September 2022 / 30 October 2022
-  - Certification: N/A
-  - Grade: N/A
+  - Certification: [Yes](https://softuni.bg/certificates/details/147271/0a157bca)
+  - Grade: 6.00 / 6.00
 
 - [ASP.NET Fundamentals](https://github.com/vassdeniss/software-university-courses/tree/master/asp-net-fundamentals)
   - Attendance: 14 September 2022 / 22 October 2022
