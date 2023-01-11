@@ -58,9 +58,16 @@
   - Grade: 6.00 / 6.00
 
 - [ASP.NET Advanced](https://github.com/vassdeniss/EasyRank-Web-App)
+
   - Attendance: 26 October 2022 / 18 December 2022
   - Certification: [Yes](https://softuni.bg/certificates/details/152385/e664ef46)
   - Grade: 6.00 / 6.00
+
+- [JavaScript Advanced](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced)
+
+  - Attendance: 10 January 2023 / ONGOING
+  - Certificate: N/A
+  - Grade: N/A
 
 ## :green_book: Attended Side Courses
 
