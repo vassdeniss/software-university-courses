@@ -8,6 +8,7 @@
 - [04. Arrays & Nested Arrays - Exercise - 16/01/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/04.ArraysExercise)
 - [05. Objects & Composition - 17/01/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/05.Objects)
 - [06. Objects & Composition - Exercise - 19/01/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/06.ObjectsExercise)
+- [07. DOM Introduction - 20/01/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/07.DomIntroduction)
 
 ## :heart: Support
 
