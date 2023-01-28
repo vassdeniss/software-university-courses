@@ -10,6 +10,7 @@
 - [06. Objects & Composition - Exercise - 19/01/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/06.ObjectsExercise)
 - [07. DOM Introduction - 20/01/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/07.DomIntroduction)
 - [08. DOM Introduction - Exercise - 23/01/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/08.DomIntroductionExercise)
+- [09. DOM Manipulation & Events - 24/01/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/09.DomManipulation)
 
 ## :heart: Support
 
