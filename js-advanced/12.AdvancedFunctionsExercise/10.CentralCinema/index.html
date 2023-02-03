@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="icon" type="image/png" href="./favicon.ico" />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="solution.js"></script>
+    <title>Central Cinema</title>
+  </head>
+
+  <body>
+    <h1>Central Cinema</h1>
+
+    <form id="add-new">
+      <h2>Add Movie</h2>
+      <div id="container">
+        <input type="text" placeholder="Name" />
+        <input type="text" placeholder="Hall" />
+        <input type="text" placeholder="Ticket Price" />
+        <button>On Screen</button>
+      </div>
+    </form>
+
+    <section id="movies">
+      <h2>Movies on Screen</h2>
+      <ul></ul>
+    </section>
+
+    <section id="archive">
+      <h2>Аrchive</h2>
+      <ul></ul>
+      <button>Clear</button>
+    </section>
+    <script>
+      document.onload = solve();
+    </script>
+  </body>
+</html>

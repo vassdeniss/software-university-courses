@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Title</title>
+  </head>
+  <body onload="calculator()">
+    <div class="container">
+      <h1 class="title">Simple Calculator</h1>
+      <p>Enter two numbers</p>
+      <br />
+      <div class="input">
+        <label for="num1">Number One</label> <br />
+        <input type="text" id="num1" /> <br />
+        <label for="num2">Number Two</label> <br />
+        <input type="text" id="num2" /> <br />
+        <hr />
+        <label for="result">Result</label> <br />
+        <input type="text" id="result" readonly /><br />
+      </div>
+      <br />
+      <button id="sumButton" onclick="calculate.add()">Sum</button>
+      <button id="subtractButton" onclick="calculate.subtract()">
+        Subtract
+      </button>
+    </div>
+    <script src="./app.js"></script>
+  </body>
+</html>

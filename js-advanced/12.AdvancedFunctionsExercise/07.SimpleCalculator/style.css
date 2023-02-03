@@ -1,0 +1,26 @@
+body {
+  background-color: #ccc;
+  color: white;
+}
+
+.container {
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 10px;
+  width: 400px;
+  background-color: #303333;
+  text-align: center;
+  border: solid 2px #3786c7;
+}
+
+.container p {
+  font-size: 20px;
+}
+
+.title {
+  color: #02e063;
+}
+
+#sumButton {
+  margin-bottom: 20px;
+}

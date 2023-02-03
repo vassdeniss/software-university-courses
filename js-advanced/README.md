@@ -13,6 +13,7 @@
 - [09. DOM Manipulation & Events - 24/01/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/09.DomManipulation)
 - [10. DOM Manipulation & Events - Exercise - 26/01/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/10.DomManipulationExercise)
 - [11. Advanced Function - 27/01/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/11.AdvancedFunctions)
+- [12. Advanced Function - Exercise - 30/01/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/12.AdvancedFunctionsExercise)
 
 ## :heart: Support
 
