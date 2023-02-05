@@ -1,5 +1,26 @@
 {
   "devDependencies": {
     "eslint": "^8.31.0"
-  }
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  },
+  "name": "js-advanced",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vassdeniss/software-university-courses.git#master"
+  },
+  "author": "vassdeniss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vassdeniss/software-university-courses/issues"
+  },
+  "homepage": "https://github.com/vassdeniss/software-university-courses/tree/master#readme"
 }
