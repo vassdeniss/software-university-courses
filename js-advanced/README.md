@@ -15,6 +15,7 @@
 - [11. Advanced Function - 27/01/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/11.AdvancedFunctions)
 - [12. Advanced Function - Exercise - 30/01/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/12.AdvancedFunctionsExercise)
 - [13. Unit Testing & Error Handling - 01/02/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/13.UnitTesting)
+- [14. Unit Testing & Error Handling - Exercise - 02/02/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/14.UnitTestingExercise)
 
 ## :heart: Support
 
