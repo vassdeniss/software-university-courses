@@ -1,0 +1,28 @@
+article {
+  background: #eee;
+  padding: 1px;
+  width: 250px;
+  margin: 1px;
+}
+
+.title {
+  background: #ddd;
+  padding: 5px;
+  font-weight: bold;
+}
+
+.title button {
+  float: right;
+}
+
+.info {
+  margin: 5px;
+}
+
+.info span {
+  display: block;
+}
+
+.online {
+  background: #9e9;
+}
