@@ -20,6 +20,7 @@
 - [16. Classes - Exercise - 06/02/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/16.ClassesExercise)
 - [17. Prototypes & Inheritance - 07/02/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/17.Prototypes)
 - [18. Prototypes & Inheritance - Exercise - 09/02/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/18.PrototypesExercise)
+- [19. Exam Preparation - 10/02/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced/19.ExamPreparation)
 
 ## :heart: Support
 
