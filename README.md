@@ -3,7 +3,7 @@
 - [Software University](https://softuni.bg/)
   - Attendance: 03 July 2021 / Ongoing
   - Diploma: N/A
-  - Credits: 120
+  - Credits: 132
   - Average Software Engineering Grade: 6.00 / 6.00
   - Average Open Courses Grade: 6.00 / 6.00
 
@@ -65,7 +65,13 @@
 
 - [JavaScript Advanced](https://github.com/vassdeniss/software-university-courses/tree/master/js-advanced)
 
-  - Attendance: 10 January 2023 / ONGOING
+  - Attendance: 10 January 2023 / 18 February 2023
+  - Certificate: [Yes](https://softuni.bg/certificates/details/160237/ba61796f)
+  - Grade: 6.00 / 6.00
+
+- [JavaScript Applications](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps)
+
+  - Attendance: 21 February 2023 / ONGOING
   - Certificate: N/A
   - Grade: N/A
 

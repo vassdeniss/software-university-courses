@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "eslint": "^8.33.0"
+  },
+  "name": "js-apps",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vassdeniss/software-university-courses.git#master"
+  },
+  "author": "vassdeniss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vassdeniss/software-university-courses/issues"
+  },
+  "homepage": "https://github.com/vassdeniss/software-university-courses/tree/master#readme"
+}
