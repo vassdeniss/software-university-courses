@@ -3,6 +3,7 @@
 ## :orange_book: Contents
 
 - [01. Asynchronous Programming - 24/02/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps/01.AsyncProgramming)
+- [02. Asynchronous Programming - Exercise - 27/02/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps/02.AsyncProgrammingExercise)
 
 ## :heart: Support
 
