@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="static/style.css" />
+    <script type="module" defer src="./src/login.js"></script>
+    <title>FURNITURE</title>
+  </head>
+
+  <body>
+    <header>
+      <h1>Furniture List</h1>
+      <nav>
+        <a href="home.html">Catalog</a>
+        <!-- <div id="user">
+                <a href="create.html">Create Product</a>
+                <a id="logoutBtn" href="javascript:void(0)">Logout</a>
+            </div> -->
+        <div id="guest">
+          <a href="login.html" class="active">Login</a>
+          <!-- <a href="register.html" class="active">Register</a> -->
+        </div>
+      </nav>
+    </header>
+    <main>
+      <div id="container">
+        <div id="exercise">
+          <!-- <h1>Furniture List</h1>
+                <textarea rows="5" cols="50"></textarea>
+                <button>Generate</button> -->
+
+          <div class="wrapper">
+            <div class="card-wrapper">
+              <div class="row">
+                <div class="col-md-12">
+                  <h2>Register</h2>
+                  <form action="/register" method="post">
+                    <label>E-mail: <input type="text" name="email" /></label>
+                    <label
+                      >Password: <input type="password" name="password"
+                    /></label>
+                    <label
+                      >Repeat: <input type="password" name="rePass"
+                    /></label>
+                    <button>Register</button>
+                  </form>
+                  <hr />
+                  <h2>Login</h2>
+                  <form action="/login" method="post">
+                    <label>E-mail: <input type="text" name="email" /></label>
+                    <label
+                      >Password: <input type="password" name="password"
+                    /></label>
+                    <button>Login</button>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- <textarea rows="4" cols="50" disabled></textarea>
+                <button>Buy</button> -->
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

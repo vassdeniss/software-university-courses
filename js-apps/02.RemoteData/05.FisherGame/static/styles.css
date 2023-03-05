@@ -1,0 +1,228 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', serif;
+  background: #eaeaea;
+  text-align: center;
+  font-size: 20px;
+  width: 980px;
+  margin: auto;
+}
+
+header {
+  padding: 32px;
+  background-color: #cccccc;
+  position: relative;
+  display: flex;
+}
+
+nav {
+  display: inline-block;
+  position: absolute;
+  right: 16px;
+  text-align: right;
+}
+
+nav div {
+  display: inline-block;
+}
+
+nav a {
+  display: inline-block;
+  background: #234465;
+  color: white;
+  padding: 8px 16px;
+  margin: 0 8px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #6c8b47;
+  color: white;
+  cursor: pointer;
+}
+
+a.active {
+  background-color: #6c8b47;
+  color: white;
+}
+
+main {
+  background-color: #fff;
+  padding: 32px;
+}
+
+h1 {
+  text-align: center;
+}
+
+div {
+  display: inline-block;
+  /* width: 45%; */
+}
+
+aside {
+  width: 20%;
+  display: inline-block;
+}
+
+.update:disabled,
+.delete:disabled,
+.add:disabled {
+  background-color: rgba(66, 66, 66, 0.38);
+  color: rgba(66, 66, 66, 0.7);
+}
+
+.update:disabled:hover,
+.delete:disabled:hover,
+.add:disabled:hover {
+  cursor: no-drop;
+}
+
+.update {
+  background-color: rgb(209, 167, 62);
+}
+
+.delete {
+  background-color: rgb(207, 83, 52);
+}
+
+.add,
+.load {
+  background-color: rgb(95, 207, 105);
+}
+
+button:hover {
+  cursor: pointer;
+  color: white;
+}
+
+button {
+  background-color: rgba(66, 66, 66, 0.32);
+  border: none;
+  outline: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 19px;
+  width: 90%;
+  margin: 5px 0;
+  padding: 9px 0;
+  border-radius: 4px;
+  color: black;
+}
+
+#login button:hover,
+#register button:hover {
+  background-color: rgb(95, 207, 105);
+}
+
+fieldset {
+  display: inline-table;
+  vertical-align: top;
+  border: 2px solid black;
+}
+
+fieldset#main {
+  width: 70%;
+  margin: 0 50px 0 0;
+  padding-bottom: 14px;
+}
+
+input {
+  padding: 5px 6px;
+  margin: 5px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 87%;
+}
+
+label {
+  display: block;
+  margin: 5px;
+  font-weight: bold;
+}
+
+legend {
+  font-weight: bold;
+  padding: 5px 10px;
+}
+
+#main,
+input {
+  text-align: center;
+}
+
+.catch {
+  border: 1px solid black;
+  margin: 5px 15px;
+  width: 250px;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.col-md-12 {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+main {
+  min-height: 80vh;
+}
+
+#register-view,
+#login-view {
+  display: flex;
+  justify-content: flex-end;
+  align-content: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+#register-view h2,
+#login-view h2 {
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+#home-view {
+  text-align: end;
+}
+
+#home-view aside {
+  text-align: center;
+}
+
+.notification {
+  color: red;
+  margin-top: 0.5%;
+  height: 30px;
+}
+
+.email {
+  padding-top: 10px;
+}
+
+.email span {
+  color: teal;
+}
+
+.email span:hover {
+  color: white;
+  cursor: pointer;
+}

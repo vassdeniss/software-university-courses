@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Biggest Catch</title>
+    <link rel="stylesheet" href="../static/styles.css" />
+    <script type="module" src="./register.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <h1>Biggest Catch</h1>
+      <nav>
+        <a id="home" class="active" href="index.html">Home</a>
+        <div id="user">
+          <a id="logout" href="javascript:void(0)">Logout</a>
+        </div>
+        <div id="guest">
+          <a id="login" href="login.html">Login</a>
+          <a id="register" href="register.html">Register</a>
+        </div>
+        <p class="email">Welcome, <span>guest</span></p>
+      </nav>
+    </header>
+    <main>
+      <section id="register-view">
+        <h2>Register</h2>
+        <form id="register">
+          <label>Email: <input type="text" name="email" /></label>
+          <label>Password: <input type="password" name="password" /></label>
+          <label>Repeat: <input type="password" name="rePass" /></label>
+          <p class="notification"></p>
+          <button>Register</button>
+        </form>
+      </section>
+    </main>
+  </body>
+</html>

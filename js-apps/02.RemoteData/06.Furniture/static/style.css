@@ -1,0 +1,212 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #eaeaea;
+  text-align: center;
+  font-size: 20px;
+  width: 980px;
+  margin: auto;
+}
+
+#exercise {
+  display: inline-block;
+  padding: 1rem 0 1rem 1rem;
+}
+
+header {
+  padding: 32px;
+  background-color: #cccccc;
+  position: relative;
+  display: flex;
+}
+
+h1 {
+  font-size: 150%;
+  display: inline;
+  text-align: left;
+}
+
+main {
+  background-color: #666666;
+  padding: 32px;
+}
+
+nav {
+  display: inline-block;
+  position: absolute;
+  right: 16px;
+  text-align: right;
+}
+
+nav div {
+  display: inline-block;
+}
+
+nav a {
+  display: inline-block;
+  background: #234465;
+  color: white;
+  padding: 8px 16px;
+  margin: 0 8px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #6c8b47;
+  color: white;
+}
+
+a.active {
+  background-color: #6c8b47;
+  color: white;
+}
+
+main {
+  background-color: #666666;
+  padding: 32px;
+}
+
+.wrapper {
+  width: 100%;
+  max-width: 800px;
+  margin: 48px auto;
+}
+
+.card-wrapper {
+  border-radius: 2px;
+  padding: 24px;
+  background: white;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 20px;
+  margin-bottom: 48px;
+}
+
+.wrapper table {
+  margin-top: 24px;
+  vertical-align: center;
+}
+
+.wrapper table img {
+  max-width: 80px;
+  max-height: 80px;
+}
+
+.wrapper table td {
+  vertical-align: middle;
+}
+
+#exercise button {
+  display: block;
+  width: 50%;
+  background: #234465;
+  color: white;
+  border: none;
+  height: 5vh;
+  border-radius: 10px;
+  font-weight: bold;
+  margin: 20px auto;
+  padding: 8px 16px;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #6c8b47;
+  color: white;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.col-md-12 {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  background-color: transparent;
+}
+
+.table td,
+.table th {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+
+.table thead th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #dee2e6;
+}
+
+form {
+  padding: 32px;
+}
+
+label {
+  display: block;
+  position: relative;
+  margin: 16px 0;
+  text-align: right;
+  padding-right: 520px;
+  line-height: 48px;
+}
+
+input[type='text'],
+input[type='password'],
+textarea {
+  position: absolute;
+  right: 0px;
+  width: 500px;
+  padding: 8px;
+}
+
+textarea {
+  height: 300px;
+  resize: none;
+}
+
+.ml {
+  height: 300px;
+}
+
+input[type='submit'] {
+  display: block;
+  border: none;
+  margin: auto;
+  background: #234465;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+input[type='submit']:hover {
+  background-color: #6c8b47;
+  color: white;
+  cursor: pointer;
+}
+
+.orders {
+  margin: 20px auto;
+}
+
+span {
+  font-weight: bold;
+}
