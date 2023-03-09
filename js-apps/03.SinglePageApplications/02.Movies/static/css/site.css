@@ -1,0 +1,40 @@
+.card {
+  min-width: 18rem;
+  max-width: 18rem;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+.btn-group {
+  margin-right: 20px;
+}
+
+.badge {
+  margin-left: 10px;
+}
+
+.enrolled-span {
+  text-decoration: underline;
+  background-color: green;
+  color: white;
+  padding: 2%;
+  border-radius: 4px;
+}
+
+.notifications {
+  background-color: rgba(238, 74, 74, 0.699);
+  margin: 0 auto;
+  text-align: center;
+  padding: 1%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-radius: 6px;
+  color: white;
+  font-style: italic;
+  text-decoration: underline;
+  box-shadow: 0 5px 10px #cccccc;
+}

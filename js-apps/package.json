@@ -1,13 +1,18 @@
 {
   "dependencies": {
-    "eslint": "^8.33.0"
+    "chai": "^4.3.7",
+    "eslint": "^8.33.0",
+    "http-server": "^14.1.1",
+    "mocha": "^10.2.0",
+    "playwright-chromium": "^1.31.2"
   },
   "name": "js-apps",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "mocha tests",
+    "start": "http-server -a localhost -p 3000 -P http://localhost:3030? -c-1"
   },
   "repository": {
     "type": "git",
