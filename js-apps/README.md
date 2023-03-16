@@ -6,6 +6,7 @@
 - [02. Remote Data & Authentication - 28/02/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps/02.RemoteData)
 - [03. Single Page Applications - 02/03/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps/03.SinglePageApplications)
 - [04. Architecture & Testing - 07/03/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps/04.Architecture)
+- [05. Client Side Rendering - 10/03/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps/05.ClientSideRendering)
 
 ## :heart: Support
 

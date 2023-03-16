@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "chai": "^4.3.7",
-    "eslint": "^8.33.0",
     "http-server": "^14.1.1",
+    "lit-html": "^2.6.1",
     "mocha": "^10.2.0",
     "playwright-chromium": "^1.31.2"
   },
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/vassdeniss/software-university-courses/issues"
   },
-  "homepage": "https://github.com/vassdeniss/software-university-courses/tree/master#readme"
+  "homepage": "https://github.com/vassdeniss/software-university-courses/tree/master#readme",
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
 }
