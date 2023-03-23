@@ -1,0 +1,76 @@
+.hero {
+  font-size: 125%;
+  margin-top: 128px;
+}
+
+h2 {
+  padding-bottom: 32px;
+}
+
+.tm-hero-col {
+  margin-left: 314px;
+}
+
+.main-form label {
+  display: block;
+  margin: 16px auto;
+  position: relative;
+}
+
+.main-form input[type='text'],
+.main-form input[type='password'] {
+  padding: 4px 8px;
+  display: block;
+  width: 200px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  border: 1px solid #4f6457;
+}
+
+.main-form textarea {
+  display: block;
+  border: 1px solid #4f6457;
+  width: 100%;
+  resize: vertical;
+  height: 300px;
+  padding: 4px 8px;
+}
+
+.team-logo {
+  width: 150px;
+  height: 150px;
+  margin: 32px;
+  vertical-align: bottom;
+  object-fit: contain;
+}
+
+.tm-preview {
+  margin-left: 214px;
+  padding: 32px;
+  padding-left: 0;
+}
+
+.details {
+  color: #999999;
+}
+
+.tm-members li {
+  list-style: none;
+  margin: 8px 0;
+}
+
+.clear {
+  clear: both;
+}
+
+.action.tm-control {
+  padding: 4px 8px;
+  margin: 0 4px;
+}
+
+.error {
+  text-align: center;
+  color: red;
+}

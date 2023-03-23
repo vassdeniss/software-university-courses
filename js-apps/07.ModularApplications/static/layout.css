@@ -1,0 +1,157 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  border: none;
+}
+
+.sky {
+  background-color: #75b1a9;
+}
+
+.sunglow {
+  background-color: #d9b44a;
+}
+
+.mountains {
+  background-color: #4f6457;
+  color: white;
+}
+
+.mist {
+  background-color: #acd0c0;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  position: relative;
+}
+
+#content {
+  width: 980px;
+  margin: auto;
+  position: relative;
+  background-color: white;
+}
+
+#titlebar {
+  position: fixed;
+  top: 0;
+  width: 980px;
+  margin: auto;
+  height: 48px;
+  z-index: 1;
+}
+
+.site-logo {
+  line-height: 48px;
+  margin-left: 32px;
+  font-size: 24px;
+  color: white;
+  text-decoration: none;
+}
+
+#footer {
+  position: fixed;
+  bottom: 0;
+  width: 980px;
+  height: 64px;
+  margin: auto;
+  line-height: 64px;
+}
+
+header {
+  background-color: #75b1a9;
+}
+
+main {
+  padding-top: 48px;
+  padding-bottom: 64px;
+  min-height: 100vh;
+  box-shadow: 0px 0px 16px 4px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+  text-align: center;
+  background-color: #4f6457;
+  color: white;
+}
+
+nav {
+  float: right;
+  height: 100%;
+}
+
+nav a {
+  float: left;
+  height: 100%;
+  line-height: 32px;
+}
+
+a {
+  color: #4f6457;
+}
+
+a:hover {
+  color: #d9b44a;
+}
+
+.invert {
+  color: #acd0c0;
+}
+
+.action {
+  display: inline-block;
+  background-color: #acd0c0;
+  padding: 8px 16px;
+  text-decoration: none;
+  color: black;
+}
+
+.action:hover {
+  background-color: #d9b44a;
+  color: white;
+  cursor: pointer;
+}
+
+article {
+  margin: 32px 64px;
+  box-shadow: 0px 0px 16px 4px rgba(0, 0, 0, 0.2);
+}
+
+.layout::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.pad-small {
+  padding: 8px 16px;
+}
+
+.pad-med {
+  padding: 16px 32px;
+}
+
+.pad-large {
+  padding: 32px 64px;
+}
+
+.left-col {
+  float: left;
+}
+
+.narrow {
+  margin-left: 280px;
+  margin-right: 280px;
+}
+
+.cta {
+  display: block;
+  margin: 32px auto;
+  text-align: center;
+  width: 200px;
+  font-size: 20px;
+}

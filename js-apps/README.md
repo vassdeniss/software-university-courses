@@ -8,6 +8,7 @@
 - [04. Architecture & Testing - 07/03/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps/04.Architecture)
 - [05. Client Side Rendering - 10/03/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps/05.ClientSideRendering)
 - [06. Routing - 14/03/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps/06.Routing)
+- [07. Modular Applications - 17/03/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps/07.ModularApplications)
 
 ## :heart: Support
 
