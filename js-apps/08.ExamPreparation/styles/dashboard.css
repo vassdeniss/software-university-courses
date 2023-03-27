@@ -1,0 +1,55 @@
+#dashboard {
+  margin-top: 50px;
+  display: block;
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.offer img {
+  margin-right: 50px;
+  height: 170px;
+  width: 170px;
+}
+
+.title,
+.salary {
+  font-size: 21px;
+}
+
+.offer {
+  display: flex;
+  justify-content: space-between;
+  max-width: 70%;
+  margin: 25px auto;
+  background-color: white;
+  border-radius: 5px;
+  border: 2px ridge rgb(210, 208, 208);
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2), 0 3px 3px 0 rgba(0, 0, 0, 0.24);
+}
+
+.details-btn {
+  text-decoration: none;
+  margin: auto 50px;
+  font-size: 21px;
+  width: 130px;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  background: #5c9596;
+}
+
+.offer p {
+  margin: auto;
+  font-size: 21px;
+  min-width: 25%;
+  max-width: 30%;
+  text-align: center;
+}
+
+.offer span {
+  padding: 10px;
+  margin: auto;
+}

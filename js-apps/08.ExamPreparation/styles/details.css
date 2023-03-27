@@ -1,0 +1,78 @@
+#details-wrapper {
+  background-color: white;
+  margin: 50px auto;
+  min-height: 400px;
+  width: 70%;
+  border: 2px ridge rgb(210, 208, 208);
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2), 0 3px 3px 0 rgba(0, 0, 0, 0.24);
+}
+
+#details-wrapper img {
+  display: block;
+  margin: 30px auto;
+}
+
+#details-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 29px;
+}
+
+#details-category {
+  text-align: center;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+#details-salary {
+  text-align: center;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+#info-wrapper {
+  display: flex;
+}
+
+#details-description,
+#details-requirements {
+  width: 45%;
+  margin: 30px auto;
+  height: auto;
+  text-align: center;
+}
+
+#details-img {
+  width: 250px;
+  height: 250px;
+}
+
+h4 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 19px;
+}
+
+span {
+  font-size: 17px;
+}
+
+#action-buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+
+#action-buttons a {
+  text-decoration: none;
+  margin: auto 50px;
+  font-size: 21px;
+  width: 130px;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  background: #5c9596;
+}
