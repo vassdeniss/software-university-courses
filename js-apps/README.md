@@ -11,6 +11,7 @@
 - [07. Modular Applications - 17/03/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps/07.ModularApplications)
 - [08. Exam Preparation - 21/03/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps/08.ExamPreparation)
 - [09. Exam Preparation - 23/03/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps/09.ExamPreparation)
+- [10. Exam - 01/04/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-apps/10.Exam)
 
 ## :heart: Support
 
