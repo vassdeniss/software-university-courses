@@ -2,7 +2,8 @@
 
 - [Software University](https://softuni.bg/)
   - Attendance: 03 July 2021 / Ongoing
-  - Diploma: N/A
+  - Diplomas:  
+    [C# Web Developer](https://softuni.bg/certificates/details/169762/a94c5837)
   - Credits: 147
   - Average Software Engineering Grade: 6.00 / 6.00
   - Average Open Courses Grade: 6.00 / 6.00
