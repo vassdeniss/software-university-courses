@@ -1,0 +1,156 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #fff;
+}
+
+#home {
+  width: 100%;
+  height: 100vh;
+  background-image: url(../images/background.jpg);
+  background-position: center;
+  background-size: cover;
+  padding-top: 120px;
+}
+
+nav {
+  background-color: #050912;
+  width: 100%;
+  padding: 2px 0;
+  display: flex;
+  padding-left: 30px;
+  align-items: center;
+}
+
+.logo {
+  width: 50px;
+  cursor: pointer;
+}
+
+nav ul {
+  flex: 1;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 10px 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.content {
+  margin-left: 60px;
+}
+
+.content h1 {
+  font-size: 88px;
+  margin-bottom: 15px;
+}
+
+.content h1 span {
+  color: #096bab;
+}
+
+.content p {
+  line-height: 22px;
+  font-size: 26px;
+}
+
+.content strong {
+  color: #2e87cb;
+}
+
+.content .buy {
+  display: inline-block;
+  margin-top: 30px;
+  background: #2e87cb;
+  color: #fff;
+  text-decoration: none;
+  padding: 15px 50px;
+  border-radius: 30px;
+  font-size: 20px;
+}
+
+footer p {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #050912;
+  color: white;
+  font-weight: bolder;
+  text-align: center;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 8px;
+  background-color: #e7e7e7;
+  border: 1px solid #cacaca;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  background-color: #050912;
+}
+
+.errorContainer {
+  position: fixed;
+  right: 100px;
+  min-width: 100px;
+  display: block;
+  z-index: 11111;
+  top: 80px;
+  text-align: center;
+  border-radius: 20px;
+  color: rgb(255, 255, 255);
+  height: auto;
+  width: 320px;
+  box-shadow: 0 5px 10px black;
+}
+
+.errorContainer > p {
+  background: #2e87cb;
+  font-size: 20px;
+  padding: 20px;
+  height: auto;
+  border-radius: 20px;
+}
+
+.errorContainer {
+  -moz-animation: cssAnimation 0s ease-in 2s forwards;
+  /* Firefox */
+  -webkit-animation: cssAnimation 0s ease-in 2s forwards;
+  /* Safari and Chrome */
+  -o-animation: cssAnimation 0s ease-in 2s forwards;
+  /* Opera */
+  animation: cssAnimation 0s ease-in 2s forwards;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+
+@keyframes cssAnimation {
+  to {
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    padding: 0;
+  }
+}
+
+@-webkit-keyframes cssAnimation {
+  to {
+    width: 0;
+    height: 0;
+    visibility: hidden;
+    padding: 0;
+  }
+}

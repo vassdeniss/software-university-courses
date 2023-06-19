@@ -1,0 +1,40 @@
+<main id='create'>
+  <section id='create-container'>
+    <div class='create-container-info'>
+      <h1>Create Game Code Offer</h1>
+      <h4>Post your code to sell</h4>
+      <form method='POST'>
+        <label>Platform:</label>
+        <select id='platform' name='platform'>
+          <option value=''>-------</option>
+          <option value='PC'>PC</option>
+          <option value='Nintendo'>Nintendo</option>
+          <option value='PS4'>PS4</option>
+          <option value='PS5'>PS5</option>
+          <option value='XBOX'>XBOX</option>
+        </select>
+        <label>Name:</label>
+        <input type='text' id='name' name='name' value='{{name}}' />
+        <label>Image:</label>
+        <input
+          type='text'
+          id='image'
+          name='image'
+          value='{{image}}'
+          placeholder='http://...'
+        />
+        <label>Price:</label>
+        <input type='number' id='price' name='price' value='{{price}}' />
+        <label>Genre:</label>
+        <input type='text' id='genre' name='genre' value='{{genre}}' />
+        <label>Description:</label>
+        <textarea
+          id='description'
+          name='description'
+          value='{{description}}'
+        ></textarea>
+        <input type='submit' id='btn' value='CREATE' />
+      </form>
+    </div>
+  </section>
+</main>

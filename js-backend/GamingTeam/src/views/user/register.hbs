@@ -1,0 +1,32 @@
+<main id='register'>
+  <div class='register-box'>
+    <h1>Register</h1>
+    <h4>It's free and only takes a minute</h4>
+    <form method='POST'>
+      <label>Username</label>
+      <input
+        type='text'
+        name='username'
+        placeholder='Username..'
+        value='{{username}}'
+      />
+      <label>Email</label>
+      <input
+        type='email'
+        name='email'
+        placeholder='Email..'
+        value='{{email}}'
+      />
+      <label>Password</label>
+      <input type='password' name='password' placeholder='Password..' />
+      <label>Confirm Password</label>
+      <input
+        type='password'
+        name='repeatPassword'
+        placeholder='Confirm Password..'
+      />
+      <input type='submit' value='Register' />
+    </form>
+    <p>Already have an account? <a href='/users/login'>Login here</a></p>
+  </div>
+</main>

@@ -1,0 +1,39 @@
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta http-equiv='X-UA-Compatible' content='IE=edge' />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    <title>Gaming Team</title>
+    <link rel='stylesheet' href='/css/styles.css' />
+  </head>
+  <body>
+    <div>
+      <div class='errorContainer'>
+        {{#each errors}}
+          <p style='margin-bottom: 1rem;'>{{this}}</p>
+        {{/each}}
+      </div>
+    </div>
+    <header class='header'>
+      <nav>
+        <img src='/images/logo.jpg' class='logo' />
+        <ul>
+          <li><a href='/'>Home</a></li>
+          <li><a href='/games'>All Games Code</a></li>
+          {{#if isAuth}}
+            <li><a href='/search'>Search</a></li>
+            <li><a href='/games/create'>Create Game Offer</a></li>
+            <li><a href='/users/logout'>Logout</a></li>
+          {{else}}
+            <li><a href='/users/login'>Login</a></li>
+            <li><a href='/users/register'>Register</a></li>
+          {{/if}}
+        </ul>
+      </nav>
+    </header>
+    {{{body}}}
+    <footer>
+      <p>Back-End 2023</p>
+    </footer>
+  </body>
+</html>

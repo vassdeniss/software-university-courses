@@ -1,0 +1,130 @@
+#details {
+  width: 100%;
+  height: 100vh;
+  background-image: url(../images/background-2.jpg);
+  background-position: center;
+  background-size: cover;
+  padding-top: 50px;
+}
+
+#details-info {
+  border-top: 4px solid #2e87cb;
+  border-bottom: 4px solid #2e87cb;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2), 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+  background-color: #096bab;
+  width: 60%;
+  min-height: 400px;
+  height: auto;
+  margin: auto;
+}
+
+#details-info h1 {
+  font-size: 28px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+#details-info .game-image > img {
+  float: left;
+  margin: 20px auto;
+  display: block;
+  width: 39%;
+  height: 39%;
+  border: 5px solid #fff;
+  margin-left: 25px;
+}
+
+#details-info .game-text {
+  float: right;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  width: 58%;
+  padding-right: 10px;
+}
+
+#details-info #platform {
+  text-align: center;
+  opacity: 60%;
+}
+
+#details-info #price {
+  margin-top: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+#details-info #genre {
+  margin-top: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+#details-info #description {
+  margin-top: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.btn-edit,
+.btn-delete,
+.btn-buy {
+  border: 5em;
+  cursor: pointer;
+  outline: none;
+  font-size: 16px;
+  -webkit-transform: translate(0);
+  transform: translate(0);
+  background-image: linear-gradient(45deg, #732e4d, #ac6897);
+  padding: 0.7em 2em;
+  border-radius: 65px;
+  box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.438);
+  -webkit-transition: box-shadow 0.25s;
+  transition: box-shadow 0.25s;
+  color: white;
+  text-decoration: none;
+}
+
+.btn-buy {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.author {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+.btn-delete {
+  margin-left: 60px;
+}
+
+.btn-edit:hover,
+.btn-delete:hover,
+.btn-buy:hover {
+  box-shadow: 0 12px 24px rgba(128, 128, 128, 0.1);
+}
+
+.buy-message {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  border: 5em;
+  width: 350px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  font-size: 16px;
+  background-image: linear-gradient(45deg, #732e4d, #ac6897);
+  padding: 0.7em;
+  border-radius: 65px;
+  box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.438);
+  -webkit-transition: box-shadow 0.25s;
+  transition: box-shadow 0.25s;
+  color: white;
+}

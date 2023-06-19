@@ -1,0 +1,29 @@
+<main id='edit'>
+  <section id='edit-container'>
+    <div class='edit-container-info'>
+      <h1>Edit Game Code Offer</h1>
+      <form method='POST'>
+        <label>Platform:</label>
+        <select id='platform' name='platform'>
+          <option value=''>-------</option>
+          {{#each platforms}}
+            <option value='{{value}}' {{selected}}>{{value}}</option>
+          {{/each}}
+        </select>
+        <label>Name:</label>
+        <input type='text' id='name' name='name' value='{{game.name}}' />
+        <label>Image:</label>
+        <input type='text' id='image' name='image' value='{{game.image}}' />
+        <label>Price:</label>
+        <input type='number' id='price' name='price' value='{{game.price}}' />
+        <label>Genre:</label>
+        <input type='text' id='genre' name='genre' value='{{game.genre}}' />
+        <label>Description:</label>
+        <textarea id='description' name='description'>{{game.description}}
+        </textarea>
+        <input type='hidden' name='ownerId' value='{{game.owner}}' />
+        <input type='submit' id='btn' value='EDIT' />
+      </form>
+    </div>
+  </section>
+</main>

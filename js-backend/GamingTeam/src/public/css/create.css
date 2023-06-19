@@ -1,0 +1,106 @@
+#create {
+  width: 100%;
+  height: 100vh;
+  background-image: url(../images/background-2.jpg);
+  background-position: center;
+  background-size: cover;
+  padding-top: 20px;
+}
+
+#create-container {
+  color: white;
+  width: 360px;
+  height: auto;
+  margin: auto;
+  background-color: #096bab;
+  border: 2px solid #2e87cb;
+  border-radius: 20px;
+}
+
+#create-container h1 {
+  text-align: center;
+  padding-top: 15px;
+  color: #050912;
+}
+
+#create-container h4 {
+  margin-top: 10px;
+  text-align: center;
+  color: #591a4e;
+}
+
+#create-container form {
+  width: 300px;
+  margin-left: 20px;
+}
+
+#create-container form label {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+#create-container form input {
+  width: 320px;
+  height: 30px;
+  padding-left: 7px;
+  border: none;
+  border: 1px solid gray;
+  border-radius: 8px;
+  outline: none;
+  background-color: whitesmoke;
+}
+
+#create-container input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#create-container input[type='number'] {
+  -moz-appearance: textfield;
+}
+
+#create-container form textarea {
+  width: 320px;
+  height: 80px;
+  padding-left: 7px;
+  border: none;
+  border: 1px solid gray;
+  border-radius: 8px;
+  outline: none;
+  background-color: whitesmoke;
+  resize: none;
+  color: black;
+}
+
+#create-container select {
+  outline: 0;
+  border: 0;
+  box-shadow: none;
+  flex: 1;
+  padding: 0 1em;
+  cursor: pointer;
+  height: 20px;
+  font-weight: bold;
+  border-radius: 20px;
+  width: 320px;
+  color: #050912;
+  background-color: whitesmoke;
+}
+
+#create-container select option {
+  color: #050912;
+  font-weight: bold;
+}
+
+#create-container input[type='submit'] {
+  width: 320px;
+  height: 35px;
+  margin-top: 20px;
+  border: none;
+  background-color: #050912;
+  color: white;
+  font-size: 15px;
+  margin-bottom: 30px;
+}

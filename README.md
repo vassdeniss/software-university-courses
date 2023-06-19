@@ -2,8 +2,8 @@
 
 - [Software University](https://softuni.bg/)
   - Attendance: 03 July 2021 / Ongoing
-  - Diplomas:  
-    [C# Web Developer](https://softuni.bg/certificates/details/169762/a94c5837)
+  - Diplomas:
+    - [C# Web Developer](https://softuni.bg/certificates/details/169762/a94c5837)
   - Credits: 147
   - Average Software Engineering Grade: 6.00 / 6.00
   - Average Open Courses Grade: 6.00 / 6.00
@@ -75,6 +75,18 @@
   - Attendance: 21 February 2023 / 01 April 2023
   - Certificate: [Yes](https://softuni.bg/certificates/details/167850/a1b73bb2)
   - Grade: 6.00 / 6.00
+
+- Containers & Cloud
+
+  - Attendance: 09 May 2023 / 18 June 2023
+  - Certificate: N/A
+  - Grade: N/A
+
+- [JavaScript Backend](https://github.com/vassdeniss/software-university-courses/tree/master/js-backend)
+
+  - Attendance: 10 May 2023 / 18 June 2023
+  - Certificate: N/A
+  - Grade: N/A
 
 ## :green_book: Attended Side Courses
 

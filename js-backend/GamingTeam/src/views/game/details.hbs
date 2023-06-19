@@ -1,0 +1,32 @@
+<main id='details'>
+  <section id='details-info'>
+    <div class='game-image'>
+      <img src='{{game.image}}' />
+    </div>
+    <div class='game-info'>
+      <div class='game-text'>
+        <h1 id='name'>{{game.name}}</h1>
+        <h3 id='platform'>Platform: {{game.platform}}</h3>
+        <p id='price'><span>Price: ${{game.price}}</span></p>
+        <p id='genre'><span>Genre: {{game.genre}}</span></p>
+        <p id='description'>
+          {{game.description}}
+        </p>
+      </div>
+      <div class='product-btn'>
+        {{#if isOwner}}
+          <div class='author'>
+            <a href='/games/edit/{{game._id}}' class='btn-edit'>Edit</a>
+            <a href='/games/delete/{{game._id}}' class='btn-delete'>Delete</a>
+          </div>
+        {{else if isLogged}}
+          {{#if isBuyer}}
+            <p class='buy-message'>You have already bought this game</p>
+          {{else}}
+            <a href='/games/buy/{{game._id}}' class='btn-buy'>Buy</a>
+          {{/if}}
+        {{/if}}
+      </div>
+    </div>
+  </section>
+</main>
