@@ -1,0 +1,35 @@
+<div class='createPage'>
+  <h2>Add photo</h2>
+  <form method='POST'>
+    <p>
+      <input type='text' name='name' placeholder='Name' value='{{name}}' />
+    </p>
+    <p>
+      <input type='number' name='age' placeholder='Age' value='{{age}}' />
+    </p>
+    <p>
+      <textarea
+        type='text'
+        name='description'
+        placeholder='Description'
+      >{{description}}</textarea>
+    </p>
+    <p>
+      <input
+        type='text'
+        name='location'
+        placeholder='Location'
+        value='{{location}}'
+      />
+    </p>
+    <p>
+      <input
+        type='text'
+        name='image'
+        placeholder='Link to image'
+        value='{{image}}'
+      />
+    </p>
+    <button class='add-btn' type='submit'>Add Photo</button>
+  </form>
+</div>

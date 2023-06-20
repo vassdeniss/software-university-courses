@@ -1,0 +1,27 @@
+{
+  "name": "skeleton-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app": "nodemon src/index.js",
+    "appvars": "nodemon --exec \"node -r dotenv/config\" src/index.js",
+    "appvarsdebug": "nodemon --exec \"node -r dotenv/config\"  --inspect src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.4"
+  }
+}

@@ -1,0 +1,38 @@
+<div class='editPage'>
+  <h2>Edit photo</h2>
+  <form method='POST'>
+    <p>
+      <input
+        type='text'
+        name='name'
+        placeholder='Name'
+        value='{{photo.name}}'
+      />
+    </p>
+    <p>
+      <input type='number' name='age' placeholder='Age' value='{{photo.age}}' />
+    </p>
+    <p>
+      <textarea type='text' name='description' placeholder='Description'>
+        {{photo.description}}</textarea>
+    </p>
+    <p>
+      <input
+        type='text'
+        name='location'
+        placeholder='Location'
+        value='{{photo.location}}'
+      />
+    </p>
+    <p>
+      <input
+        type='text'
+        name='image'
+        placeholder='Link to image'
+        value='{{photo.image}}'
+      />
+    </p>
+    <input type='hidden' name='owner' value='{{photo.owner}}' />
+    <button class='edit-btn' type='submit'>Edit Photo</button>
+  </form>
+</div>

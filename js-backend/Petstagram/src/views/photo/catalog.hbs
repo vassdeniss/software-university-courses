@@ -1,0 +1,39 @@
+<div class='container'>
+  <div class='col-9'>
+    {{#each photos}}
+      <div class='card'>
+        <div class='top'>
+          <div class='userDetails'>
+            <a href='/users/profile/{{owner._id}}'>
+              <div class='profilepic'>
+                <div class='profile_img'>
+                  <div class='image'>
+                    <img src='/images/person.png' />
+                  </div>
+                </div>
+              </div>
+            </a>
+            <h3>
+              <p>
+                {{owner.username}}
+              </p>
+              <span>{{location}}</span>
+            </h3>
+          </div>
+        </div>
+        <div class='imgBx'>
+          <img src='{{image}}' alt='post' class='cover' />
+        </div>
+        <h5 class='petName'>Name: {{name}}</h5>
+        <h5 class='petAge'>Age: {{age}}</h5>
+        <a href='/photos/details/{{_id}}' id='see-details'>
+          <h4 class='details'>See details</h4>
+        </a>
+      </div>
+    {{else}}
+      <article class='not-available-photo'>
+        <h1>No photo posts yet.</h1>
+      </article>
+    {{/each}}
+  </div>
+</div>
