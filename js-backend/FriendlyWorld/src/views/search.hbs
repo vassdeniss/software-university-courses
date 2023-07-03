@@ -1,0 +1,28 @@
+<main class='search'>
+  <section id='search'>
+    <h2>Search by Location</h2>
+    <form class='search-wrapper cf' method='POST'>
+      <input
+        id='#search-input'
+        type='text'
+        name='location'
+        placeholder='Search here...'
+        required
+      />
+      <button type='submit'>Search</button>
+    </form>
+    <div id='search-container'>
+      {{#if posts}}
+        <ul class='card-wrapper'>
+          {{#each posts}}
+            {{>postPartial}}
+          {{/each}}
+        </ul>
+      {{else}}
+        <div id='no-post'>
+          <h2>There are no results found.</h2>
+        </div>
+      {{/if}}
+    </div>
+  </section>
+</main>

@@ -4,7 +4,7 @@
   - Attendance: 03 July 2021 / Ongoing
   - Diplomas:
     - [C# Web Developer](https://softuni.bg/certificates/details/169762/a94c5837)
-  - Credits: 147
+  - Credits: 159
   - Average Software Engineering Grade: 6.00 / 6.00
   - Average Open Courses Grade: 6.00 / 6.00
 
@@ -79,12 +79,25 @@
 - Containers & Cloud
 
   - Attendance: 09 May 2023 / 18 June 2023
-  - Certificate: N/A
-  - Grade: N/A
+  - Certificate: [Yes](https://softuni.bg/certificates/details/174382/3d8404f6)
+  - Grade: 6.00 / 6.00
 
 - [JavaScript Backend](https://github.com/vassdeniss/software-university-courses/tree/master/js-backend)
 
   - Attendance: 10 May 2023 / 18 June 2023
+  - Certificate: N/A
+  - Grade: N/A
+  - Awaiting retake: 10 August 2023
+
+- Software Engineering & DevOps
+
+  - Attendance: 20 June 2023 / ONGOING
+  - Certificate: N/A
+  - Grade: N/A
+
+- [Angular](https://github.com/vassdeniss/Legoview-Angular)
+
+  - Attendance: 20 June 2023 / ONGOING
   - Certificate: N/A
   - Grade: N/A
 
@@ -128,6 +141,25 @@
   - Grade: N/A
 
 - [WPF Essentials](https://github.com/vassdeniss/Chess-Engine-Wpf)
+
+  - Attendance: N/A
+  - Certificate: N/A
+  - Grade: N/A
+
+- C# Masterclass
+
+  - Attendance: N/A
+  - Certificate: N/A
+  - Grade: N/A
+
+- QA Fundamentals
+
+  - Attendance: N/A
+  - Certificate: N/A
+  - Grade: N/A
+
+- QA Advanced
+
   - Attendance: N/A
   - Certificate: N/A
   - Grade: N/A

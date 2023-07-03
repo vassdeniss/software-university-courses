@@ -1,0 +1,57 @@
+<main class='create'>
+  <section id='create'>
+    <div class='form'>
+      <h2>Add item</h2>
+      <form class='create-form' method='POST'>
+        <input
+          type='text'
+          name='name'
+          id='name'
+          placeholder='Name'
+          value='{{name}}'
+        />
+        <input
+          type='text'
+          name='years'
+          id='years'
+          placeholder='Years'
+          value='{{years}}'
+        />
+        <input
+          type='text'
+          name='kind'
+          id='kind'
+          placeholder='Kind'
+          value='{{kind}}'
+        />
+        <input
+          type='text'
+          name='image'
+          id='animal-img'
+          placeholder='Image url'
+          value='{{image}}'
+        />
+        <input
+          type='text'
+          name='need'
+          id='needs-of'
+          placeholder='Needs of'
+          value='{{need}}'
+        />
+        <input
+          type='text'
+          name='location'
+          id='location'
+          placeholder='Location'
+          value='{{location}}'
+        />
+        <textarea
+          id='description'
+          placeholder='Description...'
+          name='description'
+        >{{description}}</textarea>
+        <button type='submit'>Post</button>
+      </form>
+    </div>
+  </section>
+</main>

@@ -1,0 +1,16 @@
+<main class='dashboard'>
+  <section id='dashboard'>
+    <h2>Animals in Need</h2>
+    {{#if posts}}
+      <ul class='card-wrapper'>
+        {{#each posts}}
+          {{>postPartial}}
+        {{/each}}
+      </ul>
+    {{else}}
+      <div id='no-post'>
+        <h2>There are no animals in need now! </h2>
+      </div>
+    {{/if}}
+  </section>
+</main>

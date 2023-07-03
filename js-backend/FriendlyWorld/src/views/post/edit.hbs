@@ -1,0 +1,59 @@
+<main class='edit'>
+  <section id='create'>
+    <div class='form'>
+      <h2>Edit item</h2>
+      <form class='create-form' method='POST'>
+        <input
+          type='text'
+          name='name'
+          id='name'
+          placeholder='Name'
+          value='{{post.name}}'
+        />
+        <input
+          type='text'
+          name='years'
+          id='years'
+          placeholder='Years'
+          value='{{post.years}}'
+        />
+        <input
+          type='text'
+          name='kind'
+          id='kind'
+          placeholder='Kind'
+          value='{{post.kind}}'
+        />
+        <input
+          type='text'
+          name='image'
+          id='animal-img'
+          placeholder='Image url'
+          value='{{post.image}}'
+        />
+        <input
+          type='text'
+          name='need'
+          id='needs-of'
+          placeholder='Needs of'
+          value='{{post.need}}'
+        />
+        <input
+          type='text'
+          name='location'
+          id='location'
+          placeholder='Location'
+          value='{{post.location}}'
+        />
+        <textarea
+          id='description'
+          placeholder='Description...'
+          name='description'
+        >
+          {{post.description}}</textarea>
+        <input type='hidden' value='{{post.owner}}' name='ownerId' />
+        <button type='submit'>Edit</button>
+      </form>
+    </div>
+  </section>
+</main>

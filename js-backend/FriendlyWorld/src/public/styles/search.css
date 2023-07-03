@@ -1,0 +1,111 @@
+#search-container {
+  width: 95%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  /* box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2), 0 3px 3px 0 rgba(0, 0, 0, 0.24); */
+}
+
+#search h3 {
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  font-size: 31px;
+  margin-bottom: 0px;
+  color: black;
+}
+
+#search h2 {
+  margin: 50px auto;
+}
+
+#search-container .card-wrapper {
+  margin-top: 0px;
+  width: 97%;
+}
+
+#search-container .card-wrapper p {
+  display: block;
+}
+
+.search-wrapper {
+  width: 450px;
+  padding: 15px;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.2);
+  height: 45px;
+  border-radius: 10px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.4) inset,
+    0 1px 0 rgba(255, 255, 255, 0.2);
+}
+
+.search-wrapper input {
+  width: 330px;
+  height: 20px;
+  padding: 10px 5px;
+  float: left;
+  border: 0;
+  background: #eee;
+  -moz-border-radius: 3px 0 0 3px;
+  -webkit-border-radius: 3px 0 0 3px;
+  border-radius: 3px 0 0 3px;
+}
+
+.search-wrapper input:focus {
+  outline: 0;
+  background: #fff;
+  -moz-box-shadow: 0 0 2px rgba(0, 0, 0, 0.8) inset;
+  -webkit-box-shadow: 0 0 2px rgba(0, 0, 0, 0.8) inset;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.8) inset;
+}
+
+.search-wrapper button {
+  overflow: visible;
+  position: relative;
+  float: right;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  height: 40px;
+  width: 110px;
+  color: #fff;
+  text-transform: uppercase;
+  background: #727171;
+  -moz-border-radius: 0 3px 3px 0;
+  -webkit-border-radius: 0 3px 3px 0;
+  border-radius: 0 3px 3px 0;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
+  background-image: linear-gradient(45deg, #59452e, #e8b77e);
+}
+
+.search-wrapper button:hover {
+  background: #585858;
+}
+
+.search-wrapper button:active,
+.search-wrapper button:focus {
+  background: #8f8e8e;
+}
+
+.search-wrapper button:before {
+  content: "";
+  position: absolute;
+  border-width: 8px 8px 8px 0;
+  border-style: solid solid solid none;
+  border-color: transparent #706f6f transparent;
+  top: 12px;
+  left: -6px;
+}
+
+.search-wrapper button:hover:before {
+  border-right-color: #696969;
+}
+
+.search-wrapper button:focus:before {
+  border-right-color: #666565;
+}
+
+.search-wrapper button::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}

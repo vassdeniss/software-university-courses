@@ -1,0 +1,33 @@
+<main class='register'>
+  <section id='register'>
+    <div class='form'>
+      <h2>Register</h2>
+      <form class='login-form' method='POST'>
+        <input
+          type='text'
+          name='email'
+          id='register-email'
+          placeholder='email'
+          value='{{email}}'
+        />
+        <input
+          type='password'
+          name='password'
+          id='register-password'
+          placeholder='password'
+        />
+        <input
+          type='password'
+          name='repeatPassword'
+          id='repeat-password'
+          placeholder='repeat password'
+        />
+        <button type='submit'>Register</button>
+        <p class='message'>
+          Already registered?
+          <a href='/users/login'>Login</a>
+        </p>
+      </form>
+    </div>
+  </section>
+</main>

@@ -1,0 +1,53 @@
+<main class='details'>
+  <section id='details'>
+    <div id='details-wrapper'>
+      <p id='details-title'>Name: {{post.name}}</p>
+      <div id='img-wrapper'>
+        <img src='{{post.image}}' />
+      </div>
+      <div id='info-wrapper'>
+        <table>
+          <tr>
+            <td>
+              <p>
+                Years:
+                <span id='details-years'>{{post.years}}</span>
+              </p>
+            </td>
+            <td>
+              <p>Kind: <span id='details-kind'> {{post.kind}}</span></p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>Need of: <span id='details-need'>{{post.need}}</span></p>
+            </td>
+            <td>
+              <p>Location:
+                <span id='details-location'>{{post.location}}</span></p>
+            </td>
+          </tr>
+        </table>
+        <p>Description:
+          <span id='details-description'>{{post.description}}</span></p>
+      </div>
+      {{#if isOwner}}
+        <div id='action-buttons'>
+          <a href='/posts/edit/{{post._id}}' id='edit-btn'>Edit</a>
+          <a href='/posts/delete/{{post._id}}' id='delete-btn'>Delete</a>
+        </div>
+      {{else if isLoggedNotOwner}}
+        <div id='action-buttons'>
+          {{#if isDonator}}
+            <p id='already-donated'>You already donated!</p>
+          {{else}}
+            <a
+              href='/posts/details/{{post._id}}/donate'
+              id='donation-btn'
+            >Donation</a>
+          {{/if}}
+        </div>
+      {{/if}}
+    </div>
+  </section>
+</main>
