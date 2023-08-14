@@ -7,7 +7,7 @@
 - [Exam Preparation - 12/06/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-backend/GamingTeam)
 - [Exam Preparation - 14/06/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-backend/Petstagram)
 - [Exam - 18/06/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-backend/FriendlyWorld)
-- Exam Retake - 10/08/2023
+- [Exam Retake - 26/07/2023](https://github.com/vassdeniss/software-university-courses/tree/master/js-backend/WizardCreatures)
 
 ## :heart: Support
 

@@ -1,0 +1,22 @@
+<section id='catalog'>
+  <h1>All posts</h1>
+  <div class='band'>
+    {{#each animal}}
+      <div class='flip flip-vertical'>
+        <div class='front'>
+          <img src='{{image}}' alt='{{name}}' />
+        </div>
+        <div class='back'>
+          <h1>{{name}}</h1>
+          <h2>Species: {{species}}</h2>
+          <p>Description: {{description}}</p>
+          <a href='/animals/details/{{_id}}' class='details'>Details</a>
+        </div>
+      </div>
+    {{else}}
+      <div class='no-posts'>
+        <p class='no-offer'>There are no posts yet...</p>
+      </div>
+    {{/each}}
+  </div>
+</section>

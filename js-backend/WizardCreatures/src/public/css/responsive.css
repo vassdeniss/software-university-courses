@@ -1,0 +1,38 @@
+@media (max-height:1200px) {
+    html {
+        font-size: 12px;
+    }
+    header {
+        margin-top: 0.5em;
+    }
+    section {
+        margin: 1rem 3em;
+    }
+    
+}
+
+@-webkit-keyframes bounce {
+    8% {
+        transform: scale(0.3);
+        -webkit-transform: scale(0.8);
+        opacity: 1;
+    }
+    10% {
+        transform: scale(1.8);
+        -webkit-transform: scale2;
+        opacity: 0;
+    }
+}
+
+@keyframes bounce {
+    8% {
+        transform: scale(0.3);
+        -webkit-transform: scale(0.8);
+        opacity: 1;
+    }
+    20% {
+        transform: scale(1.8);
+        -webkit-transform: scale2;
+        opacity: 0;
+    }
+}

@@ -1,10 +1,10 @@
 # :mortar_board: Software University Courses Repository
 
 - [Software University](https://softuni.bg/)
-  - Attendance: 03 July 2021 / Ongoing
+  - Attendance: 03 July 2021 / 13 August 2023
   - Diplomas:
     - [C# Web Developer](https://softuni.bg/certificates/details/169762/a94c5837)
-  - Credits: 159
+  - Credits: 174
   - Average Software Engineering Grade: 6.00 / 6.00
   - Average Open Courses Grade: 6.00 / 6.00
 
@@ -85,19 +85,18 @@
 - [JavaScript Backend](https://github.com/vassdeniss/software-university-courses/tree/master/js-backend)
 
   - Attendance: 10 May 2023 / 18 June 2023
-  - Certificate: N/A
-  - Grade: N/A
-  - Awaiting retake: 10 August 2023
+  - Certificate: [Yes](https://softuni.bg/certificates/details/182064/30bd9555)
+  - Grade: 6.00 / 6.00
 
 - Software Engineering & DevOps
 
-  - Attendance: 20 June 2023 / ONGOING
+  - Attendance: 20 June 2023 / 12 August 2023
   - Certificate: N/A
   - Grade: N/A
 
 - [Angular](https://github.com/vassdeniss/Legoview-Angular)
 
-  - Attendance: 20 June 2023 / ONGOING
+  - Attendance: 20 June 2023 / 13 August 2023
   - Certificate: N/A
   - Grade: N/A
 

@@ -1,0 +1,84 @@
+<section id="create-page">
+  <div class="createSection">
+    <div class="info">
+      <h2>
+        "Dobby Never Meant To Kill! Dobby Only Meant to Maim, or Seriously
+        Injure."
+      </h2>
+    </div>
+    <form method="POST" class="createForm">
+      <h2>Create Post</h2>
+      <ul class="noBullet">
+        <li>
+          <label for="title">Name:</label>
+          <input
+            type="text"
+            class="inputFields"
+            id="name"
+            placeholder="Delphini"
+            name="name"
+            value="{{ name }}"
+          />
+        </li>
+        <li>
+          <label for="key-word">Species:</label>
+          <input
+            type="text"
+            class="inputFields"
+            id="species"
+            placeholder="Human"
+            name="species"
+            value="{{ species }}"
+          />
+        </li>
+        <li>
+          <label for="skin">Skin Colour:</label>
+          <input
+            type="text"
+            class="inputFields"
+            id="skin"
+            placeholder="Black"
+            name="skinColor"
+            value="{{ skinColor }}"
+          />
+        </li>
+        <li>
+          <label for="date">Eye Colour:</label>
+          <input
+            type="text"
+            class="inputFields"
+            id="eye"
+            placeholder="Black"
+            name="eyeColor"
+            value="{{ eyeColor }}"
+          />
+        </li>
+        <li>
+          <label for="image">Creature Image:</label>
+          <input
+            type="text"
+            class="inputFields"
+            id="image"
+            placeholder="http:/..."
+            name="image"
+            value="{{ image }}"
+          />
+        </li>
+        <li>
+          <label for="description">Description:</label>
+          <textarea
+            id="description"
+            class="inputFields"
+            name="description"
+            placeholder="Creature..."
+          >
+{{ description }}</textarea
+          >
+        </li>
+        <li id="center-btn">
+          <button type="submit" id="create-btn">Create</button>
+        </li>
+      </ul>
+    </form>
+  </div>
+</section>

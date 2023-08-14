@@ -1,0 +1,71 @@
+<section id='edit-page'>
+  <div class='editSection'>
+    <div class='info'>
+      <h2>"I've Always Wanted To Use That Spell."</h2>
+    </div>
+    <form method='POST' class='editForm'>
+      <h2>Edit Post</h2>
+      <ul class='noBullet'>
+        <li>
+          <label for='title'>Name:</label>
+          <input
+            type='text'
+            class='inputFields'
+            id='name'
+            name='name'
+            value='{{animal.name}}'
+          />
+        </li>
+        <li>
+          <label for='key-word'>Species:</label>
+          <input
+            type='text'
+            class='inputFields'
+            id='species'
+            name='species'
+            value='{{animal.species}}'
+          />
+        </li>
+        <li>
+          <label for='location'>Skin Colour:</label>
+          <input
+            type='text'
+            class='inputFields'
+            id='skin'
+            name='skinColor'
+            value='{{animal.skinColor}}'
+          />
+        </li>
+        <li>
+          <label for='date'>Eye Colour:</label>
+          <input
+            type='text'
+            class='inputFields'
+            id='eye'
+            name='eyeColor'
+            value='{{animal.eyeColor}}'
+          />
+        </li>
+        <li>
+          <label for='image'>Creature Image:</label>
+          <input
+            type='text'
+            class='inputFields'
+            id='image'
+            name='image'
+            value='{{animal.image}}'
+          />
+        </li>
+        <li>
+          <label for='description'>Description:</label>
+          <textarea id='description' class='inputFields' name='description'>
+            {{animal.description}}</textarea>
+        </li>
+        <input type="hidden" id="owner" name="owner" value="{{ animal.owner }}"
+        <li id='center-btn'>
+          <button type='submit' id='edit-btn'>Edit</button>
+        </li>
+      </ul>
+    </form>
+  </div>
+</section>

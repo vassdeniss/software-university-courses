@@ -1,0 +1,57 @@
+<section id='details-page'>
+  <div class='main_card'>
+    <div class='card_left'>
+      <div class='card_datails'>
+        <h1>Name: {{animal.name}}</h1>
+        <h3>Created by an author: {{ownerName}}</h3>
+        <div class='card_character'>
+          <p class='card-species'>Species: {{animal.species}}</p>
+          <p class='card-skin'>Skin colour: {{animal.skinColor}}</p>
+          <p class='card-eye'>Eye Colour: {{animal.eyeColor}}</p>
+        </div>
+        <p class='disc'>{{animal.description}}</p>
+        {{#if isLogged}}
+          <div class='social-btn'>
+            {{#if isOwner}}
+              <a href='/animals/edit/{{animal._id}}' class='edit-btn'>Edit</a>
+              <a
+                href='/animals/delete/{{animal._id}}'
+                class='del-btn'
+              >Delete</a>
+            {{else if hasVoted}}
+              <p class='thanks-for-vote'>Thanks For Voting</p>
+            {{else}}
+              <a
+                href='/animals/details/{{animal._id}}/vote'
+                class='vote-up'
+              >Vote</a>
+            {{/if}}
+          </div>
+        {{/if}}
+      </div>
+    </div>
+    <div class='card_right'>
+      <img src='{{animal.image}}' alt='{{animal.name}}' />
+    </div>
+  </div>
+</section>
+<section id='votes'>
+  <div class='vote-info'>
+    <div class='card_left'>
+      <div class='card_datails'>
+        <h1>Votes</h1>
+        <div class='card_vote'>
+          <p class='PV'>Total rating of votes: {{votes}}</p>
+        </div>
+        <p class='disc'>
+          {{#if voteEmails}}
+            People who voted for the post -
+            {{voteEmails}}
+          {{else}}
+            People who voted for the post - No one has voted yet.
+          {{/if}}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

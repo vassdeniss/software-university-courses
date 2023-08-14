@@ -1,0 +1,172 @@
+html {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+#box {
+    height: auto;
+    width: auto;
+}
+
+body {
+    position: relative;
+    min-height: 100vh;
+}
+
+main {
+    padding-bottom: 5em;
+}
+
+body {
+    background: url(../img/background.jpg);
+    background-position: 20% 82%;
+    backdrop-filter: blur(4px);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    
+}
+
+nav,
+footer {
+    background-color: #22333B;
+    width: 100%;
+    display: flex;
+    font-size: 1.5rem;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+    padding: 0rem 2rem 0 3rem;
+    margin: 0%;
+    height: 70px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.01);
+}
+
+::-webkit-scrollbar-thumb {
+    background: #4d6d72;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #4d6d72;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav ul {
+    margin: 0 0 0 auto;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 0.8em;
+}
+
+nav h1 {
+    color: white;
+}
+
+nav a {
+    text-decoration: none;
+    border-radius: 50%;
+    padding: 0.5em;
+    color: white;
+    text-transform: uppercase;
+}
+
+nav>img {
+    width: 150px;
+    height: 50px;
+    margin-left: 10px;
+    background-image: red;
+}
+
+nav a:hover {
+    font-weight: normal;
+    height: 30px;
+    border-radius: 10%;
+    background-color: #364236;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    height: 40px;
+    font-size: 20px;
+    width: 100%;
+    color: white;
+    padding: 0.7em 1em;
+}
+
+.error-container {
+    position: fixed;
+    right: 5em;
+    min-width: 80px;
+    display: block;
+    z-index: 11111;
+    top: 13%;
+    text-align: center;
+    border-radius: 0.5rem;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-weight: bold;
+    height: auto;
+    width: 300px;
+    padding: 1em;
+}
+
+.error-container>p {
+    background: #22333B;
+    font-size: 18px;
+    padding: 10px;
+    height: auto;
+}
+
+.error-container {
+    -moz-animation: cssAnimation 0s ease-in 2s forwards;
+    /* Firefox */
+    -webkit-animation: cssAnimation 0s ease-in 2s forwards;
+    /* Safari and Chrome */
+    -o-animation: cssAnimation 0s ease-in 2s forwards;
+    /* Opera */
+    animation: cssAnimation 0s ease-in 2s forwards;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+
+@keyframes cssAnimation {
+    to {
+        width: 0;
+        height: 0;
+        overflow: hidden;
+        padding: 0;
+    }
+}
+
+@-webkit-keyframes cssAnimation {
+    to {
+        width: 0;
+        height: 0;
+        visibility: hidden;
+        padding: 0;
+    }
+}

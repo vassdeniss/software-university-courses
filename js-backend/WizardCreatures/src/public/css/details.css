@@ -1,0 +1,245 @@
+#details-page {
+    margin-top: 7.5em;
+    left: 50%;
+}
+
+.main_card {
+    color: #fff;
+    height: 500px auto;
+    margin: 50px auto;
+    display: flex;
+    left: 55%;
+    max-width: 950px;
+    background: #e4a1a9;
+    background: -webkit-linear-gradient(to right, #03434C, rgb(179, 91, 98));
+    background: -webkit-gradient(linear, left top, right top, from(#03434C), to(rgb(#08272C)));
+    background: -webkit-linear-gradient(left, #03434C, #08272C);
+    background: -o-linear-gradient(left, #03434C, #08272C);
+    background: linear-gradient(to right, #03434C, #08272C);
+    -webkit-box-shadow: 0 0 40px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.3);
+}
+
+.card_left {
+    width: 570px;
+}
+
+.card_datails {
+    width: 96%;
+    padding: 50px;
+    margin-top: -25px;
+}
+
+.card_datails h1 {
+    font-size: 29px;
+    padding-bottom: 8px;
+}
+
+.card_right img {
+    height: 100%;
+    width: 420px;
+    border-radius: 2px;
+}
+
+.card_character {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: 27px;
+    margin-bottom: 20px;
+}
+
+.PG,
+.card-species,
+.card-skin,
+.card-eye {
+    color: rgb(223, 210, 210);
+    padding: 8px;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+.PG {
+    /*background: #92FE9D;*/
+    background: rgba(116, 153, 226, 0.89);
+    -webkit-box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+}
+
+.disc {
+    font-weight: 100;
+    font-size: 17.5px;
+    line-height: 27px;
+}
+
+.social-btn {
+    margin-left: -10px;
+    margin-top: 2em;
+}
+
+.social-btn>.edit-btn,
+.del-btn,
+.vote-up,
+.thanks-for-vote {
+    color: black;
+    font-weight: bold;
+    border: none;
+    padding: 14px;
+    outline: none;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 40px;
+    margin-left: 10px;
+    border-radius: 12px;
+    -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    -webkit-transition: 300ms ease-in-out;
+    -o-transition: 200ms ease-in-out;
+    transition: 200ms ease-in-out;
+}
+
+.del-btn {
+    background-color: #C6AC8F;
+}
+
+.edit-btn {
+    background-color: #C6AC8F;
+}
+
+.vote-up {
+    background-color: #C6AC8F;
+}
+
+.thanks-for-vote {
+    width: 185px;
+    font-weight: bold;
+    background-color: #EAE0D5;
+}
+
+.edit-btn:hover,
+.del-btn:hover,
+.vote-up:hover,
+.vote-down:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.card {
+    margin-left: 4em;
+    width: 420px;
+    height: 510px;
+    background: white;
+    text-decoration: none;
+    color: #444;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 0;
+    transition: all .1s ease-in;
+}
+
+.thumb>img {
+    height: 370px;
+    width: 100%;
+}
+
+.card:hover {
+    top: -2px;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+}
+
+article {
+    padding: 28px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+p {
+    flex: 1;
+    line-height: 1.4;
+}
+
+span {
+    font-size: 12px;
+    font-weight: bold;
+    color: #999;
+    text-transform: uppercase;
+    letter-spacing: .05em;
+    margin: 2em 0 0 0;
+}
+
+.thumb {
+    max-height: 350px;
+    /*   padding-bottom: 40%;*/
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+}
+
+#votes {
+    margin-top: 3em;
+    left: 50%;
+}
+
+.vote-info {
+    color: #fff;
+    height: 200px auto;
+    margin: 50px auto;
+    display: flex;
+    max-width: 950px;
+    background: #e4a1a9;
+    background: -webkit-linear-gradient(to right, #03434C, rgb(179, 91, 98));
+    background: -webkit-gradient(linear, left top, right top, from(#03434C), to(rgb(#08272C)));
+    background: -webkit-linear-gradient(left, #03434C, #08272C);
+    background: -o-linear-gradient(left, #03434C, #08272C);
+    background: linear-gradient(to right, #03434C, #08272C);
+    -webkit-box-shadow: 0 0 40px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.3);
+}
+
+.card_vote {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    margin-top: 6px;
+    margin-left: 2em;
+    margin-bottom: 25px;
+}
+
+.PV {
+    color: black;
+    background: #EAE0D5;
+    -webkit-box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+    font-size: 18px;
+}
+
+.NV {
+    background: rgba(116, 153, 226, 0.89);
+    -webkit-box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+    font-size: 18.5px;
+}
+
+.PV,
+.NV {
+    color: fff;
+    max-width: 300px;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 15px;
+    margin-left: 10px;
+}
+

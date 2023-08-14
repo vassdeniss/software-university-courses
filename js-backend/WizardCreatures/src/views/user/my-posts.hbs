@@ -1,0 +1,27 @@
+<section id='my-posts'>
+  <h1>My post</h1>
+  <div class='my-container'>
+    {{#each animals}}
+      <div class='my-card'>
+        <div class='card-header'>
+          <img src='{{image}}' />
+        </div>
+        <div class='card-body'>
+          <span class='tag tag-teal'>Species: {{species}}</span>
+          <h4>Name: {{name}}</h4>
+          <div class='user'>
+            <div class='user-info'>
+              <h5>Author: {{../ownerName}}</h5>
+              <small>Rating of votes: {{votes.length}}</small>
+              <a href='/animals/details/{{_id}}' class='details_btn'>Details</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    {{else}}
+      <div class='no-posts'>
+        <p class='no-offer'>There are no own posts yet...</p>
+      </div>
+    {{/each}}
+  </div>
+</section>

@@ -1,0 +1,136 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.loginSection {
+    background: url(../img/form-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    width: 740px;
+    height: 370px auto;
+    margin-top: 7em;
+    right: 50%;
+    text-align: center;
+    display: flex;
+    color: white;
+    box-shadow: 3px 10px 20px 5px rgba(0, 0, 0, .5);
+}
+
+.signupSection {
+    background: url(../img/form-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    width: 740px;
+    height: 600px auto;
+    margin-top: 2em;
+    left: 35%;
+    text-align: center;
+    display: flex;
+    color: white;
+    box-shadow: 3px 10px 20px 5px rgba(0, 0, 0, .5);
+}
+
+.info {
+    width: 250px;
+    background: rgba(20, 20, 20, .8);
+    padding: 55px 5px;
+    border-right: 5px solid rgba(30, 30, 30, .8);
+}
+
+.info>h2 {
+    padding-top: 5.5em;
+    font-weight: 300;
+    font-size: 23px;
+}
+
+.info>p {
+    margin-top: 2px;
+    font-size: 18px;
+}
+
+.loginForm {
+    width: 580px;
+    padding: 30px 0;
+    background: rgba(20, 40, 40, .8);
+    transition: .2s;
+}
+
+.signupForm {
+    width: 540px;
+    padding: 30px 0;
+    background: rgba(20, 40, 40, .8);
+    transition: .2s;
+}
+
+.signupForm>h2 {
+    font-weight: 350;
+    font-size: 27px;
+    margin-bottom: 0.8em;
+}
+
+.loginForm>h2 {
+    font-weight: 350;
+    font-size: 27px;
+    margin-bottom: 0.8em;
+}
+
+.inputFields {
+    margin: 18px 0;
+    font-size: 19px;
+    padding: 10px;
+    width: 270px;
+    border: 1px solid rgba(10, 180, 180, 1);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: rgba(20, 20, 20, .2);
+    color: white;
+    outline: none;
+}
+
+.noBullet {
+    list-style-type: none;
+    padding: 0;
+}
+
+#join-btn,
+#login-btn {
+    border: 1px solid rgba(10, 180, 180, 1);
+    background: rgba(20, 20, 20, .6);
+    font-size: 18px;
+    color: white;
+    margin-top: 20px;
+    padding: 10px 43px;
+    cursor: pointer;
+    transition: .4s;
+}
+
+#join-btn:hover,
+#login-btn:hover {
+    background: rgba(20, 20, 20, .8);
+    padding: 10px 80px;
+}
+
+label {
+    display: block;
+    width: 100%;
+    margin-top: 0.6em;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    font-size: 17px;
+}
+
+label {
+    margin-bottom: -0.5em;
+}
+
+label:nth-of-type(2) {
+    margin-top: 3em;
+}

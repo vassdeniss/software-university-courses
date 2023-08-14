@@ -1,0 +1,49 @@
+.full-screen {
+  background-color: #081f27;
+  width: 100%;
+  margin-top: 3em;
+  height: 530px;
+  color: white;
+  font-family: "Arial Black";
+  text-align: center;
+}
+
+.con-not-found {
+  padding-top: 2em;
+  padding: auto;
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.con-not-found .voldemor-img img {
+    width: 100%;
+}
+
+.error-num{
+    font-size:100px;
+}
+
+.con-not-found  p {
+  margin-bottom: 2em;
+  margin-top: 1em;
+  font-size: 30px;
+  color: white;
+}
+
+.con-not-found .error-message > p > a {
+  color: #72a4ab;
+  font-weight: bold;
+  font-size: 30px;
+  font-variant: small-caps;
+  text-decoration: rgb(247, 218, 218);
+}
+
+.con-not-found .error-message > p > a:hover {
+  color: lightgray;
+}
+
+.error-message {
+    margin-top: 3em;
+}
