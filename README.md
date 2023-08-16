@@ -4,7 +4,7 @@
   - Attendance: 03 July 2021 / 13 August 2023
   - Diplomas:
     - [C# Web Developer](https://softuni.bg/certificates/details/169762/a94c5837)
-  - Credits: 189
+  - Credits: 201
   - Average Software Engineering Grade: 6.00 / 6.00
   - Average Open Courses Grade: 6.00 / 6.00
 
@@ -91,8 +91,8 @@
 - Software Engineering & DevOps
 
   - Attendance: 20 June 2023 / 12 August 2023
-  - Certificate: N/A
-  - Grade: N/A
+  - Certificate: [Yes](https://softuni.bg/certificates/details/183235/28a300f8)
+  - Grade: 6.00 / 6.00
 
 - [Angular](https://github.com/vassdeniss/Legoview-Angular)
 
