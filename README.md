@@ -3,7 +3,9 @@
 - [Software University](https://softuni.bg/)
   - Attendance: 03 July 2021 / 13 August 2023
   - Diplomas:
+    - [C# Full-Stack Developer](https://softuni.bg/certificates/details/185059/ecca5fe4)
     - [C# Web Developer](https://softuni.bg/certificates/details/169762/a94c5837)
+    - [Javascript Web Developer](https://softuni.bg/certificates/details/185265/b217f706)
   - Credits: 201
   - Average Software Engineering Grade: 6.00 / 6.00
   - Average Open Courses Grade: 6.00 / 6.00
